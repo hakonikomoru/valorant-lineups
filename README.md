@@ -13,6 +13,15 @@ VALORANT のスキル定点（ラインナップ）を紹介する YouTube 動�
 - SEO: エージェント × マップ・特集 × マップごとのページ（約 340 ページ）を書き出し、それぞれにタイトル・説明文・canonical・OGP・パンくず（構造化データ）と動画一覧のリンクを入れています。`sitemap.xml`・`robots.txt` も生成します
 - スマホ表示に対応。エージェント・マップの一覧はスワイプ、PC ではホイールや左右の矢印ボタンで横に送れます
 
+## 対応ブラウザ
+
+2020 年ごろ以降のブラウザで動くようにしています（iOS / iPadOS 14 以降の Safari、Android の Chrome 85 以降、Samsung Internet 14 以降、PC の Chrome・Edge・Firefox・Safari）。
+
+- JavaScript は ES2021 までの書き方にしています（トップレベル await・`Map.groupBy` などは使わない）。確認: `npx es-check es2021 assets/js/*.js --module`
+- `<dialog>` が無いブラウザ（Safari 15.4 未満など）は `app.js` の `shimDialog` で代わりに動かします
+- `aspect-ratio` が無いブラウザ（Safari 15 未満など）は `style.css` の `@supports not (aspect-ratio: 1 / 1)` で縦横比を作ります
+- それより古いブラウザでは、ページに書き出してある動画タイトルのリンク一覧が表示されます
+
 ## 使い方
 
 ```sh

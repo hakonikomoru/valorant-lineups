@@ -38,12 +38,8 @@ const $ = (sel) => document.querySelector(sel);
 const esc = (s) =>
   String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
-const [meta, videos, posts] = await Promise.all([
-  fetch('/data/meta.json').then((r) => r.json()),
-  fetch('/data/videos.json').then((r) => r.json()),
-  // X ポストはまだ無い場合もあるので失敗しても空で続ける
-  fetch('/data/posts.json').then((r) => (r.ok ? r.json() : [])).catch(() => []),
-]);
+// データは main.js が読み込んでから、この app.js を読み込む
+const { meta, videos, posts } = window.__LINEUP_DATA__;
 for (const v of videos) v.search = `${v.title} ${v.channel}`.toLowerCase();
 for (const p of posts) p.search = `${p.text} ${p.author} @${p.handle}`.toLowerCase();
 
@@ -387,6 +383,21 @@ function render(push = false) {
 }
 
 /* ---------- プレイヤー ---------- */
+// <dialog> が無いブラウザ（Safari 15.4 未満など）向けに、showModal / close と Esc で閉じる動きを足す
+function shimDialog(dialog) {
+  if (typeof dialog.showModal === 'function') return;
+  dialog.classList.add('dialog-shim');
+  dialog.showModal = () => dialog.setAttribute('open', '');
+  dialog.close = () => {
+    if (!dialog.hasAttribute('open')) return;
+    dialog.removeAttribute('open');
+    dialog.dispatchEvent(new Event('close'));
+  };
+  document.addEventListener('keydown', (e) => e.key === 'Escape' && dialog.close());
+}
+shimDialog($('#player'));
+shimDialog($('#post-viewer'));
+
 const player = $('#player');
 function openPlayer(id) {
   const v = videos.find((x) => x.id === id);
