@@ -5,17 +5,19 @@ VALORANT のスキル定点（ラインナップ）を紹介する YouTube 動�
 - 21 エージェント × 13 マップ、計 1,000 本以上の動画を収録（すべて YouTube oEmbed で実在を確認済み）
 - エージェントタブはロール別（イニシエーター／コントローラー／センチネル／デュエリスト）に並びます
 - マップタブは現在のコンペのマッププール（`POOL`）が先頭、プール外のマップがその後に並びます
-- 「モロトフ定点」「ショート定点」の特集タブで、エージェントを横断して空爆系の定点や YouTube ショートをまとめて見られます（エージェント・マップでさらに絞り込み可）
+- 「モロトフ定点」「YouTubeショート」の特集タブで、エージェントを横断して空爆系の定点や YouTube ショートをまとめて見られます（エージェント・マップでさらに絞り込み可）
 - 「攻め／守り／設置後／リテイク／ワンウェイ／セットアップ／モロトフ」のタグ、言語、キーワードで絞り込めます
 - 「X ポスト」タブで X（旧 Twitter）の定点ポスト（動画付きのものだけ）も見られます。エージェント別の表示でも動画の下に同じエージェント・マップのポストが並びます
 - 動画はサイト内のモーダルで再生します（youtube.com の埋め込み。youtube-nocookie だとログイン中でも bot 確認が出やすいため）。X のポストは公式の埋め込み（widgets.js）で表示します
-- URL は `#/sova/ascent`（特集は `#/molly/ascent/viper`、`#/shorts`）のように表示状態を持つので、そのまま共有できます
+- URL は `/sova/ascent`（特集は `/molly/ascent/viper`、`/shorts`）のように表示状態を持つので、そのまま共有できます（以前の `#/sova/ascent` 形式のリンクも自動で新しい URL に移ります）
+- SEO: エージェント × マップ・特集 × マップごとのページ（約 340 ページ）を書き出し、それぞれにタイトル・説明文・canonical・OGP・パンくず（構造化データ）と動画一覧のリンクを入れています。`sitemap.xml`・`robots.txt` も生成します
 - スマホ表示に対応。エージェント・マップの一覧はスワイプ、PC ではホイールや左右の矢印ボタンで横に送れます
 
 ## 使い方
 
 ```sh
 npm run dev      # http://localhost:5173 で起動（依存パッケージなし）
+npm run build:site   # 公開用のページを _site/ に書き出す（Vercel と同じもの）
 ```
 
 `fetch` で JSON を読むため、`index.html` を直接ファイルとして開くのではなく HTTP サーバー経由で表示してください。GitHub Pages などの静的ホスティングにそのまま置けます。
@@ -24,7 +26,7 @@ npm run dev      # http://localhost:5173 で起動（依存パッケージなし
 
 https://lineup-archive.vercel.app で公開しています。
 
-- **公開**: Vercel（komolab チームの `lineup-archive` プロジェクト）が GitHub の `main` への push を検知して自動でデプロイします。公開するファイルは [vercel.json](vercel.json) の `buildCommand` でまとめています（index.html・assets・生成済みの JSON のみ）
+- **公開**: Vercel（komolab チームの `lineup-archive` プロジェクト）が GitHub の `main` への push を検知して自動でデプロイします。ビルドは [scripts/build-site.mjs](scripts/build-site.mjs) で、ページごとの HTML・sitemap.xml・robots.txt を `_site/` に書き出します（公開するのは index.html・assets・生成済みの JSON とそれらのページだけ）
 - **自動更新**: GitHub Actions（[.github/workflows/site.yml](.github/workflows/site.yml)）が毎日 4:00（日本時間）に次を実行し、変更があればコミットします（その push で Vercel が公開）
 
 1. `npm run meta` … 新エージェント・新マップの反映（マッププールは `COMPETITIVE_POOL` を手で更新）

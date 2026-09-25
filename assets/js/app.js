@@ -1,3 +1,5 @@
+import { SITE, ALL, FEATURE_NAMES, routePath, parsePath, seoFor } from './seo.js';
+
 const TAGS = {
   attack: '攻め',
   defense: '守り',
@@ -11,19 +13,19 @@ const TAGS = {
 const FEATURES = {
   molly: {
     title: 'MOLLY LINEUPS',
-    name: 'モロトフ定点',
+    name: FEATURE_NAMES.molly,
     desc: 'ブリムストーンのインセンディアリー、ヴァイパーのスネークバイト、キルジョイのナノスワーム、KAY/O のフラグ/メントなど、設置後の解除阻止や遅延に使う空爆系の定点をエージェント横断でまとめています。',
     match: (v) => v.tags.includes('molly'),
   },
   shorts: {
-    title: 'SHORTS',
-    name: 'ショート定点',
+    title: 'YOUTUBE SHORTS',
+    name: FEATURE_NAMES.shorts,
     desc: '1 本あたり数十秒で立ち位置と照準だけをサクッと確認できる、YouTube ショートの定点動画です。',
     match: (v) => v.short,
   },
   posts: {
     title: 'X POSTS',
-    name: 'X ポスト',
+    name: FEATURE_NAMES.posts,
     desc: 'X（旧 Twitter）に投稿された定点のクリップ（動画付きのポストのみ）です。動画より短く、立ち位置と照準だけを手早く確認できます。カードを押すとポストをその場で表示します。',
     items: () => posts,
   },
@@ -31,17 +33,16 @@ const FEATURES = {
 const itemsOf = (key) => FEATURES[key].items?.() ?? videos.filter(FEATURES[key].match);
 const unit = () => (state.view === 'posts' ? '件' : '本');
 const ROLE_LABEL = { Initiator: 'INITIATOR', Controller: 'CONTROLLER', Sentinel: 'SENTINEL', Duelist: 'DUELIST' };
-const ALL = 'all';
 
 const $ = (sel) => document.querySelector(sel);
 const esc = (s) =>
   String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
 const [meta, videos, posts] = await Promise.all([
-  fetch('data/meta.json').then((r) => r.json()),
-  fetch('data/videos.json').then((r) => r.json()),
+  fetch('/data/meta.json').then((r) => r.json()),
+  fetch('/data/videos.json').then((r) => r.json()),
   // X ポストはまだ無い場合もあるので失敗しても空で続ける
-  fetch('data/posts.json').then((r) => (r.ok ? r.json() : [])).catch(() => []),
+  fetch('/data/posts.json').then((r) => (r.ok ? r.json() : [])).catch(() => []),
 ]);
 for (const v of videos) v.search = `${v.title} ${v.channel}`.toLowerCase();
 for (const p of posts) p.search = `${p.text} ${p.author} @${p.handle}`.toLowerCase();
@@ -71,9 +72,14 @@ function revealSelected(list) {
 }
 const featureVideos = () => (state.view === 'agent' ? videos : itemsOf(state.view));
 
-/* ---------- ルーティング: #/<agent>/<map> または #/<feature>/<map>/<agent> ---------- */
-function readHash() {
-  const [first, map, agent] = location.hash.replace(/^#\/?/, '').split('/');
+/* ---------- ルーティング: /<agent>/<map> または /<feature>/<map>/<agent> ---------- */
+// トップページ（/）はエージェントを選ぶまで URL を / のままにする（検索結果に出るトップの URL を保つため）
+let atHome = false;
+function readRoute() {
+  // 以前の #/sova/ascent 形式のリンクもそのまま開けるようにする
+  const legacy = location.hash.startsWith('#/') ? location.hash.slice(1) : '';
+  const { first, map, agent } = parsePath(legacy || location.pathname);
+  atHome = !first;
   if (FEATURES[first]) {
     state.view = first;
     state.agent = featureVideos().some((v) => v.agents.includes(agent)) ? agent : ALL;
@@ -83,13 +89,27 @@ function readHash() {
   }
   state.map = isMap(map) ? map : ALL;
 }
-function writeHash() {
-  const parts =
-    state.view === 'agent'
-      ? [state.agent, state.map === ALL ? '' : state.map]
-      : [state.view, state.map === ALL && state.agent === ALL ? '' : state.map, state.agent === ALL ? '' : state.agent];
-  const hash = `#/${parts.filter(Boolean).join('/')}`.replace(/\/$/, '');
-  if (location.hash !== hash) history.replaceState(null, '', hash);
+const currentPath = () => (atHome ? '/' : routePath(state));
+// 絞り込みを変えたら URL を書き換える（戻るボタンで前の表示に戻れるように履歴を積む）
+function writeRoute(push) {
+  const path = currentPath();
+  if (location.pathname === path && !location.hash) return;
+  history[push ? 'pushState' : 'replaceState'](null, '', path);
+}
+
+// タイトル・説明文・canonical・OGP をページに合わせて書き換える
+function setMeta(count) {
+  const { title, description } = seoFor({ ...state, home: atHome }, meta, count);
+  const url = SITE.url + currentPath();
+  document.title = title;
+  for (const [sel, attr, value] of [
+    ['meta[name="description"]', 'content', description],
+    ['meta[property="og:title"]', 'content', title],
+    ['meta[property="og:description"]', 'content', description],
+    ['meta[property="og:url"]', 'content', url],
+    ['link[rel="canonical"]', 'href', url],
+  ])
+    document.querySelector(sel)?.setAttribute(attr, value);
 }
 
 /* ---------- 描画 ---------- */
@@ -353,8 +373,9 @@ function renderGrid() {
     .join('');
 }
 
-function render() {
-  writeHash();
+function render(push = false) {
+  if (push) atHome = false;
+  writeRoute(push);
   renderViewTabs();
   renderAgentRail();
   renderHero();
@@ -363,9 +384,7 @@ function render() {
   renderGrid();
   renderPostSection();
   $('#search').placeholder = state.view === 'posts' ? '本文・アカウントで検索' : 'タイトル・チャンネルで検索';
-  const a = agentBySlug.get(state.agent);
-  const heading = state.view === 'agent' ? `${a.name} のスキル定点` : `${FEATURES[state.view].name}${a ? `（${a.name}）` : ''}`;
-  document.title = `${heading} | VALORANT スキル定点アーカイブ`;
+  setMeta(currentVideos().length);
 }
 
 /* ---------- プレイヤー ---------- */
@@ -467,7 +486,7 @@ $('#view-tabs').addEventListener('click', (e) => {
   state.agent = featureVideos().some((v) => v.agents.includes(prev)) ? prev : state.view === 'agent' ? agents[0].slug : ALL;
   state.map = ALL;
   state.tags.clear();
-  render();
+  render(true);
 });
 
 $('#agent-rail').addEventListener('click', (e) => {
@@ -477,7 +496,7 @@ $('#agent-rail').addEventListener('click', (e) => {
   // 同じマップに動画があればマップタブを維持する
   if (!featureVideos().some((v) => matchesAgent(v) && matchesMap(v))) state.map = ALL;
   state.tags.clear();
-  render();
+  render(true);
 });
 
 $('#map-tabs').addEventListener('click', (e) => {
@@ -485,7 +504,7 @@ $('#map-tabs').addEventListener('click', (e) => {
   if (!btn || btn.disabled) return;
   state.map = btn.dataset.map;
   state.tags.clear();
-  render();
+  render(true);
 });
 
 $('#tag-chips').addEventListener('click', (e) => {
@@ -523,18 +542,18 @@ $('#post-section').addEventListener('click', (e) => {
   if (e.target.closest('[data-view-posts]')) {
     state.view = 'posts';
     state.tags.clear();
-    render();
+    render(true);
     $('#view-tabs').scrollIntoView({ behavior: 'smooth' });
   }
 });
 
-window.addEventListener('hashchange', () => {
-  readHash();
+window.addEventListener('popstate', () => {
+  readRoute();
   render();
 });
 
 /* ---------- 初期化 ---------- */
 $('#header-stats').innerHTML = `<strong>${videos.length}</strong> 本${posts.length ? ` ・ <strong>${posts.length}</strong> ポスト` : ''} ・ <strong>${agents.length}</strong> エージェント`;
 $('#footer-meta').textContent = `エージェント・マップ情報: valorant-api.com（${meta.gameVersion}）`;
-readHash();
+readRoute();
 render();

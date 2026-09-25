@@ -14,7 +14,8 @@
     "x-media": "node scripts/check-x-media.mjs",
     "discover": "node scripts/discover-videos.mjs",
     "channels": "node scripts/add-channel.mjs",
-    "build": "npm run meta && npm run merge"
+    "build": "npm run meta && npm run merge",
+    "build:site": "node scripts/build-site.mjs"
   },
   "engines": { "node": ">=22" }
 }
