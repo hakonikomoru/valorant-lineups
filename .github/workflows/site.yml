@@ -1,0 +1,91 @@
+# サイトの自動更新と GitHub Pages への公開
+# - 毎日 4:00（日本時間）: 新着動画の検索・リンク切れの削除・エージェント/マップ情報の更新 → 変更があればコミット → 公開
+# - main への push・手動実行（Actions タブの Run workflow）でも公開する
+name: 更新と公開
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # push のときはデータ更新をせず、そのまま公開する
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: エージェント・マップ情報の更新
+        run: npm run meta
+
+      - name: 新着動画の検索
+        run: npm run discover
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      # 以下は外部サービスの一時的な不調で失敗しても、他の更新は続ける
+      - name: ショート動画の判定
+        run: npm run shorts
+        continue-on-error: true
+
+      - name: リンク切れの削除
+        run: npm run verify -- --prune
+        continue-on-error: true
+
+      - name: X ポストの動画情報の更新
+        run: npm run x-media -- --prune
+        continue-on-error: true
+
+      - name: videos.json / posts.json の生成
+        run: npm run merge
+
+      - name: 変更をコミット
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          if git diff --cached --quiet; then
+            echo '変更なし'
+          else
+            git commit -m "データの自動更新 ($(TZ=Asia/Tokyo date +%F))"
+            git push
+          fi
+
+  deploy:
+    needs: update
+    # push のとき（update がスキップ）も、更新が成功したときも公開する
+    if: always() && needs.update.result != 'failure'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: 公開するファイルをまとめる
+        run: |
+          mkdir -p _site/data
+          cp -r index.html assets _site/
+          cp data/meta.json data/videos.json data/posts.json _site/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

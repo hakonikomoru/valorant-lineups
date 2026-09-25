@@ -1,0 +1,19 @@
+{
+  "name": "valorant-lineups",
+  "version": "1.0.0",
+  "private": true,
+  "author": "komolab",
+  "description": "VALORANT のスキル定点 YouTube 動画をエージェント別・マップ別にまとめた静的サイト",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "meta": "node scripts/build-meta.mjs",
+    "merge": "node scripts/merge-videos.mjs",
+    "verify": "node scripts/verify-videos.mjs",
+    "shorts": "node scripts/detect-shorts.mjs",
+    "x-media": "node scripts/check-x-media.mjs",
+    "discover": "node scripts/discover-videos.mjs",
+    "build": "npm run meta && npm run merge"
+  },
+  "engines": { "node": ">=22" }
+}

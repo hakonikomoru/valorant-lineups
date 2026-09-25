@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VALORANT スキル定点アーカイブ</title>
+  <meta name="description" content="VALORANT のスキル定点（ラインナップ）紹介 YouTube 動画をエージェント別・マップ別にまとめたリンク集。">
+  <meta name="author" content="komolab">
+  <meta name="theme-color" content="#0F1923">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow:wght@400;600;700&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#/">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-text">
+        <span class="brand-title">LINEUP ARCHIVE</span>
+        <span class="brand-sub">VALORANT スキル定点アーカイブ</span>
+      </span>
+    </a>
+    <p class="header-stats" id="header-stats"></p>
+  </header>
+
+  <main>
+    <nav class="view-tabs" id="view-tabs" role="tablist" aria-label="表示"></nav>
+
+    <div class="scroller">
+      <nav class="agent-rail" id="agent-rail" aria-label="エージェント"></nav>
+    </div>
+
+    <section class="agent-hero" id="agent-hero" aria-live="polite"></section>
+
+    <div class="scroller scroller-maps">
+      <nav class="map-tabs" id="map-tabs" aria-label="マップ" role="tablist"></nav>
+    </div>
+
+    <section class="toolbar" aria-label="絞り込み">
+      <div class="chips" id="tag-chips"></div>
+      <div class="toolbar-right">
+        <div class="segmented" id="lang-filter" role="radiogroup" aria-label="言語">
+          <button type="button" data-lang="" aria-pressed="true">すべて</button>
+          <button type="button" data-lang="ja" aria-pressed="false">日本語</button>
+          <button type="button" data-lang="en" aria-pressed="false">English</button>
+        </div>
+        <input class="search" id="search" type="search" placeholder="タイトル・チャンネルで検索" aria-label="検索">
+      </div>
+    </section>
+
+    <p class="result-count" id="result-count"></p>
+    <section class="video-grid" id="video-grid"></section>
+
+    <section class="post-section" id="post-section" aria-label="X のポスト" hidden></section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-credit">制作: <strong>komolab</strong></p>
+    <p>動画・ポストの権利は各投稿者に帰属します。動画は YouTube、ポストは X の埋め込み機能で表示しています。</p>
+    <p>本サイトは Riot Games の承認を受けたものではなく、Riot Games および Riot Games のプロパティの制作・管理に正式に関与する人物の見解や意見を反映するものではありません。Riot Games および関連するプロパティは Riot Games, Inc. の商標または登録商標です。</p>
+    <p class="footer-meta" id="footer-meta"></p>
+  </footer>
+
+  <dialog class="player" id="player">
+    <div class="player-inner">
+      <div class="player-frame"><iframe id="player-iframe" title="YouTube 動画" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
+      <div class="player-info">
+        <div>
+          <h2 id="player-title"></h2>
+          <p id="player-channel"></p>
+        </div>
+        <div class="player-actions">
+          <a id="player-link" class="btn" target="_blank" rel="noopener">YouTube で開く</a>
+          <button type="button" class="btn btn-ghost" id="player-close">閉じる</button>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="player post-viewer" id="post-viewer">
+    <div class="post-embed" id="post-embed"></div>
+    <div class="player-info">
+      <p>X（旧 Twitter）のポストを埋め込み表示しています。</p>
+      <div class="player-actions">
+        <a id="post-link" class="btn" target="_blank" rel="noopener">X で開く</a>
+        <button type="button" class="btn btn-ghost" id="post-close">閉じる</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

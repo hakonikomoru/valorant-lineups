@@ -1,0 +1,1269 @@
+{
+  "gameVersion": "release-13.06-shipping-13-5435758",
+  "generatedAt": "2026-09-24T21:16:55.315Z",
+  "agents": [
+    {
+      "slug": "breach",
+      "uuid": "5f8d3a7f-467b-97f3-062c-13acf203c006",
+      "name": "ブリーチ",
+      "nameEn": "Breach",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/fullportrait.png",
+      "gradient": [
+        "#81331a",
+        "#0f1923",
+        "#523a23",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "アフターショック",
+          "icon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "フラッシュポイント",
+          "icon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "フォールトライン",
+          "icon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ローリングサンダー",
+          "icon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "fade",
+      "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+      "name": "フェイド",
+      "nameEn": "Fade",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+      "gradient": [
+        "#1d2846",
+        "#0f1923",
+        "#18344c",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "プラウラー",
+          "icon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "シーズ",
+          "icon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ホウント",
+          "icon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ナイトフォール",
+          "icon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "gekko",
+      "uuid": "e370fa57-4757-3604-3648-499e1f642d3f",
+      "name": "ゲッコー",
+      "nameEn": "Gekko",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/fullportrait.png",
+      "gradient": [
+        "#371c5c",
+        "#0f1923",
+        "#3a2656",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "モッシュピット",
+          "icon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ウィングマン",
+          "icon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ディジー",
+          "icon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "スラッシュ",
+          "icon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "kayo",
+      "uuid": "601dbbe7-43ce-be57-2a40-4abd24953621",
+      "name": "KAY/O",
+      "nameEn": "KAY/O",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+      "gradient": [
+        "#1c2a69",
+        "#0f1923",
+        "#1a1e4b",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "フラグ/メント",
+          "icon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "フラッシュ/ドライブ",
+          "icon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ゼロ/ポイント",
+          "icon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ヌル/コマンド",
+          "icon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "skye",
+      "uuid": "6f2a04ca-43e0-be17-7f36-b3908627744d",
+      "name": "スカイ",
+      "nameEn": "Skye",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/fullportrait.png",
+      "gradient": [
+        "#436a51",
+        "#0f1923",
+        "#4f1413",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "リグロウス",
+          "icon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "トレイルブレイザー",
+          "icon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ガイディングライト",
+          "icon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "シーカー",
+          "icon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "sova",
+      "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+      "name": "ソーヴァ",
+      "nameEn": "Sova",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+      "gradient": [
+        "#355285",
+        "#0f1923",
+        "#101c47",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "オウルドローン",
+          "icon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ショックボルト",
+          "icon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "リコンボルト",
+          "icon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ハンターズフューリー",
+          "icon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "tejo",
+      "uuid": "b444168c-4e35-8076-db47-ef9bf368f384",
+      "name": "テホ",
+      "nameEn": "Tejo",
+      "role": "Initiator",
+      "roleName": "イニシエーター",
+      "icon": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/fullportrait.png",
+      "gradient": [
+        "#80451b",
+        "#0f1923",
+        "#ffffff",
+        "#0f1923"
+      ],
+      "releaseDate": "2025-01-08T22:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ステルスドローン",
+          "icon": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "スペシャルデリバリー",
+          "icon": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "誘導サルヴォ",
+          "icon": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "アルマゲドン",
+          "icon": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "astra",
+      "uuid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
+      "name": "アストラ",
+      "nameEn": "Astra",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+      "gradient": [
+        "#26146c",
+        "#0f1923",
+        "#5210c6",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "グラビティウェル",
+          "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ノヴァパルス",
+          "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ネビュラ / ディシペイト",
+          "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "アストラルフォーム / コズミックディバイド",
+          "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "brimstone",
+      "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+      "name": "ブリムストーン",
+      "nameEn": "Brimstone",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+      "gradient": [
+        "#363c4f",
+        "#0f1923",
+        "#211d21",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "スティムビーコン",
+          "icon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "インセンディアリー",
+          "icon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "スカイスモーク",
+          "icon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "オービタルストライク",
+          "icon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "clove",
+      "uuid": "1dbf2edd-4729-0984-3115-daa5eed44993",
+      "name": "クローヴ",
+      "nameEn": "Clove",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/fullportrait.png",
+      "gradient": [
+        "#4b1d80",
+        "#0f1923",
+        "#c347c7",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ピック・ミー・アップ",
+          "icon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "メドル",
+          "icon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ルース",
+          "icon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ノット・デッド・イェット",
+          "icon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "harbor",
+      "uuid": "95b78ed7-4637-86d9-7e41-71ba8c293152",
+      "name": "ハーバー",
+      "nameEn": "Harbor",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+      "gradient": [
+        "#275146",
+        "#0f1923",
+        "#11434e",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ストームサージ",
+          "icon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ハイタイド",
+          "icon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "コーヴ",
+          "icon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "レコニング",
+          "icon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "miks",
+      "uuid": "7c8a4701-4de6-9355-b254-e09bc2a34b72",
+      "name": "ミクス",
+      "nameEn": "Miks",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/fullportrait.png",
+      "gradient": [
+        "#462b75",
+        "#0f1923",
+        "#344673",
+        "#0f1923"
+      ],
+      "releaseDate": "2026-03-18T15:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "M-パルス",
+          "icon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ハーモナイズ",
+          "icon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ウェーブフォーム",
+          "icon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ベースクエイク",
+          "icon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "omen",
+      "uuid": "8e253930-4c05-31dd-1b6c-968525494517",
+      "name": "オーメン",
+      "nameEn": "Omen",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+      "gradient": [
+        "#433178",
+        "#0f1923",
+        "#344673",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "シュラウドステップ",
+          "icon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "パラノイア",
+          "icon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ダークカヴァー",
+          "icon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "フロム・ザ・シャドウズ",
+          "icon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "viper",
+      "uuid": "707eab51-4836-f488-046a-cda6bf494859",
+      "name": "ヴァイパー",
+      "nameEn": "Viper",
+      "role": "Controller",
+      "roleName": "コントローラー",
+      "icon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/fullportrait.png",
+      "gradient": [
+        "#1a5f46",
+        "#0f1923",
+        "#2c4f5e",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "スネークバイト",
+          "icon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ポイズンクラウド",
+          "icon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "トキシックスクリーン",
+          "icon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ヴァイパーズピット",
+          "icon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "chamber",
+      "uuid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+      "name": "チェンバー",
+      "nameEn": "Chamber",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+      "gradient": [
+        "#20435b",
+        "#0f1923",
+        "#372d2b",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "トレードマーク",
+          "icon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ヘッドハンター",
+          "icon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ランデヴー",
+          "icon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ツール・ド・フォース",
+          "icon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "cypher",
+      "uuid": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+      "name": "サイファー",
+      "nameEn": "Cypher",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/fullportrait.png",
+      "gradient": [
+        "#2f5078",
+        "#0f1923",
+        "#3f3f6c",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "トラップワイヤー",
+          "icon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "サイバーケージ",
+          "icon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "スパイカメラ",
+          "icon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ニューラルセフト",
+          "icon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "deadlock",
+      "uuid": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+      "name": "デッドロック",
+      "nameEn": "Deadlock",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/fullportrait.png",
+      "gradient": [
+        "#425495",
+        "#0f1923",
+        "#221c3d",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "バリアメッシュ",
+          "icon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ソニックセンサー",
+          "icon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "グラヴィネット",
+          "icon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "アナイアレーション",
+          "icon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "killjoy",
+      "uuid": "1e58de9c-4950-5125-93e9-a0aee9f98746",
+      "name": "キルジョイ",
+      "nameEn": "Killjoy",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/fullportrait.png",
+      "gradient": [
+        "#522162",
+        "#0f1923",
+        "#413950",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ナノスワーム",
+          "icon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "アラームボット",
+          "icon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "タレット",
+          "icon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ロックダウン",
+          "icon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "sage",
+      "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+      "name": "セージ",
+      "nameEn": "Sage",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+      "gradient": [
+        "#1f5148",
+        "#0f1923",
+        "#102d23",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "バリアオーブ",
+          "icon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "スロウオーブ",
+          "icon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ヒーリングオーブ",
+          "icon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "リザレクション",
+          "icon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "veto",
+      "uuid": "92eeef5d-43b5-1d4a-8d03-b3927a09034b",
+      "name": "ヴィトー",
+      "nameEn": "Veto",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/fullportrait.png",
+      "gradient": [
+        "#1a5d65",
+        "#0f1923",
+        "#0f1923",
+        "#1a5d65"
+      ],
+      "releaseDate": "2025-10-07T22:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "クロスカット",
+          "icon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "チョークホールド",
+          "icon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "インタセプター",
+          "icon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "エヴォリューション",
+          "icon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "vyse",
+      "uuid": "efba5359-4016-a1e5-7626-b1ae76895940",
+      "name": "ヴァイス",
+      "nameEn": "Vyse",
+      "role": "Sentinel",
+      "roleName": "センチネル",
+      "icon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/fullportrait.png",
+      "gradient": [
+        "#492280",
+        "#0f1923",
+        "#ffffff",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "レーザーヴァイン",
+          "icon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "シアー",
+          "icon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "アークローズ",
+          "icon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "スチールガーデン",
+          "icon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "iso",
+      "uuid": "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
+      "name": "アイソ",
+      "nameEn": "Iso",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/fullportrait.png",
+      "gradient": [
+        "#30336e",
+        "#0f1923",
+        "#20155d",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "コンティンジェンシー",
+          "icon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "アンダーカット",
+          "icon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ダブルタップ",
+          "icon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "キルコントラクト",
+          "icon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "jett",
+      "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+      "name": "ジェット",
+      "nameEn": "Jett",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+      "gradient": [
+        "#25607a",
+        "#0f1923",
+        "#0f1923",
+        "#25607a"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "クラウドバースト",
+          "icon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "アップドラフト",
+          "icon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "テイルウィンド",
+          "icon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ブレードストーム",
+          "icon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "neon",
+      "uuid": "bb2a4828-46eb-8cd1-e765-15848195d751",
+      "name": "ネオン",
+      "nameEn": "Neon",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/fullportrait.png",
+      "gradient": [
+        "#413476",
+        "#0f1923",
+        "#38328e",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ファストレーン",
+          "icon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "リレーボルト",
+          "icon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ハイギア",
+          "icon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "オーバードライブ",
+          "icon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "phoenix",
+      "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+      "name": "フェニックス",
+      "nameEn": "Phoenix",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+      "gradient": [
+        "#74321c",
+        "#0f1923",
+        "#262423",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ブレイズ",
+          "icon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ホットハンド",
+          "icon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "カーブボール",
+          "icon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ラン・イット・バック",
+          "icon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "raze",
+      "uuid": "f94c3b30-42be-e959-889c-5aa313dba261",
+      "name": "レイズ",
+      "nameEn": "Raze",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/fullportrait.png",
+      "gradient": [
+        "#742e1e",
+        "#0f1923",
+        "#2c5942",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "ブームボット",
+          "icon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ブラストパック",
+          "icon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ペイント弾",
+          "icon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ショーストッパー",
+          "icon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "reyna",
+      "uuid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+      "name": "レイナ",
+      "nameEn": "Reyna",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+      "gradient": [
+        "#662d62",
+        "#0f1923",
+        "#2f2664",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "リーア",
+          "icon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "デバウアー",
+          "icon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ディスミス",
+          "icon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "エンプレス",
+          "icon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "waylay",
+      "uuid": "df1cb487-4902-002e-5c17-d28e83e78588",
+      "name": "ウェイレイ",
+      "nameEn": "Waylay",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/fullportrait.png",
+      "gradient": [
+        "#482e61",
+        "#0f1923",
+        "#0f1923",
+        "#482e61"
+      ],
+      "releaseDate": "2025-03-04T22:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "サチュレート",
+          "icon": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ライトスピード",
+          "icon": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "リフラクト",
+          "icon": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "コンバージェントパス",
+          "icon": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "yoru",
+      "uuid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+      "name": "ヨル",
+      "nameEn": "Yoru",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/fullportrait.png",
+      "gradient": [
+        "#222b67",
+        "#0f1923",
+        "#261e4f",
+        "#0f1923"
+      ],
+      "releaseDate": "1970-01-01T00:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "フェイクアウト",
+          "icon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "ブラインドサイド",
+          "icon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ゲートクラッシュ",
+          "icon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "ディメンショナル ドリフト",
+          "icon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/abilities/ultimate/displayicon.png"
+        }
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "slug": "abyss",
+      "uuid": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+      "name": "アビス",
+      "nameEn": "Abyss",
+      "sites": "A/B",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/224b0a95-48b9-f703-1bd8-67aca101a61f/splash.png",
+      "banner": "https://media.valorant-api.com/maps/224b0a95-48b9-f703-1bd8-67aca101a61f/listviewicon.png"
+    },
+    {
+      "slug": "ascent",
+      "uuid": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
+      "name": "アセント",
+      "nameEn": "Ascent",
+      "sites": "A/B",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/splash.png",
+      "banner": "https://media.valorant-api.com/maps/7eaecc1b-4337-bbf6-6ab9-04b8f06b3319/listviewicon.png"
+    },
+    {
+      "slug": "haven",
+      "uuid": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+      "name": "ヘイヴン",
+      "nameEn": "Haven",
+      "sites": "A/B/C",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/splash.png",
+      "banner": "https://media.valorant-api.com/maps/2bee0dc9-4ffe-519b-1cbd-7fbe763a6047/listviewicon.png"
+    },
+    {
+      "slug": "lotus",
+      "uuid": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+      "name": "ロータス",
+      "nameEn": "Lotus",
+      "sites": "A/B/C",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/2fe4ed3a-450a-948b-6d6b-e89a78e680a9/splash.png",
+      "banner": "https://media.valorant-api.com/maps/2fe4ed3a-450a-948b-6d6b-e89a78e680a9/listviewicon.png"
+    },
+    {
+      "slug": "split",
+      "uuid": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+      "name": "スプリット",
+      "nameEn": "Split",
+      "sites": "A/B",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/splash.png",
+      "banner": "https://media.valorant-api.com/maps/d960549e-485c-e861-8d71-aa9d1aed12a2/listviewicon.png"
+    },
+    {
+      "slug": "summit",
+      "uuid": "756da597-416b-c0f2-f47b-afbdf28670bc",
+      "name": "サミット",
+      "nameEn": "Summit",
+      "sites": "A/B",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/756da597-416b-c0f2-f47b-afbdf28670bc/splash.png",
+      "banner": "https://media.valorant-api.com/maps/756da597-416b-c0f2-f47b-afbdf28670bc/listviewicon.png"
+    },
+    {
+      "slug": "sunset",
+      "uuid": "92584fbe-486a-b1b2-9faa-39b0f486b498",
+      "name": "サンセット",
+      "nameEn": "Sunset",
+      "sites": "A/B",
+      "inPool": true,
+      "splash": "https://media.valorant-api.com/maps/92584fbe-486a-b1b2-9faa-39b0f486b498/splash.png",
+      "banner": "https://media.valorant-api.com/maps/92584fbe-486a-b1b2-9faa-39b0f486b498/listviewicon.png"
+    },
+    {
+      "slug": "bind",
+      "uuid": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+      "name": "バインド",
+      "nameEn": "Bind",
+      "sites": "A/B",
+      "inPool": false,
+      "splash": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/splash.png",
+      "banner": "https://media.valorant-api.com/maps/2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba/listviewicon.png"
+    },
+    {
+      "slug": "breeze",
+      "uuid": "2fb9a4fd-47b8-4e7d-a969-74b4046ebd53",
+      "name": "ブリーズ",
+      "nameEn": "Breeze",
+      "sites": "A/B",
+      "inPool": false,
+      "splash": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/splash.png",
+      "banner": "https://media.valorant-api.com/maps/2fb9a4fd-47b8-4e7d-a969-74b4046ebd53/listviewicon.png"
+    },
+    {
+      "slug": "corrode",
+      "uuid": "1c18ab1f-420d-0d8b-71d0-77ad3c439115",
+      "name": "カロード",
+      "nameEn": "Corrode",
+      "sites": "A/B",
+      "inPool": false,
+      "splash": "https://media.valorant-api.com/maps/1c18ab1f-420d-0d8b-71d0-77ad3c439115/splash.png",
+      "banner": "https://media.valorant-api.com/maps/1c18ab1f-420d-0d8b-71d0-77ad3c439115/listviewicon.png"
+    },
+    {
+      "slug": "fracture",
+      "uuid": "b529448b-4d60-346e-e89e-00a4c527a405",
+      "name": "フラクチャー",
+      "nameEn": "Fracture",
+      "sites": "A/B",
+      "inPool": false,
+      "splash": "https://media.valorant-api.com/maps/b529448b-4d60-346e-e89e-00a4c527a405/splash.png",
+      "banner": "https://media.valorant-api.com/maps/b529448b-4d60-346e-e89e-00a4c527a405/listviewicon.png"
+    },
+    {
+      "slug": "icebox",
+      "uuid": "e2ad5c54-4114-a870-9641-8ea21279579a",
+      "name": "アイスボックス",
+      "nameEn": "Icebox",
+      "sites": "A/B",
+      "inPool": false,
+      "splash": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/splash.png",
+      "banner": "https://media.valorant-api.com/maps/e2ad5c54-4114-a870-9641-8ea21279579a/listviewicon.png"
+    },
+    {
+      "slug": "pearl",
+      "uuid": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+      "name": "パール",
+      "nameEn": "Pearl",
+      "sites": "A/B",
+      "inPool": false,
+      "splash": "https://media.valorant-api.com/maps/fd267378-4d1d-484f-ff52-77821ed10dc2/splash.png",
+      "banner": "https://media.valorant-api.com/maps/fd267378-4d1d-484f-ff52-77821ed10dc2/listviewicon.png"
+    }
+  ]
+}
