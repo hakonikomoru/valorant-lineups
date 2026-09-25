@@ -372,7 +372,9 @@ function render() {
 const player = $('#player');
 function openPlayer(id) {
   const v = videos.find((x) => x.id === id);
-  $('#player-iframe').src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`;
+  // youtube-nocookie だと YouTube にログインしていても未ログイン扱いになり bot 確認が出やすいので youtube.com を使う
+  const params = new URLSearchParams({ autoplay: '1', rel: '0', playsinline: '1', origin: location.origin });
+  $('#player-iframe').src = `https://www.youtube.com/embed/${id}?${params}`;
   $('#player-title').textContent = v.title;
   $('#player-channel').textContent = v.channel;
   $('#player-link').href = v.short ? `https://www.youtube.com/shorts/${id}` : `https://www.youtube.com/watch?v=${id}`;

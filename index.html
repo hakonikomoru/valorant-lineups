@@ -65,11 +65,12 @@
 
   <dialog class="player" id="player">
     <div class="player-inner">
-      <div class="player-frame"><iframe id="player-iframe" title="YouTube 動画" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>
+      <div class="player-frame"><iframe id="player-iframe" title="YouTube 動画" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
       <div class="player-info">
         <div>
           <h2 id="player-title"></h2>
           <p id="player-channel"></p>
+          <p class="player-hint">「ログインして bot ではないことを確認」と出て再生できないときは、「YouTube で開く」から見てください。</p>
         </div>
         <div class="player-actions">
           <a id="player-link" class="btn" target="_blank" rel="noopener">YouTube で開く</a>

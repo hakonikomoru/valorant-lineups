@@ -516,13 +516,16 @@ main { padding: 0 var(--gutter) 64px; }
   border: 1px solid var(--red);
 }
 .player.is-short { width: min(420px, calc(100vw - 32px)); }
-.player.is-short .player-frame { aspect-ratio: 9 / 16; max-height: calc(100vh - 180px); margin-inline: auto; }
+/* 縦長のショートは、下のボタン（YouTube で開く）が画面内に収まる高さまでにする */
+.player.is-short .player-frame { aspect-ratio: 9 / 16; height: min(calc(100dvh - 260px), 680px); width: auto; margin-inline: auto; }
+.player { overflow-y: auto; }
 .player::backdrop { background: rgb(0 0 0 / 0.8); }
 .player-frame { aspect-ratio: 16 / 9; background: #000; }
 .player-frame iframe { width: 100%; height: 100%; border: 0; }
 .player-info { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 14px 16px; }
 .player-info h2 { margin: 0; font-size: 1rem; }
 .player-info p { margin: 2px 0 0; font-size: 0.8rem; color: var(--muted); }
+.player-info .player-hint { margin-top: 6px; font-size: 0.72rem; }
 .player-actions { display: flex; gap: 8px; }
 
 .btn {
@@ -576,6 +579,10 @@ main { padding: 0 var(--gutter) 64px; }
   .video-grid.is-shorts .card-body { padding: 8px; }
   .video-grid.is-shorts .thumb-badges { flex-wrap: wrap; }
   .video-grid.is-posts, .post-grid { grid-template-columns: minmax(0, 1fr); }
+  .player-info { padding: 10px 12px; gap: 8px; }
+  .player-info h2 { font-size: 0.88rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .player-actions { width: 100%; }
+  .player-actions .btn { flex: 1; text-align: center; }
   .section-head .btn { padding: 6px 12px; font-size: 0.78rem; }
 }
 
