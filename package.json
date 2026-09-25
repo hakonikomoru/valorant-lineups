@@ -13,6 +13,7 @@
     "shorts": "node scripts/detect-shorts.mjs",
     "x-media": "node scripts/check-x-media.mjs",
     "discover": "node scripts/discover-videos.mjs",
+    "channels": "node scripts/add-channel.mjs",
     "build": "npm run meta && npm run merge"
   },
   "engines": { "node": ">=22" }

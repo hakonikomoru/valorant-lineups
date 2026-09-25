@@ -1,5 +1,5611 @@
 [
   {
+    "id": "XVU-BX1suBU",
+    "title": "設置中の敵を捕獲！アセントAで使える確殺デッドロックULT定点 #valorant #ヴァロラント #deadlock #デッドロック",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "BZAtnPfcut4",
+    "title": "アセントBの裏見トラップをAサイトから破壊できるショックボルト定点 #valorant #ヴァロラント #sova #ソーヴァ",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "wOP0KUrZnx8",
+    "title": "Top 15 New Icebox Killjoy Post Plant Lineups | Killjoy Lineups Icebox | KJ Setups Icebox",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup"
+    ]
+  },
+  {
+    "id": "dXJ3r3Qb2fE",
+    "title": "設置中の敵を捕獲！アセントB設置をCTから捕獲できる確殺デッドロックULT定点 #valorant #ヴァロラント #deadlock #デッドロック",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "2ENY4H-CAM4",
+    "title": "アセントAヘブン＆黒コン裏に広がる壊しづらい最強レーザーヴァイン定点 #valorant #ヴァロラント #vyse #ヴァイス",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "GjMIMRDb9B4",
+    "title": "解除中の敵を捕獲！アセントAで使える確殺デッドロックULT定点 #valorant #ヴァロラント #deadlock #デッドロック",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "ZQJSFL62h_4",
+    "title": "Top 10 New Split Killjoy Post Plant Lineups | Killjoy Lineups Split | KJ Setups Split",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup"
+    ]
+  },
+  {
+    "id": "nSEueSuzdpM",
+    "title": "NEW Top 15 Split Brimstone Post Plant Lineups | Brimstone Lineups Split Valorant Tips & Tricks",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "qfsN9ssbiJg",
+    "title": "NEW Top 15 Pearl Brimstone Post Plant Lineups | Brimstone Lineups Pearl | Valorant Tips & Tricks",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "sudPUTPLKcg",
+    "title": "Top 15 New Pearl Killjoy Post Plant Lineups | Killjoy Lineups Pearl | KJ Setups Pearl",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup"
+    ]
+  },
+  {
+    "id": "gbbi2FHCyH8",
+    "title": "NEW Top 15 Sunset Brimstone Post Plant Lineups | Brimstone Lineups Sunset | Valorant Tips & Tricks",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "IbLDNGlu0IQ",
+    "title": "Top 10 New Haven Sova Post Plant Lineups | Sova Lineups Haven | Sova Shock Dart Haven",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "xNFAFGEqntY",
+    "title": "Top 10 New Abyss Sova Post Plant Lineups | Sova Lineups Abyss | Sova Shock Dart Abyss",
+    "channel": "B3ast plays YT",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "7upAezQNPAQ",
+    "title": "【サンセット】【ヴァイパー】トップから投げれるAエルボースモーク定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "wk-l8EK4LAA",
+    "title": "【サンセット】【ソーヴァ】TOPに刺さる電線リコン定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "3_j_IU2yEEI",
+    "title": "【VALORANT】強いのだけ厳選！アセントの定点解説【フェニックス】",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "r5Svlwribi8",
+    "title": "【アビス】【ヴァイス】A守りセットアップ紹介！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "defense",
+      "setup"
+    ]
+  },
+  {
+    "id": "e22Cleyqi30",
+    "title": "根元が消える最強ワイヤー！100T Cryocells選手が使ったサミットＡサイトセットアップ【サイファー】 #shorts #valorant #valorantclips",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "jgkcIW9gVNk",
+    "title": "TL nAts選手が使ったヘイヴンCサイトセットアップ【サイファー】 #shorts #valorant #valorantclips",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "yjSE-9CSclU",
+    "title": "ワンウェイケージも紹介！NRG skuba選手が使ったサミットAサイトセットアップ【サイファー】 #shorts #valorant #valorantclips",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "oneway",
+      "setup"
+    ]
+  },
+  {
+    "id": "utK_xl61cdY",
+    "title": "ワンウェイケージも紹介！TH benjyfishy選手が使ったブリーズBサイトセットアップ【サイファー】 #shorts #valorant #valorantclips",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "oneway",
+      "setup"
+    ]
+  },
+  {
+    "id": "ZaLsLO29_3A",
+    "title": "FNC Alfajer選手が使ったアセントAサイトセットアップ【サイファー】 #shorts #valorant #valorantclips",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "VF5WZiwFNbY",
+    "title": "【VALORANT】強いのだけ厳選！ヘイヴンの定点解説【フェニックス】",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "zexHl9yq_Kw",
+    "title": "【ロータス】設置後ほぼ勝ち。ヴァイパーの最強定点集",
+    "channel": "JUMP ON GAMES",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "Qw_BcqJrdEk",
+    "title": "Gekko Post-Plant Molly Lineup for A Box From Short on Ascent",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "ZKb62MtPQiM",
+    "title": "Sova Post-Plant Shockdart Lineup for A Default on Abyss",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "o8AkauNWANA",
+    "title": "Gekko Post-Plant Molly Lineup for B Default on Haven",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "4qEf_nD-Ywo",
+    "title": "Cypher Defending One-Way Cage for Mid on Ascent 👀",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "W-BchlMuxf4",
+    "title": "Brim Post-Plant Molly Lineup for B Default on Split",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "5dQy5k0GZww",
+    "title": "BRIMSTONE POSTPLANT LINEUP FOR HAVEN A DEFAULT",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "UVLT9LvnA8Q",
+    "title": "【アビス×ソーヴァ】Aサイト定点いらずの超簡単リコン2本　#valorant #shorts #sovalineup",
+    "channel": "くぁ〜る",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "-Ft4lTdsWaM",
+    "title": "Sova B Alley2 Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "YuDF2bP9ANY",
+    "title": "サミット　ブリムの中央扉締め空爆",
+    "channel": "スピキかわいいよ",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "C-q2anK_d-U",
+    "title": "【サミット×ブリム】Bサイト屋根下設置への強い空爆 #shorts #valorant",
+    "channel": "くぁ〜る",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "h9vUN2Y-RDo",
+    "title": "サミット　ブリム　上級者向け　空爆",
+    "channel": "スピキかわいいよ",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "AoPkfPwCsfo",
+    "title": "Sova B Garage Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "FSEICTYgnlU",
+    "title": "Sova B Behind Box Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "h91K0o_zmA8",
+    "title": "Sova A Ramps Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "Tq4LdC-kSBc",
+    "title": "Sova A Behind Boxes Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "1m1ol8v_Xsc",
+    "title": "Sova A Haven Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven",
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "M6f-_HTMeus",
+    "title": "Sova A Flawer Pot2 Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "1NYcJIIeX3s",
+    "title": "Sova A Main Lineup - Split Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "ix7NCn4q214",
+    "title": "Sova C Lobby Lineup - Lotus Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "jTXw6_eG6Mk",
+    "title": "Sova A Long2 Lineup - Haven Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "e7fSjYTWPOA",
+    "title": "Sova B Corner Lineup - Haven Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "UOok4fBak7M",
+    "title": "Sova B Main Lineup - Lotus Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "pflbLTs9zH8",
+    "title": "Sova C Cubby Lineup - Haven Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "zn1afQbCnzs",
+    "title": "Sova C Corner Lineup - Haven Guide (Valorant)",
+    "channel": "Lightios",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "LLDJpbpkizQ",
+    "title": "Haven Yoru A Execute Setup by PRX something",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "yoru"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "WyCfdsxFBeY",
+    "title": "Abyss Phoenix B Main Punish Molly by NRG mada",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "ywc9RTgQNh0",
+    "title": "【サミット×フェイド：守り】Bメイン開幕索敵用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "L_SaQ4JEIQQ",
+    "title": "Haven Yoru A Execute Setup by PRX something",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "yoru"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "suTAk5BOVnc",
+    "title": "Abyss Phoenix B Main Punish Molly by NRG mada",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "DE-MuILfa7M",
+    "title": "Abyss Waylay B Main Punish Setup by LOUD tkzin",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "waylay"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "PfXxf6bDF-U",
+    "title": "【サミット×フェイド：守り】Bメイン開幕索敵用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "kXXLJhI3Cjk",
+    "title": "【サミット×フェイド：攻め】Aサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "j9AWlOiOhkY",
+    "title": "【サミット×フェイド：攻め】Aサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "X32LX3ZnFi0",
+    "title": "【サミット×フェイド：守り】Aガーデンカウンター用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "OpEDr0kJ0CA",
+    "title": "【サミット×フェイド：攻め】Aサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "eWZx5yIIjPA",
+    "title": "【サミット×フェイド：守り】Aガーデンカウンター用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "h_t5wEt8Gg8",
+    "title": "【サミット×フェイド：攻め】Aサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "r8bqov2URQs",
+    "title": "【サミット×フェイド：攻め】Bサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "G7SEq8yNHSE",
+    "title": "【パール×フェイド：攻め】Aサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "vKsIw_ghBeo",
+    "title": "【総集編】パール×フェイド：Aサイトエントリー用ホウント定点【7選】",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "RNAfQV2GnFA",
+    "title": "【サミット×フェイド：攻め】Bサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "-o1AlOcAfj4",
+    "title": "【パール×フェイド：攻め】Aサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "L1saRWVntxs",
+    "title": "中耐えしなくてもいい？スプリットサイファーキモ抜きセットアップ【VALORANT / ヴァロラント】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "pCtkpLa7oOg",
+    "title": "【ワンランク上がる！】サミット最強キモサイファーワイヤーセットアップ1選【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "ziEAmk3N2mE",
+    "title": "【ワンランク上がる】アセント攻め最強キモサイファーカメラセットアップ4選【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "attack",
+      "setup"
+    ]
+  },
+  {
+    "id": "upEIN5Uhv4A",
+    "title": "【最強‼】ヘイブンCサイト最強キルジョイナノスワーム定点【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "nTh6PpIYv2c",
+    "title": "Brimstone Corrode Lineups - Must Know Post-plant Lineups",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "PU1ZAjWlQNw",
+    "title": "Fade Corrode Line-ups You Must Know - Tips And Tricks Valorant",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "CavNYCM0R5M",
+    "title": "Updated Deadlock Ascent Lineups and Setups - Valorant",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "U1irtVUjkA4",
+    "title": "Valorant Tejo Pearl Guide:  Tips, Tricks, and Pro Setups",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "tejo"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "qPOgXkum9VE",
+    "title": "Valorant Tejo Haven Guide:  Tips, Tricks, and Pro Setups",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "tejo"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Mi0R7D-6J00",
+    "title": "Fracture Cypher Setups - One Ways + Tips and Tricks Valorant",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": [
+      "oneway",
+      "setup"
+    ]
+  },
+  {
+    "id": "HflTTWLZa9w",
+    "title": "Valorant Tejo Split Guide:  Tips, Tricks, and Pro Setups",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "tejo"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "u0C7YQTHcFw",
+    "title": "Valorant Tejo Abyss Guide:  Tips, Tricks, and Pro Setups",
+    "channel": "Fraty",
+    "lang": "en",
+    "agents": [
+      "tejo"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "U8xklrCTEmo",
+    "title": "Haven A Lobby Trapwire Break | Sova Lineup from A Site",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "L5wrBxqaJRU",
+    "title": "Fade Haunt Lineup – Split A Rush Setup #valorant #lineups #fade #split #valomate",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "q1LUoFLz25U",
+    "title": "Summit A Defense Haunt | Fade Recon Lineup #valorant #lineups #summit #fade #valomate",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "A25AW-wSOWo",
+    "title": "Clear A Site Before You Push | Split Fade Lineup #valorant #lineups #fade #split #valomate",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "ZOCkMVE1WHo",
+    "title": "Ascent B Retake Lineup | Sova Recon Dart #valorant #lineups #sova #ascent #valomate",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "-iBmB6UuepQ",
+    "title": "Lotus Round Start Haunt | Fade C Main Recon #valorant #lineups #fade #lotus #valomate",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "efluUfYTwNA",
+    "title": "All 28 KAY/O Lineups on Ascent | VALORANT",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "qSvJyS5dzuc",
+    "title": "Split Attack Lineup | Sova Breaks B Entry Trapwire #valorant #lineups #sova #split #valomate",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "AduUQFWaFqk",
+    "title": "All 30 KAY/O Lineups on Haven | VALORANT",
+    "channel": "Valomate | VALORANT Lineups App",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "R0JrEJEwFfo",
+    "title": "【サミット】【フェイド】簡単！Aメイン索敵ホウント定点【VALORANT】#shorts #ヴァロラント",
+    "channel": "そたごん【VALORANT定点紹介】",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "rRSjtb8qe4U",
+    "title": "【アセント】【キルジョイ】エコの時に使えるかも！アッパーの敵を倒すセットアップ紹介【VALORANT】#shorts #ヴァロラント",
+    "channel": "そたごん【VALORANT定点紹介】",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "jO78j-try8A",
+    "title": "スローブから撃つ設置阻止空爆 ブリーズA【1日1空爆:536日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "MhRBFhwdZc4",
+    "title": "雑に投げても大体成功する解除阻止空爆その２ バインドA【1日1空爆:534日目】【ヴァロラント/VALORANT】キルジョイ KAY/O ゲッコー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "gekko",
+      "kayo",
+      "killjoy"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "6PFMbcspxBg",
+    "title": "キルジョイが良く使う空爆をヴァイパーでも使えるようにしました ヘイヴンC【1日1空爆:535日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper",
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "EPjcTXCAxNs",
+    "title": "雑に投げても大体成功する解除阻止空爆 バインドA【1日1空爆:533日目】【ヴァロラント/VALORANT】キルジョイ KAY/O ゲッコー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "gekko",
+      "kayo",
+      "killjoy"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "ps2A2jnDpy0",
+    "title": "ヘイヴンCラッシュの時に使える空爆紹介！【1日1空爆:532日目】【ヴァロラント/VALORANT】キルジョイ KAY/O ゲッコー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "gekko",
+      "kayo",
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "WA05OzCpj2Y",
+    "title": "ブリーズBメインからの解除遅延スキルはココを狙えば大体成功します【1日1空爆:531日目】【ヴァロラント/VALORANT】キルジョイ、KAY/O、ゲッコー、ヴァイパー、レイズ、ソーヴァ etc...",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "gekko",
+      "kayo",
+      "sova",
+      "viper",
+      "killjoy",
+      "raze"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "LI-ZCWpmalw",
+    "title": "ピラミッドの間設置に対する解除阻止空爆 ブリーズA【1日1空爆:529日目】【ヴァロラント/VALORANT】キルジョイ KAY/O ゲッコー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "gekko",
+      "kayo",
+      "killjoy"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "-ZHBmZNkkJ8",
+    "title": "イエロー裏から撃つ設置阻止空爆 ブリーズA【1日1空爆:527日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "wUxD6D1EsyA",
+    "title": "木箱裏から投げる解除阻止空爆 ブリーズB【1日1空爆:530日目】【ヴァロラント/VALORANT】キルジョイ KAY/O ゲッコー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "gekko",
+      "kayo",
+      "killjoy"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "1w_iUgjrgRM",
+    "title": "寄りの途中に撃つ設置阻止空爆 ブリーズB【1日1空爆:528日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "7kAGM6_mFNc",
+    "title": "ピラミッドの間設置に対する解除阻止空爆 ブリーズA【1日1空爆:526日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "-W0rXd1GF8Y",
+    "title": "1番簡単な解除阻止 ブリーズA【1日1空爆:525日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "81DZRPJXemQ",
+    "title": "Bサイトへのエントリーを邪魔する空爆 ブリーズ【1日1空爆:524日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "attack",
+      "molly"
+    ]
+  },
+  {
+    "id": "9g1JGFKc5Lc",
+    "title": "寄りの途中に撃つ設置遅延空爆 ブリーズ【1日1空爆:523日目】【ヴァロラント/VALORANT】ヴァイパー定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "mkw9SjSwnao",
+    "title": "EASY Waylay lineups for Abyss Attack!!",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "waylay"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "Xa06UTu2OfI",
+    "title": "Sova Sunset lineups that Sentinels HATE!!",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "IdrTn7w4RVk",
+    "title": "新ブリーズ 木箱裏から撃つBサイトへの解除阻止空爆【1日1空爆:522日目】【ヴァロラント/VALORANT】ヴァイパー ブリムストーン 定点",
+    "channel": "空爆大好き人間、どうも僕です。",
+    "lang": "ja",
+    "agents": [
+      "brimstone",
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "SX9bVJd1J4M",
+    "title": "FIRE Phoenix lineup for Ascent B Main!!",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "5MACyp6oB3g",
+    "title": "The BEST Raze Nade lineup for Split B Site!!",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "raze"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "K51Gqtr5sXo",
+    "title": "*NEW* Fade Summit Lineups [EASY GUIDE!!]",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "LeSsPQyhQNM",
+    "title": "*NEW* Viper Summit Setups & Lineups [EASY GUIDE!!]",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "IHTqW_55pLQ",
+    "title": "*NEW* Sova Summit Lineups [EASY GUIDE!!]",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "4RTbQGdCyow",
+    "title": "Fade Ascent Lineups [EASY GUIDE!!]",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "YIOSq2O2f_o",
+    "title": "Fade Fracture Lineups [EASY GUIDE!!]",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "tMzm1FgGrJ4",
+    "title": "ソーヴァ　アビス　定点集ver2",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "_PzDuLunPMs",
+    "title": "ソーヴァ　ヘイブン　壁抜き用定点",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "X4QhaJaob0I",
+    "title": "ソーヴァ　サミット　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "afS4WfTvlaA",
+    "title": "ソーヴァ　サンセット　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "XAt2usm4d5Q",
+    "title": "ヨル　アセント　今でも使える定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "yoru"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "Vfy744FRyzg",
+    "title": "ヴァイパー　ロータス　セットアップ集 ver2",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Z7LOFIeMdUM",
+    "title": "BROKEN Deadlock Ults on Split you NEED TO LEARN (EZ Lineups) ‼️",
+    "channel": "CoachCow",
+    "lang": "en",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "203rTmbSo4Q",
+    "title": "BROKEN VETO LINEUP on CORRODE 💀 (MUST LEARN)",
+    "channel": "CoachCow",
+    "lang": "en",
+    "agents": [
+      "veto"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "xA7vsz_R3uA",
+    "title": "ソーヴァ　アセント　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "HB7YYxBawaU",
+    "title": "ヴァイス　ロータス　セットアップ集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "qnwUbjKspzU",
+    "title": "ブリムトーン　フラクチャー　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "r3s88EPAQpU",
+    "title": "INSANE Waylay Lineups for Corrode Defense MUST LEARN (FT. Aspas)‼️",
+    "channel": "CoachCow",
+    "lang": "en",
+    "agents": [
+      "waylay"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "RbtPgYRGVCg",
+    "title": "EVERY Deadlock Lineup You NEED on Corrode ‼️#valorant",
+    "channel": "CoachCow",
+    "lang": "en",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "BnJRnUAJ5Es",
+    "title": "A Corner Plant SUMMIT Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "AKrQKDORmU0",
+    "title": "B Default SUMMIT Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "YZrJYIypNvA",
+    "title": "NEW Deadlock Corrode Guide (Best Setups & Lineups) – 2025!",
+    "channel": "CoachCow",
+    "lang": "en",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "RpARKaA7U4c",
+    "title": "INSANE Vyse Setups on Corrode B Site (MUST Learn) ‼️ #valorant",
+    "channel": "CoachCow",
+    "lang": "en",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "6CSd05EzqfI",
+    "title": "B Open Plant SUMMIT Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "3CDbYpPXf9Y",
+    "title": "B Default SUNSET Brimstone lineup #2 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "Y0GIJe55Y5c",
+    "title": "B Default SUNSET Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "Mn8SLOpUfFg",
+    "title": "A Open Plant SUMMIT Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "LolzQ5CRt4k",
+    "title": "A Wall Plant SUMMIT Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "5bu3usY9aHw",
+    "title": "A Default SUMMIT Brimstone lineup #2 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "BzMAFUqXmvI",
+    "title": "A Safe Plant SUNSET Brimstone lineup #2 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "tt9Gp02cpQE",
+    "title": "A Default SUMMIT Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "pzY938wxzK0",
+    "title": "A Default SUNSET Brimstone lineup #3 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "P40foTfscfc",
+    "title": "B Stairs SUNSET Brimstone lineup #1 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "MTLtJug0rH8",
+    "title": "変態サイファーのサミット　セットアップのすすめ　 #valorant  #shorts #サイファー  #ゆっくり実況 #定点 #セットアップ #サミット",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "uheHTeeVFL0",
+    "title": "B Open Plant SUMMIT Brimstone lineup #2 – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "0aJ0UoBeBH0",
+    "title": "Brimstone LINEUPS for SUMMIT (Updated 2026) – Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "PFWakNVKpqE",
+    "title": "変態サイファーのカメラのすすめ　スプリット　 #valorant  #shorts #サイファー  #ゆっくり実況 #定点 #セットアップ",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "LW0wkUVvTD4",
+    "title": "変態サイファーのワイヤーのすすめ　スプリット　 #valorant  #shorts #サイファー  #ゆっくり実況 #定点 #セットアップ",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "g2qujlW3gmY",
+    "title": "めっちゃ使えるワンウェイフラッシュ  アセント×ヨル　　 #valorant #shorts  #ヨル #ゆっくり実況 #1wayフラッシュ",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "yoru"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "23ukvpG9ktE",
+    "title": "めっちゃ使えるワンウェイフラッシュ  アセント×ヨル　　 #valorant  #ヨル #ゆっくり実況 #1wayフラッシュ",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "yoru"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "UbyWvddFb9I",
+    "title": "サンセット×サイファー　ワンウェイケージ全部知ってる？？　 #valorant  #サイファー #ゆっくり実況",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "cmARim8EtK8",
+    "title": "ロータス×テホ Aリンクの不思議知ってた？　 #valorant  #shorts #テホ  #ゆっくり実況 #定点 #セットアップ",
+    "channel": "ぎょい",
+    "lang": "ja",
+    "agents": [
+      "tejo"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "mLtLqWULAqQ",
+    "title": "Best Cypher Setups for Abyss",
+    "channel": "ItsFlameBTW",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "4Gbu8OMGiB8",
+    "title": "Brimstone Summit Lineup Tutorial (Bottom Mid to A Main)",
+    "channel": "TylerJedi",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "9STlc0XPsrw",
+    "title": "Sova Lineups Breeze 2026 - VALORANT Guide *NEW*",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "bQEiCTK0NBM",
+    "title": "Best Cypher Setups for Split (2026)",
+    "channel": "ItsFlameBTW",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "7s1TSYHjhAE",
+    "title": "Brimstone Haven Lineup Tutorial (A Long to Default A) #shorts",
+    "channel": "TylerJedi",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "AqbapzWItwU",
+    "title": "Best Cypher Setups for Sunset",
+    "channel": "ItsFlameBTW",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "MMni5F7Pfl0",
+    "title": "Sova Lineups Ascent 2026 - VALORANT Guide *NEW*",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "wrMecRo7d-0",
+    "title": "Viper Corrode Guide (Lineups & Setups) *NEW*",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "rrPhSQYLEMg",
+    "title": "Brimstone Lineups Ascent - VALORANT Guide",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "oE3_-qGb8vY",
+    "title": "Sova Lineups Corrode - VALORANT Guide",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "5JIjjXbnUBk",
+    "title": "Fade Lineups Corrode - VALORANT Guide",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "v9Xj1u2b7PQ",
+    "title": "Brimstone Lineups Pearl 2025 *NEW*",
+    "channel": "Tseeky - Pro Valorant Lineups",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "wL1Rpq1wDfE",
+    "title": "ヘイブン　ソーヴァ　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "yAy29WWxIM4",
+    "title": "ヘイブン　ヴァイパー　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "QfWQy9L1nzw",
+    "title": "サンセット　ソーヴァ　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "irEBT9zqt-s",
+    "title": "カロード　フェイド　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "MsTG-FTjdNI",
+    "title": "スプリット　ヴァイパー　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "f8dxMa3Efds",
+    "title": "サンセット　ソーヴァ　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "noqqT7B-o5o",
+    "title": "サンセット　kay/o　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "oUcrpQ6VVVU",
+    "title": "アイスボックス　ヴァイパー　定点　まとめ",
+    "channel": "目指せフルパ",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "-AOXYF41Kl0",
+    "title": "Radiant Killjoy *Setups* For SUNSET 👑 (Valorant Tips) #shorts",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "1s2ZrPBVIV0",
+    "title": "Radiant Killjoy *Setups* For ASCENT 👑 (Valorant Tips)",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "egIPBZ_TowM",
+    "title": "Radiant Killjoy Haven Lineup Clutch! 👑 #shorts",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "lTKgT13iqUA",
+    "title": "Radiant Killjoy *Setups* For SUMMIT 👑 (Valorant Tips)",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "OXZXqCKnCMc",
+    "title": "Radiant Killjoy Insane Abyss SETUP ACE! 👑",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "d8bErwZR2ho",
+    "title": "【VALORANT】 新マップ【カロード】ではマジでフェイドが強い！？フェイドの小技と定点 プロ　 #valorant  #valo #valorant立ち回り#ヴァロラント #vct #クリップ集",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "_kVkoEZ-65E",
+    "title": "【VALORANT】 プロも使うサンセットソーヴァメインからAサイトリコン定点 ミクロ カバー プロ #valorant  #valo #valorant立ち回り#ヴァロラント #vct #クリップ集",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "MbNyBP0073s",
+    "title": "【VALORANT】 プロも使うパールソーヴァBロング取得用リコン定点　 ミクロ カバー プロ  #valorant  #valo #valorant立ち回り #ヴァロラント  #vct #クリップ集",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "b8Xq2NeQD94",
+    "title": "【VALORANT】 プロも使うパールフェイドAリテイクホウント定点　 ミクロ カバー プロ  #valorant  #valo #valorant立ち回り #ヴァロラント  #vct",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "x27gkbD0c_4",
+    "title": "【VALORANT】 プロも使うパールサイファーミッドカメラ定点　 ミクロ カバー プロ  #valorant  #valo #valorant立ち回り #ヴァロラント  #vct #クリップ集",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "oCS3xkVB68M",
+    "title": "【VALORANT】 プロも使うアセントソーヴァワイン＆メインリコン定点　 ミクロ カバー プロ  #valorant  #valo #valorant立ち回り #ヴァロラント #vct #クリップ集",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "fDbjrMpSIwE",
+    "title": "All Maps Viper Line-Up Guide",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "all"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "0g-AsezKeGk",
+    "title": "【VALORANT】 プロも使うスプリットサイファーAメインセットアップ定点 ミクロ カバー プロ  #valorant  #valo #valorant立ち回り #ヴァロラント  #vct",
+    "channel": "ぱそ",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "2iRztNGrzgg",
+    "title": "Sunset Viper Wall Line-Up From B Main to B Main, Market and Boba #lineuptutorial #lusorlineups",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "h8CtstAB3MQ",
+    "title": "Sunset Viper Line-Up Guide",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "PJclWWRNE7s",
+    "title": "Sunset Viper Smoke Line-Up From A Main to A Alley  #lineuptutorial #valorant #lusorlineups",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "dYF4XwMGMoA",
+    "title": "Sunset Viper Smoke Line-Up From Mid Bottom to Mid Top #lineuptutorial #lusorlineups",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "SZV8uqB69OM",
+    "title": "Sunset Viper Smoke Line-Up From A Lobby to A Link",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "qXFHEkbVEsA",
+    "title": "Sunset Viper Molly Line-Up From Mid Top to A Site",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "YugMXvNSTzw",
+    "title": "Sunset Viper Molly Line-Up From CT to A Site",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "8Mg9_Ek952A",
+    "title": "Sunset Viper Molly Line-Up From CT to A Main",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "xO3Taw3WNps",
+    "title": "Sunset Viper Molly Line-Up From B Main to B Default",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "qjXBXxRie1A",
+    "title": "Sunset Viper Molly Line-Up From B Market to B Default",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "bzOpnzoXRoU",
+    "title": "Sunset Viper Molly Line-Up From B Bottom to B Default",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "4SM50kmNLzQ",
+    "title": "Sunset Viper Molly Line-Up From A Lobby to A Site",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "ioXf41xTxFo",
+    "title": "Split Viper Line-Up Guide",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "Utodvj6gVBs",
+    "title": "【誰かに自慢したくなる】ヘイブン最強Aセット定点【Killjoy OTP】　#shorts #valorant #valorantclips",
+    "channel": "もかと申します@ジョイ専イモータル",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "MkUT_5jonKE",
+    "title": "Sunset Viper Molly Line-Up From A Elbow to A Site",
+    "channel": "Lusor Line-ups",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "6gx1dZjbZLU",
+    "title": "【これ知ってる？】アセントリテイクウルトにあわせる最強定点【Killjoy OTP】　#shorts #valorant #valorantclips",
+    "channel": "もかと申します@ジョイ専イモータル",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "gxWdVofMiqs",
+    "title": "【ヘイブン編】ジョイ専イモータルによる これだけ覚えろ定点！3選【Killjoy OTP】　#shorts #valorant #valorantclips",
+    "channel": "もかと申します@ジョイ専イモータル",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "8i8Qu6gAets",
+    "title": "【ジョイ専イモータル】ヘイブン最強遅延空爆 3選【Killjoy OTP】　#shorts #valorant #valorantclips",
+    "channel": "もかと申します@ジョイ専イモータル",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "z8Lzw0x9Aqo",
+    "title": "スプリット　ブリム　定点　V25 // act Ⅵ",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "bXEaGU_XMPs",
+    "title": "パール　ブリム　定点　V25 // act Ⅵ",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "oC9acrc7FC8",
+    "title": "ブリム　アセント　ウルトリテイク定点",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "tKScW3rKfUM",
+    "title": "アセントブリム定点　 #Shorts",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "rTsdVxVrFIc",
+    "title": "サンセット　ブリム定点　まとめ（EP9  actⅢ A設置）#VALOLANT",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "lxaR8dC4smY",
+    "title": "バインド　ブリム定点　追加1（ACT9 Ⅰ）#VALOLANT",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "MjB_s49bKY8",
+    "title": "【Valorant】チェンバーのパールセットアップや立ち回りを解説！強いランデヴーやトレードマークの使い方【強化後】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "chamber"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "vo9PZ2JaOAk",
+    "title": "パール　ブリム定点　まとめ（ACT9 Ⅲ）#VALOLANT",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "IV0-Cg5692w",
+    "title": "パール　ブリム定点　まとめ（ACT9 Ⅱ（予定））#VALOLANT",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "6r4RdDKAFtM",
+    "title": "アビス　ブリム定点　追加1（ACT9 Ⅰ）#VALOLANT",
+    "channel": "さわっぴー",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "Hsh_2Z3TUz4",
+    "title": "【Valorant】B守りが強い！ナーフ後チェンバーのフラクチャーセットアップや立ち回りを解説！強いランデヴーやトレードマークの使い方【弱体化後】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "chamber"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": [
+      "defense",
+      "setup"
+    ]
+  },
+  {
+    "id": "g71v2BUiY24",
+    "title": "【Valorant】デッドロックのバインドセットアップや定点、使い方を徹底解説！【初心者必見】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "eNxhrVzgeug",
+    "title": "【Valorant】オフアングルが強い！チェンバーの新バインドセットアップや立ち回りを解説！強いランデヴーやトレードマークの使い方【ナーフ/弱体化後】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "chamber"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "mGxXuY-UvIA",
+    "title": "【Valorant】ロータスソーヴァの最強リコンやダブルショックダーツの定点をわかりやすく徹底解説！【完全版】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "1fMHoZj1AEI",
+    "title": "【Valorant】デッドロックのアセントセットアップや定点、使い方を徹底解説！【初心者必見】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "eQveF07Gmlc",
+    "title": "【Valorant】新バインドの最強ソーヴァリコンとショックボルト定点をわかりやすく解説！【パッチノート6.08対応】",
+    "channel": "サムのFPSちゃんねる【解説・実況】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "SjQ_srX9hzY",
+    "title": "Unstoppable Cypher Setup for Ascent A #valorant #cypher #fyp",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "WCnRQLwb8Is",
+    "title": "This Cypher Post Plant One Way in Sunset B Changes Everything #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "oneway"
+    ]
+  },
+  {
+    "id": "BczDdFjVYA0",
+    "title": "This Cypher Setup in Summit A Changes Every Thing #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "aVuBsIkrefs",
+    "title": "This Cypher Setup in Ascent A Changes Every Thing #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "54ZsuA8a0GE",
+    "title": "This Cypher Setup in Abyss A Changes Every Thing #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "hipWtsQPMhM",
+    "title": "This Cypher Setup in Haven A Changes Every thing #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "ESHD1lLpmQg",
+    "title": "This Cypher Post Plant One Way in Haven C Changes Every Thing #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "postplant",
+      "oneway"
+    ]
+  },
+  {
+    "id": "_biX8f7IVJM",
+    "title": "This Cypher Setup In Sunset A Changes Every Thing #valorant",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "OUBBgEAlyTI",
+    "title": "アセント ヴァイス ミッドのショート定点　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "k8f6jSAuYKg",
+    "title": "アセント ヴァイス守りBアッパー定点（Aサイトから　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "1JhZP4B9J4M",
+    "title": "アセント ヴァイス守りBメイン定点（Aサイトから　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "L7otSfQ8RZ8",
+    "title": "アセント ヴァイス守りAメイン定点（Bマケから　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "QjCLhRjUzFc",
+    "title": "アセント ヴァイスAサイトボックス裏　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "UyLmWWSwTmM",
+    "title": "アセント ヴァイスBのCTとローワー定点　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "jsMIr_TWavo",
+    "title": "アセント ヴァイスAショート定点（サイト側　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "W7JBasDpx_E",
+    "title": "アセント ヴァイスAツリー定点2　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "VCGt7NWsfwM",
+    "title": "アセント ヴァイスA黒コンテナ裏　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "KkV2RDKZXeU",
+    "title": "アセント ヴァイスBマーケット定点　#shorts   #valorant #ヴァイス定点  #ヴァロラント #valorant初心者立ち回り #ヴァイス  #アセント",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "Mr--Wvkv-HM",
+    "title": "The Best Cypher Setups For Summit (GUIDE 2026) - Part 1👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Ts2du-BIG-E",
+    "title": "【Valorant】最強のいばら！アセントのヴァイス定点！【初心者/VALORANT】",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "EwMQ5wNsln0",
+    "title": "NEW CYPHER SETUP SUMMIT👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Q-RveD1G8oU",
+    "title": "アイスボックス ヴァイパーのB守り設置遅延　#shorts   #valorant #ヴァイパー空爆  #ヴァロラント #valorant初心者立ち回り #ヴァイパー   #アイスボックス",
+    "channel": "VALOtopics座学",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": true,
+    "tags": [
+      "defense",
+      "molly"
+    ]
+  },
+  {
+    "id": "OPraaOQdnOY",
+    "title": "The Best Cypher Setups For Ascent (GUIDE 2026) - Part 3👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "MpoUt7jd7Bg",
+    "title": "The Best Cypher Setups For Split (GUIDE 2026) - Part 2👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Ruq4rwQ7SkM",
+    "title": "NEW CYPHER SETUP SUNSET👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "I6zgWIXmhh8",
+    "title": "NEW CYPHER SETUP ASCENT👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "6L4oxSoivQM",
+    "title": "The Best Cypher Setups For Sunset (GUIDE 2026) - Part 1👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "bSvk3TLQKXY",
+    "title": "NEW CYPHER SETUP ASCENT B SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "f_LXBwcQcyo",
+    "title": "The Best Cypher Setups For Ascent (GUIDE 2026) - Part 2👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "h5ARFyEArBs",
+    "title": "NEW CYPHER SETUP LOTUS C SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "liSWxxXao-I",
+    "title": "New Radiant Killjoy Guide On Lotus (Setups + Lineups) 🔥",
+    "channel": "Briiest",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "70FOJw6UUB8",
+    "title": "NEW CYPHER SETUP SUNSET A SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "sUrnKiJCdoA",
+    "title": "The Best Cypher Setups For Ascent (GUIDE 2026) - Part 1👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "NP1RufyEYnQ",
+    "title": "The Best Cypher Setups For Sunset (GUIDE 2026)",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "3CEHxAx7J6c",
+    "title": "パールフェニックスBリンク定点。",
+    "channel": "NIBO32",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "6CxrYT00A1c",
+    "title": "New Radiant Killjoy Guide On Ascent (Setups + Lineups) 🔥",
+    "channel": "Briiest",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Rb3OeHbHmTI",
+    "title": "アセントBサイト設置ソーヴァショックボルト定点",
+    "channel": "NIBO32",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "ltKFuH0lTys",
+    "title": "パールのキルジョイAサイトナノスワーム定点。",
+    "channel": "NIBO32",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "M6BShLgYk60",
+    "title": "Sova Lineups For Summit A Site.#sova #lineups #easy  #shock #darts #summit  #valorant  #valorantph",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "bAeolMsCDnQ",
+    "title": "【初心者向け】アイスボックス、ヴァイパーの使い方を徹底解説/スモーク位置や定点、スモークを使うタイミングなど紹介します【VALORANT】",
+    "channel": "邪王真眼シアン【VALORANT解説】",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "0eFVxLQBWnM",
+    "title": "Best Viper Lineups on Summit (2026) | Easy Post-Plant Wins.",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "ilQMlupghnk",
+    "title": "アセントB薪のソーヴァショックボルト定点。",
+    "channel": "NIBO32",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "ZmDPEPq5nLI",
+    "title": "GEKKO LINEUP FOR ASCENT A SITE.#valorant #gaming #gekko #molly #shorts #easy #tips #lineup #ascent",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "U-BsCeHEMNA",
+    "title": "SOVA SHOCK DARTS LINEUPS ON SUMMIT VALORANT 2026.[NEW]",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "DdOKiI8ALZc",
+    "title": "BRIMSTONE LINEUP FOR FRACTURE A SITE.#valorant #gaming #brimstone #molly #shorts #easy #tips #lineup",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "KuANzqL1kas",
+    "title": "BRIMSTONE LINEUP FOR FRACTURE B SITE.#valorant #gaming #brimstone #molly #shorts #easy #tips #lineup",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "nIxVeUMQeVk",
+    "title": "GEKKO LINEUP FOR ASCENT B SITE.#valorant #gaming #gekko #molly #shorts #easy#tips #lineup#ascent",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "R-9gk33wTYU",
+    "title": "SOVA LINEUPS FOR SUMMIT B SITE.#sova #lineups #summit #easy #shock #darts #summitseries",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "ULNHCF5Hd6U",
+    "title": "BRIMSTONE LINEUPS FRACTURE - VALORANT (IN 3 MINUTES)",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "01gGyZ6zIeI",
+    "title": "GEKKO LINEUP FOR FRACTURE A SITE.#valorant #gaming #gekko #molly #shorts #easy#tips #lineup#fracture",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "QlyI6zPRUKk",
+    "title": "Brimstone summit A site lineup🔥✅ #valorant #viral #reyna #brimstone #lineups #jett #1vs4 #raze #4k",
+    "channel": "Flex Fitzz ",
+    "lang": "en",
+    "agents": [
+      "brimstone",
+      "jett",
+      "raze",
+      "reyna"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "zrLHIvEeYM0",
+    "title": "GEKKO LINEUP FOR FRACTURE B SITE.#valorant #gaming #gekko #molly #shorts #easy #tips #lineup",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "XIkOFJ4EqhE",
+    "title": "GEKKO LINEUP FOR FRACTURE B SITE.#valorant #gaming #gekko #molly #shorts #easy #tips #lineup",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "xFMAms4hpsk",
+    "title": "【VALORANT】レディアントが使うキルジョイの空爆を紹介。アイスボックス【Xandrite】#valorant #shorts",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "Tn8rtUYZHJY",
+    "title": "【VALORANT】レディアントが使うヴァイパーのセットアップ。アイスボックス【Xandrite】#valorant #shorts",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "YrlULNKeS1c",
+    "title": "【VALORANT】レディアントが使うサイファーBセットアップ。アセント【Xandrite】#valorant #shorts",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "F6u06xiJVIU",
+    "title": "【VALORANT】レディアントが使うキルジョイのセットアップ。アセント【Xandrite】#valorant #ヴァロラント",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "t5tZFKEQTPo",
+    "title": "【VALORANT】レディアントが使うキルジョイのセットアップ。アイスボックス【Xandrite】#valorant #ヴァロラント",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "TjoXgxm3pQY",
+    "title": "【VALORANT】レディアントが使うキルジョイのセットアップ。ヘイブン【Xandrite】#valorant #shorts",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "8ziP3l576s4",
+    "title": "【VALORANT】レディアントが使うサイファーAセットアップ。アセント【Xandrite】#valorant #shorts",
+    "channel": "Xandrite",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "h6EOOMdSSi8",
+    "title": "Summit Cypher Setup B site Defender",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "defense",
+      "setup"
+    ]
+  },
+  {
+    "id": "Tv-NRGtz9Vc",
+    "title": "NEW Summit Sova Lineup! BREAK THE DOOR + RECON COMBO 🏹 | VALORANT 2026",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "i7ijat6FZy8",
+    "title": "Summit Cypher A Site Defender setup",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "defense",
+      "setup"
+    ]
+  },
+  {
+    "id": "9EBzrYMbYzs",
+    "title": "Sure Win Sova Sunset Lineup Combo | Shock Dart + Hunter's Fury",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "UU5t0X1VrRM",
+    "title": "SUMMIT KJ LINEUPS B SITE 3 SPOT",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "w8UU-V_c1p8",
+    "title": "SUMMIT KJ LINEUPS B SITE 3 SPOT",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "SwvVnOZsy_g",
+    "title": "SUMMIT SOVA LINEUP SWITCH DOOR A SITE",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "JrKOLRnMm40",
+    "title": "SUMMIT SOVA LINEUPS SWITCH DOOR B SITE",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "PX9Chu_3_KQ",
+    "title": "SUMMIT VIPER SETUP A SITE",
+    "channel": "KuysJEFF  ",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "II8KJDO6A0g",
+    "title": "【2025年版】イモータル直伝｜アセント最強ソーヴァのリコンボルト定点集｜Immortal's Ascent Sova Lineups [VALORANT]",
+    "channel": "ISACOMPUTER LABO",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "688nhWD_s18",
+    "title": "【定点】カロードブリムストーン まとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "2pRSMt-GIcw",
+    "title": "Miks CONCUSS Lineups on ALL MAPS",
+    "channel": "Chill Mickelson",
+    "lang": "en",
+    "agents": [
+      "miks"
+    ],
+    "maps": [
+      "all"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "btjuYcuzWhQ",
+    "title": "【定点】スプリットソーヴァまとめ！ （真面目に考えた逆張り）",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "saI65w4TFBo",
+    "title": "【定点】カロードデッドロックまとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "G6MTQo7l0cE",
+    "title": "【定点】パールソーヴァまとめ！（編集なし）簡易",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "u5f0doInNHg",
+    "title": "【定点】アイボソーヴァまとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "ccbHzsLuCgw",
+    "title": "【定点】フラクチャーブリムまとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "wPL2SNlly7I",
+    "title": "【定点】フラクチャーソーヴァまとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "fracture"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "LID0sat_llc",
+    "title": "【定点】ブリーズヴァイパーまとめ！自分用",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "OFxI6rgKmbM",
+    "title": "【定点】パールブリムまとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "HI7zYkKDkf8",
+    "title": "【定点】バインドブリムまとめ！",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "Id0XTnUEaUI",
+    "title": "【定点】アイボヴァイパーまとめ！自分用",
+    "channel": "dizz",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "KX7zOTlAeew",
+    "title": "Haven Sova Recon Lineup for A Long Info",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "m89fvUewP4s",
+    "title": "Haven Sova Recon Lineup for C Back Site Info",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "9obHH3-lKr4",
+    "title": "Abyss Sova Recon Lineup for A Back Site",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "YzO5U4HXJx4",
+    "title": "Ascent Sova Recon Lineup for A Site Generator",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "UVRJbCG_uVE",
+    "title": "Sova Ascent Lineup for AFK Control",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "V_rA12dlWKc",
+    "title": "Ascent Sova Recon Lineup for A Site Default Back",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "JtYjvEMqBQ0",
+    "title": "Ascent Brimstone Molly Lineup for A Site Default",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "UQ0GSyy_tIk",
+    "title": "Split Sova Recon Lineup for B Underheaven Info",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "YJ8xWKMGFUo",
+    "title": "Abyss Sova Recon Lineup for A Site Best Combo",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "88BA9q8bHr0",
+    "title": "Summit Raze Paint Shells Lineup for B Site Cypher Trap Destroyed",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "cypher",
+      "raze"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "RawXZp8TjrI",
+    "title": "Split Brimstone Lineup for B Default CT",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "Uq5xhf54-OA",
+    "title": "Haven Sova Recon Lineup for A Site Full HD",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "CgwIyVsqIo8",
+    "title": "【簡単で強い!】バインドBサイトの簡単ブリムストーン解除遅延モロトフ定点",
+    "channel": "こーどだよ",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "S-9-2g_W8kE",
+    "title": "Lotus Sova Recon Lineup for Fake A Rush",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "_dA1ZPd5vRM",
+    "title": "【VALORANT】シンプルで強い!パールAサイトでキルジョイの解除遅延グレネード定点!",
+    "channel": "こーどだよ",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "P3FbvaUcB-A",
+    "title": "Summit - KAY/O Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "BYr21x9teXQ",
+    "title": "SUMMIT - 30 Sova Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "wJ7FwDO9VkA",
+    "title": "Lotus - KAY/O Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "l4pQlc_YDGc",
+    "title": "Corrode - KAY/O Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "K8b5qR-bTek",
+    "title": "NEW LOTUS - 30 Sova Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "RrywrdMNx4A",
+    "title": "Abyss - KAY/O Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "TT6KELpquAU",
+    "title": "Breeze - KAY/O Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "ViXYfLQvyDk",
+    "title": "Best Cypher lineups on Corrode map In Valorant 2025",
+    "channel": "Little Giant Gaming",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "uZFabCVgHm4",
+    "title": "NEW BREEZE - 30 Sova Lineups",
+    "channel": "maxWELL Lineup-Larry",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "OkN1p94l4Lk",
+    "title": "ブリーズでヴァイパーを使うなら覚えておきたい定点",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "RUe9Qvpsbq4",
+    "title": "サンセットのかんたん空爆＆スモークセットアップ定点【ヴァイパー】",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": [
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "5_kheJwhQ-A",
+    "title": "【アセント】攻撃でミッドとAサイトの敵にささるダブルショックダーツ定点【ソーヴァ】",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "trXsiHoWlMU",
+    "title": "パールで使える便利なモッシュピット定点まとめ【ゲッコー】",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "RKxGauMgXis",
+    "title": "【アイスボックス】色々な設置妨害とA開幕ダブルショックダーツ定点【ソーヴァ】",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "oW___xOX_60",
+    "title": "【ロータス】オーメンにしかできない守りで役立つワンウェイスモーク定点/Defense omen one way smoke",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "omen"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "defense",
+      "oneway"
+    ]
+  },
+  {
+    "id": "3-uSjRQWAlo",
+    "title": "【パール】解除妨害ダブルショックダーツと罠破壊ダーツ定点【ソーヴァ】",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "pearl"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "7cV2tJYh27g",
+    "title": "【ロータス】オーメンにしかできない攻めで役立つワンウェイスモーク定点/Attack omen one way smoke",
+    "channel": "ぐるぐる【定点】",
+    "lang": "ja",
+    "agents": [
+      "omen"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "attack",
+      "oneway"
+    ]
+  },
+  {
+    "id": "jDfGBPfd9Fw",
+    "title": "【定点】アセント フェニックス ホットハンド【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "G2hY7s2Dzuk",
+    "title": "【定点】アセント フェニックス ホットハンド【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "aMDiu-00gw4",
+    "title": "【定点】ヘイヴン ソーヴァ リコン【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "HBVsVa0c2rU",
+    "title": "【定点】アセント フェニックス ホットハンド【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "vlPS0pcrZVw",
+    "title": "【定点】アセント フェニックス ホットハンド【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "EKAAaSDIG-Y",
+    "title": "【定点】アセント フェニックス ホットハンド【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "V3W0kRDEKg0",
+    "title": "VIPER LINEUPS - ASCENT - Cross Map Plant Denial Snake Bite Setup Guide - B Site",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "jKKtjQ8iQeU",
+    "title": "【定点】ヘイヴン ソーヴァ ショックダーツ【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "aeWK3K4ekjQ",
+    "title": "BRIMSTONE LINEUPS - NEW ICEBOX - Post Plant Molly Setup Guides #22 - B Site",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "1IvWArygcSE",
+    "title": "【定点】バインド ブリムストーン 空爆 インセンディアリー【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "5H884DHhSS4",
+    "title": "Viper Lineup on Bind - Post Plant Lucky Clutch #Shorts",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "8fVFF4pzfQM",
+    "title": "【定点】バインド ブリムストーン 空爆 インセンディアリー【VALORANT】【ゆっくり実況】",
+    "channel": "くらしきです",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "04wjMtBpdvw",
+    "title": "VIPER LINEUPS - BREEZE - Post Plant Snake Bite Setup Guide #29 - B Site - New Default",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "wBy6PGmpF5s",
+    "title": "VIPER LINEUPS - BREEZE - Post Plant Snake Bite Setup Guide #30 - A Site",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "breeze"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "uEj64QWbA9E",
+    "title": "VIPER LINEUPS - NEW ICEBOX - Post Plant Snake Bite Setup Guide #31 - B Site",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "cN6YhBq-n-U",
+    "title": "VIPER ROTATION LINEUP - ASCENT - A SITE - Post Plant Snake Bite Setup Guide",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": false,
+    "tags": [
+      "postplant",
+      "setup",
+      "molly"
+    ]
+  },
+  {
+    "id": "LB1MQcStKFc",
+    "title": "Viper Post Plant Lineup 4k Pistol Clutch on Icebox #Shorts",
+    "channel": "Lineup Legend",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": true,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "OxdA7Rq1_IA",
+    "title": "Valorant Sunset B-Site Brimstone Lineup + Unstoppable Wallbang Trick! Enemy's Spawn",
+    "channel": "Valorant MariaC",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "0guUiXc7UAk",
+    "title": "Brimstone Molly Lineup for Lotus A-Site! 🛑🔥 A Site",
+    "channel": "Valorant MariaC",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "3Ygiqj3Vmb4",
+    "title": "Valorant Easy Brimstone A Site Molly Lineup -(The Summit Map(New))",
+    "channel": "Valorant MariaC",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "hrjwxqEnkVw",
+    "title": "【VALORANT解説】ヘイブンA守り最強ソーヴァ定点紹介！ #valorant #ヴァロラント #sova #ゲーム #ゆっくり実況 #ゆっくり解説 #定点 #fps",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "-iZYDQ1AGRs",
+    "title": "NEW Map \"The Summit\" Brimstone Lineup Guide! (Insane Post-Plant) A Site",
+    "channel": "Valorant MariaC",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "j7eNJH8PO0o",
+    "title": "【VALORANT解説】ヘイブンAサイト攻めの最強ソーヴァ定点紹介！ #ヴァロラント #ゲーム #定点 #valorant #ゆっくり実況 #解説 #fps #ソーヴァ #sova #ヘイブン",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "kcwjuH7tDsw",
+    "title": "【VALORANT】アイスボックスヴァイパーの最強定点＆セットアップ紹介！#valorant解説 #valorant #定点 #fps #ゆっくり実況 #セットアップ #ヴァイパー",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "icebox"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "HHo1XOGBDoI",
+    "title": "【VALORANT】ヘイブンで使えるオーメン最強守りワンウェイモク3選！ #valorant立ち回り#valorant解説 #基本無料fps #ゆっくり実況  #valorant #定点 #オーメン",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "omen"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "defense",
+      "oneway"
+    ]
+  },
+  {
+    "id": "a8kcqJ_GUto",
+    "title": "【VALORANT】バインド最強サイファーB守りセットアップ教えちゃいます！ #valorant #ゆっくり実況 #valorant解説 #サイファー #FPS #ゲーム実況",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "defense",
+      "setup"
+    ]
+  },
+  {
+    "id": "goLKKE6-57M",
+    "title": "【VALORANT】アセントB守り最強キルジョイセットアップ紹介！ #valorant #valorant解説 #ゆっくり実況 #定点 #セットアップ #キルジョイ",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "defense",
+      "setup"
+    ]
+  },
+  {
+    "id": "DLsILcOltYk",
+    "title": "【VALORANT】ヘイブンで使えるリテイク阻止最強ワンウェイモク紹介！ #valorant #valorant立ち回り #valorant解説 #オーメン #shorts #ゆっくり実況",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "omen"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": [
+      "retake",
+      "oneway"
+    ]
+  },
+  {
+    "id": "ZvlcfStFgiA",
+    "title": "【VALORANT】バインドブリムストーンの最強空爆3選！#fps #valorant解説 #ゆっくり実況 #ブリムストーン #空爆 #定点 #ヴァロラント",
+    "channel": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "JmOY6GO5Mfk",
+    "title": "【サンセット】【デッドロック】Bメインのワンピックを抑える定点ネット #shorts #valorant #valorantclips #deadlock  #定点 #デッドロック #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "LRLh6mzYU2w",
+    "title": "【アセント】【ヴァイパー】Bサイト攻めで2回使えるローワーワンウェイスモーク #shorts #valorant #valorantclips #viper  #定点 #ヴァイパー #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": [
+      "attack",
+      "oneway"
+    ]
+  },
+  {
+    "id": "jZJhwdBeQNY",
+    "title": "【サミット】【ヴァイパー】攻めで使えるヴァイパーカーテン定点2選 #shorts #valorant #valorantclips #viper  #定点 #ヴァイパー #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "HoJkzxZY2j8",
+    "title": "【サミット】【ヴァイパー】Aメインとミッドを抑える定点カーテン #shorts #valorant #valorantclips #viper  #定点 #ヴァイパー  #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "ajgOchwemCc",
+    "title": "【サンセット】【ヴァイパー】ミッドに投げる定点スモーク #shorts #valorant #valorantclips #viper #sunset #定点 #ヴァイパー #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "fKaPN_Eiv0Y",
+    "title": "【ロータス】【ヴァイパー】Bサイトから投げるCメイン定点スモーク#shorts #valorant #valorantclips #viper  #定点 #ヴァイパー  #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "0XB0vYjYO0Y",
+    "title": "【アセント】【ヴァイパー】Aショートに投げる定点スモーク #shorts #valorant #valorantclips #viper #ascent #定点 #ヴァイパー #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "SDQ2EKTGT5w",
+    "title": "【ロータス】【ヴァイパー】Aヘブンに投げるスモーク#shorts #valorant #valorantclips #viper  #定点 #ヴァイパー #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "WH0kB5TKXO4",
+    "title": "【アセント】【ヴァイパー】ミッドボトムに投げる定点スモーク#shorts #valorant #valorantclips #viper #ascent #定点 #ヴァイパー #ヴァロラント",
+    "channel": "kur0tukI",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
@@ -15535,7 +21141,9 @@
       "haven"
     ],
     "short": true,
-    "tags": []
+    "tags": [
+      "molly"
+    ]
   },
   {
     "id": "b7EneOIVlRs",

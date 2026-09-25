@@ -1,0 +1,542 @@
+[
+  {
+    "id": "UC5gtVpXtJys6rJWf_bU7Bxg",
+    "name": "いわた【VCTで使われたアビリティ再現】",
+    "handle": "@iwataVCT",
+    "lang": "ja"
+  },
+  {
+    "id": "UC5kACbMlZeYonD8alay6exw",
+    "name": "【VALORANT 定点&小技】",
+    "handle": "@valo-xyz",
+    "lang": "ja"
+  },
+  {
+    "id": "UCTIjbFtvFjBRbHjJe4d-EOg",
+    "name": "Okeisyon",
+    "handle": "@okeisyon9970",
+    "lang": "ja"
+  },
+  {
+    "id": "UCq9JgzzqmEkIYlW9nM2k8ww",
+    "name": "京VALOチャンネル",
+    "handle": "@kyoVALOch",
+    "lang": "ja"
+  },
+  {
+    "id": "UCY18ikbI8tGGaPYdeHrGZFQ",
+    "name": "B3ast plays YT",
+    "handle": "@B3astplaysYT",
+    "lang": "en"
+  },
+  {
+    "id": "UCHP_PXlTpEHKsmcUOB9FNSg",
+    "name": "くぁ〜る",
+    "handle": "@QuR_mrrr",
+    "lang": "ja"
+  },
+  {
+    "id": "UCuzmDcBOr4pymTKlidoh7OA",
+    "name": "JUMP ON GAMES",
+    "handle": "@JumpOnGames01",
+    "lang": "ja"
+  },
+  {
+    "id": "UC_cu2rHxH9PUUV1JcLYESpQ",
+    "name": "Lightios",
+    "handle": "@lightios-vl",
+    "lang": "en"
+  },
+  {
+    "id": "UCSJe7FSuKdygiO8QN-5qBWA",
+    "name": "ItsDANYGEN - Best Lineups & Clips",
+    "handle": "@ItsDANYGEN",
+    "lang": "en"
+  },
+  {
+    "id": "UCMEKPGft9cjtz852a93TnFQ",
+    "name": "ホウントマスター",
+    "handle": "@fade-online",
+    "lang": "ja"
+  },
+  {
+    "id": "UCxB64WJaMhqE2y7PTY3GYog",
+    "name": "スピキかわいいよ",
+    "handle": "@RPG-game-t2g",
+    "lang": "ja"
+  },
+  {
+    "id": "UC_R45XQ55ANdX1-9tVUWp2w",
+    "name": "Fraty",
+    "handle": "@fraty",
+    "lang": "en"
+  },
+  {
+    "id": "UCbwqEEBAoXP0Q1HCpqRPhRQ",
+    "name": "T41【オーディンの人】",
+    "handle": "@T41_odin",
+    "lang": "ja"
+  },
+  {
+    "id": "UCjGYZA_NUXCoETAswcganhg",
+    "name": "VALORANT研究所",
+    "handle": "@ValorantLab_JP",
+    "lang": "ja"
+  },
+  {
+    "id": "UCqjctWDRfjjceVZOQX-_EuA",
+    "name": "Xive",
+    "handle": "@Xive-n6t",
+    "lang": "en"
+  },
+  {
+    "id": "UCmQcnDnrvt3I6_iMJdQfY2w",
+    "name": "そたごん【VALORANT定点紹介】",
+    "handle": "@そたごん-w6tm",
+    "lang": "ja"
+  },
+  {
+    "id": "UCGdClEd--0u-ghk_JQ88D5w",
+    "name": "Valomate | VALORANT Lineups App",
+    "handle": "@Valomate",
+    "lang": "en"
+  },
+  {
+    "id": "UCAa2X_OJEmYH_P846xsNrhw",
+    "name": "Dr.KEN's ch",
+    "handle": "@drkengaming",
+    "lang": "ja"
+  },
+  {
+    "id": "UCjRAusVxY7zi4UTB0HIT7ng",
+    "name": "HEHE XD",
+    "handle": "@thehehexd",
+    "lang": "en"
+  },
+  {
+    "id": "UCrJcIeCCoasd-BIiiN9QETQ",
+    "name": "空爆大好き人間、どうも僕です。",
+    "handle": "@僕です",
+    "lang": "ja"
+  },
+  {
+    "id": "UCuR29kgxuwOtiRCwyEfBFOg",
+    "name": "フッキー / Fckyy",
+    "handle": "@Fckyy",
+    "lang": "ja"
+  },
+  {
+    "id": "UCKT11w9gjhpwQ7Mrjq3lmyw",
+    "name": "hoverboarD",
+    "handle": "@hoverboarDgg",
+    "lang": "en"
+  },
+  {
+    "id": "UCsREdu95hOZ7LcuRdxs6THg",
+    "name": "Ryvlex",
+    "handle": "@ryvlexx",
+    "lang": "en"
+  },
+  {
+    "id": "UC4KwnxZ0zyI41mHrOebqmSg",
+    "name": "CoachCow",
+    "handle": "@CoachCow",
+    "lang": "en"
+  },
+  {
+    "id": "UCqrF5ZvWWQN0X2VtPdgAljQ",
+    "name": "Vitalytoly",
+    "handle": "@Vitalytoly",
+    "lang": "en"
+  },
+  {
+    "id": "UCwir7wmLGwg36Ccu_YaSyoQ",
+    "name": "いわたの保管庫",
+    "handle": "@いわたの保管庫",
+    "lang": "ja"
+  },
+  {
+    "id": "UCbgsymBMMl1549WVXCRum0Q",
+    "name": "ガンダムMk-V",
+    "handle": "@ガンダムMk-V",
+    "lang": "ja"
+  },
+  {
+    "id": "UCd_40hULPyHYXHrwpWG18TA",
+    "name": "ぎょい",
+    "handle": "@ぎょいgyoy",
+    "lang": "ja"
+  },
+  {
+    "id": "UCkQSEbqyF1SC19XC1thEWLQ",
+    "name": "Tseeky - Pro Valorant Lineups",
+    "handle": "@Tseeky",
+    "lang": "en"
+  },
+  {
+    "id": "UCVe_IiX512eg4CZxiNS3ohg",
+    "name": "Reco",
+    "handle": "@RecoKilljoy",
+    "lang": "en"
+  },
+  {
+    "id": "UClv4LdOnorydRAoXO5ilOtw",
+    "name": "ItsFlameBTW",
+    "handle": "@itsflamebtw",
+    "lang": "en"
+  },
+  {
+    "id": "UCsANLy0T7rmzNsXmYg_RYlw",
+    "name": "TylerJedi",
+    "handle": "@JediTyler",
+    "lang": "en"
+  },
+  {
+    "id": "UCqJSftrxTJU82qbxYfm0-ig",
+    "name": "目指せフルパ",
+    "handle": "@目指せフルパ",
+    "lang": "ja"
+  },
+  {
+    "id": "UCexmDS_P6r0k3bxtU3ZPjoQ",
+    "name": "バニラ_アイス_47",
+    "handle": "@banira_aisu_47",
+    "lang": "ja"
+  },
+  {
+    "id": "UCHkAeHIl8ZCZ-Lrt_EXjiVA",
+    "name": "mira(ブリ美)",
+    "handle": "@mira_vlrt",
+    "lang": "ja"
+  },
+  {
+    "id": "UCmA-Gfl95B9fFkgVd6AnWJA",
+    "name": "CaMbCaMb",
+    "handle": "@CaMbCaMb",
+    "lang": "en"
+  },
+  {
+    "id": "UCycpGugTK9_Ni-gDk2qPBqQ",
+    "name": "ぱそ",
+    "handle": "@PC_noobdesu",
+    "lang": "ja"
+  },
+  {
+    "id": "UCjE6wFkpcu_exTC1mp9ODtg",
+    "name": "Crazy",
+    "handle": "@Crazyttv",
+    "lang": "en"
+  },
+  {
+    "id": "UChCY4S5dVnyLPtcZptJezfw",
+    "name": "sitne",
+    "handle": "@sitne40",
+    "lang": "ja"
+  },
+  {
+    "id": "UCZDHenF1BT1t_0NGIe4fQFQ",
+    "name": "ルソルのラインナップ",
+    "handle": "@lusor_Line_Ups",
+    "lang": "en"
+  },
+  {
+    "id": "UCzEh3cx5fxOHN2rtyttFrRg",
+    "name": "もかと申します@ジョイ専イモータル",
+    "handle": "@mokatomoshimasu",
+    "lang": "ja"
+  },
+  {
+    "id": "UCsTXuNeqQ9fNcy_JzmWWB2w",
+    "name": "Amirant",
+    "handle": "@Amirant",
+    "lang": "en"
+  },
+  {
+    "id": "UCII5qD4cVatDIeALu93JbyQ",
+    "name": "LegendZero",
+    "handle": "@LegendZeroGamer",
+    "lang": "en"
+  },
+  {
+    "id": "UCACA2z0hfpOZjUqDOmUAbLg",
+    "name": "サムのFPSちゃんねる【解説・実況】",
+    "handle": "@Sam_GamingJP",
+    "lang": "ja"
+  },
+  {
+    "id": "UC-n4bNMOQStsOAHIdL0feUg",
+    "name": "さわっぴー",
+    "handle": "@さわっぴー",
+    "lang": "ja"
+  },
+  {
+    "id": "UCbXL7EmuD33CzUIdIc7RL5Q",
+    "name": "VALOtopics座学",
+    "handle": "@topicsVALORANT",
+    "lang": "ja"
+  },
+  {
+    "id": "UCt8otekHwhFb8MLIxmy9RsA",
+    "name": "邪王真眼シアン【VALORANT解説】",
+    "handle": "@SiannAcid",
+    "lang": "ja"
+  },
+  {
+    "id": "UCFd0m3fIJNo-2XVG6qjAe_g",
+    "name": "Klixon",
+    "handle": "@klixonn",
+    "lang": "en"
+  },
+  {
+    "id": "UC6L8Njbt23Y_KwJ9eqviMUQ",
+    "name": "Flex Fitzz ",
+    "handle": "@FlexFitzz07",
+    "lang": "en"
+  },
+  {
+    "id": "UC0c-kouvES1THi_sacXqGMw",
+    "name": "NIBO32",
+    "handle": "@nibonibo12",
+    "lang": "ja"
+  },
+  {
+    "id": "UCxjH-Cm0GhHlqtjamJh7tGw",
+    "name": "Briiest",
+    "handle": "@Briiest",
+    "lang": "en"
+  },
+  {
+    "id": "UCnwetdmgXsWiJdmt0-p7VYw",
+    "name": "Xandrite",
+    "handle": "@Xandrite_ow",
+    "lang": "ja"
+  },
+  {
+    "id": "UC18JQ9Ny6Rs1KgzSoMF1eTg",
+    "name": "SHUKRA",
+    "handle": "@SHUKRAA",
+    "lang": "en"
+  },
+  {
+    "id": "UCcMitiPoO2BLQDtFbRba0hQ",
+    "name": "バインドのおじさん",
+    "handle": "@bind_ozisan",
+    "lang": "ja"
+  },
+  {
+    "id": "UCJpFhHKBBbuTZ0X64RQt8cQ",
+    "name": "Brush",
+    "handle": "@BrushGG",
+    "lang": "en"
+  },
+  {
+    "id": "UCJycc5q1BKT6cWyqymxa5OA",
+    "name": "神咲遊",
+    "handle": "@knzk_yuu",
+    "lang": "ja"
+  },
+  {
+    "id": "UC4OkQjNNPSaeCCA970YZd5Q",
+    "name": "【MAR】メル",
+    "handle": "@mar_ch_",
+    "lang": "ja"
+  },
+  {
+    "id": "UCbP2TSL63yqoHbZD401C7Hw",
+    "name": "月宮奏心",
+    "handle": "@TsukimiyaKanato",
+    "lang": "ja"
+  },
+  {
+    "id": "UCN5_Q0WmzVq4T_XyVmJpIwA",
+    "name": "ISACOMPUTER LABO",
+    "handle": "@isacomputerlabo",
+    "lang": "ja"
+  },
+  {
+    "id": "UCZTrOoHUCR_xxcCPfw_P-8g",
+    "name": "KuysJEFF  ",
+    "handle": "@KuysJEFF0624",
+    "lang": "en"
+  },
+  {
+    "id": "UCtNqFFhOOM8-ABgImPflmCQ",
+    "name": "dizz",
+    "handle": "@mament-z3l",
+    "lang": "ja"
+  },
+  {
+    "id": "UCAVqadeVFysxI1oxA7NjGNg",
+    "name": "ハーバー研究員谷風　tanikaze",
+    "handle": "@tanikazedesu",
+    "lang": "ja"
+  },
+  {
+    "id": "UCYtvX3PowS4qSh4O8WbxX0w",
+    "name": "AceFury Gamer",
+    "handle": "@AceFuryGamer",
+    "lang": "en"
+  },
+  {
+    "id": "UCsy75tLsoM1-4Q2XERJvfyg",
+    "name": "Chill Mickelson",
+    "handle": "@ChillMickelson",
+    "lang": "en"
+  },
+  {
+    "id": "UC1OwtYPsLPLBDMj81xcukjw",
+    "name": "Default Sage",
+    "handle": "@DefaultSage",
+    "lang": "en"
+  },
+  {
+    "id": "UCw6kPpn8ZIppEuISrrj7X4Q",
+    "name": "Sinfy",
+    "handle": "@sinfyVAL",
+    "lang": "en"
+  },
+  {
+    "id": "UCbIqF-nFWzlbvMo-g5zBtgg",
+    "name": "ProLineups",
+    "handle": "@ProLineups",
+    "lang": "en"
+  },
+  {
+    "id": "UCwZtsqKo_-XIOG-c5a1N6Fg",
+    "name": "博崎　ロシェ",
+    "handle": "@hakusakiroshe",
+    "lang": "ja"
+  },
+  {
+    "id": "UCNa-s8-MDO-YAMSQCM7NnaQ",
+    "name": "こーどだよ",
+    "handle": "@Codedayo_0803",
+    "lang": "ja"
+  },
+  {
+    "id": "UCykQkC1UGibrvoN-0N2wKYQ",
+    "name": "maxWELL Lineup-Larry",
+    "handle": "@maxwell-lineup-larry",
+    "lang": "en"
+  },
+  {
+    "id": "UCeI9zeR5dsAGcQIG4egV5Qw",
+    "name": "モズch",
+    "handle": "@kowaza",
+    "lang": "ja"
+  },
+  {
+    "id": "UCzl82cfgqR5Q177IkbPjUpw",
+    "name": "TheSomnathOP Gaming",
+    "handle": "@TheSomnathOP",
+    "lang": "en"
+  },
+  {
+    "id": "UCfdh7sC4F6ui2aPeI5x7lbA",
+    "name": "Little Giant Gaming",
+    "handle": "@LittleGiantGaming",
+    "lang": "en"
+  },
+  {
+    "id": "UCFuFmHM3rV0-eUxjDOJEoNA",
+    "name": "白石 束-しらいし たばね-",
+    "handle": "@ShiraishiPeace",
+    "lang": "ja"
+  },
+  {
+    "id": "UCqlZ2gamRMZkE0VJZboO7dQ",
+    "name": "sachiaren",
+    "handle": "@sachiaren",
+    "lang": "ja"
+  },
+  {
+    "id": "UC7WCxhHUetA1E3euRWSXc0g",
+    "name": "Yolzy",
+    "handle": "@yolzy",
+    "lang": "en"
+  },
+  {
+    "id": "UCUoSCcgSc3cihrx9U9BTsUA",
+    "name": "ありかわ",
+    "handle": "@ありかわ-q9y",
+    "lang": "ja"
+  },
+  {
+    "id": "UCWnptKZFAcn99Qxpqz5pojw",
+    "name": "Frost LIVE",
+    "handle": "@FrostLIVE",
+    "lang": "en"
+  },
+  {
+    "id": "UCHz0T66avMMB-ArboMxbM4g",
+    "name": "ぐるぐる【定点】",
+    "handle": "@valoranter234",
+    "lang": "ja"
+  },
+  {
+    "id": "UCsx2dEv7AAJrpgp4U_-RXhg",
+    "name": "TaikoSans",
+    "handle": "@taikosans5827",
+    "lang": "ja"
+  },
+  {
+    "id": "UCsnansdsoUCApA8pVJHVRIw",
+    "name": "くらしきです",
+    "handle": "@fromkurashiki_ok",
+    "lang": "ja"
+  },
+  {
+    "id": "UC_AYXijFCQzMk2PIc9kBxTQ",
+    "name": "Lineup Legend",
+    "handle": "@LineupLegend",
+    "lang": "en"
+  },
+  {
+    "id": "UC1u_a_2ZOiIB8LUk2eAY-tQ",
+    "name": "Valorant MariaC",
+    "handle": "@casm96",
+    "lang": "en"
+  },
+  {
+    "id": "UCVYO3o9l_rnG4LwKtn0B8yQ",
+    "name": "淡鳥ぴよ -Tandori Piyo-",
+    "handle": "@piyotaNnel",
+    "lang": "ja"
+  },
+  {
+    "id": "UCjI4SX65hyNxlZzOxBD07Yw",
+    "name": "現場げん子⛑️🐾໊",
+    "handle": "@げんばげんこ",
+    "lang": "ja"
+  },
+  {
+    "id": "UCSLxg16qtgojSZbYnzxCiNQ",
+    "name": "HYORU",
+    "handle": "@hyoru3",
+    "lang": "ja"
+  },
+  {
+    "id": "UCkV6z8MnvDka6U6sqBcqIuw",
+    "name": "霧夜ちゃんねる【ゲーム実況・解説】",
+    "handle": "@noi.SSWs.youtube",
+    "lang": "ja"
+  },
+  {
+    "id": "UCZVAh1Kic4ebewZXn29zfEw",
+    "name": "風呂で歌うソーヴァ",
+    "handle": "@風呂で歌うソーヴァ",
+    "lang": "ja"
+  },
+  {
+    "id": "UCQIGkgiqE61hEhR0nMOvSAQ",
+    "name": "kur0tukI",
+    "handle": "@kur0tukI-vl",
+    "lang": "ja"
+  },
+  {
+    "id": "UCGd4wbSHxqT4o1AHebX9VZQ",
+    "name": "きうい",
+    "handle": "@きうい-c9w",
+    "lang": "ja"
+  }
+]

@@ -25,7 +25,7 @@ npm run dev      # http://localhost:5173 で起動（依存パッケージなし
 GitHub Pages で公開し、GitHub Actions（[.github/workflows/site.yml](.github/workflows/site.yml)）で毎日 4:00（日本時間）に自動更新します。
 
 1. `npm run meta` … 新エージェント・新マップの反映（マッププールは `COMPETITIVE_POOL` を手で更新）
-2. `npm run discover` … YouTube Data API で新着の定点動画を検索し `data/sources/auto.json` に追記
+2. `npm run discover` … 登録チャンネル（`data/channels.json`）の RSS から新着の定点動画を探し `data/sources/auto.json` に追記
 3. `npm run shorts` / `npm run verify -- --prune` / `npm run x-media -- --prune` … ショート判定・リンク切れ削除・X の動画情報更新
 4. `npm run merge` → 変更があればコミットして公開
 
@@ -34,7 +34,7 @@ GitHub Pages で公開し、GitHub Actions（[.github/workflows/site.yml](.githu
 ### 初回の設定
 
 - リポジトリの Settings → Pages → Source を「GitHub Actions」にする
-- 新着動画の検索には YouTube Data API のキーが必要です。[Google Cloud Console](https://console.cloud.google.com/apis/library/youtube.googleapis.com) で YouTube Data API v3 を有効にして API キーを作り、リポジトリの Settings → Secrets and variables → Actions に `YOUTUBE_API_KEY` として登録します（無料枠 1 日 10,000 ユニットのうち 1 回の実行で約 6,000 を使います）。キーが無い間は新着の検索だけスキップされます
+- API キーなどの設定は不要です（新着は YouTube がチャンネルごとに公開している RSS から取得します）
 - X のポストは自動では追加しません（X の検索 API は有料のため）。手動で `data/sources/x/` に追加してください
 
 ## データの更新
@@ -45,8 +45,18 @@ GitHub Pages で公開し、GitHub Actions（[.github/workflows/site.yml](.githu
 | `npm run merge` | `data/sources/*.json` を統合・重複除去し、タイトルからタグを推定して `data/videos.json` を生成 |
 | `npm run shorts` | 全動画を oEmbed で調べ、ショート動画（縦長）の sources に `"short": true` を付ける（その後 `npm run merge`） |
 | `npm run x-media` | X ポストのメディアの種類・動画のサムネイルを調べて sources に記録（`-- --prune` で動画の無いポストを削除） |
-| `npm run discover` | YouTube Data API（`YOUTUBE_API_KEY`）で新着の定点動画を探し `data/sources/auto.json` に追記。タイトルに定点系の語・エージェント名・マップ名がそろうものだけ採用 |
+| `npm run discover` | 登録チャンネルの RSS（各チャンネルの最新 15 本、API キー不要）から新着の定点動画を探し `data/sources/auto.json` に追記。タイトルに定点系の語・エージェント名・マップ名がそろい、埋め込み可能なものだけ採用 |
+| `npm run channels -- <@ハンドル \| 動画URL>` | 新着を見に行くチャンネルを `data/channels.json` に登録（`-- --from-archive 3` で収録 3 本以上のチャンネルをまとめて登録） |
 | `npm run verify` | 全動画を YouTube oEmbed、全ポストを X oEmbed で確認し、削除・非公開のものを報告（`-- --prune` で sources から削除） |
+
+### 新着を見に行くチャンネルを増やす
+
+```sh
+npm run channels -- @valo-xyz                      # ハンドルで
+npm run channels -- https://youtu.be/XXXXXXXXXXX   # そのチャンネルの動画の URL で
+```
+
+登録したチャンネルは翌日 4:00 の自動更新から対象になります（`data/channels.json` を push してください）。登録していないチャンネルの動画は自動では見つからないので、良い定点チャンネルを見つけたら登録してください。
 
 ### 動画を追加する
 

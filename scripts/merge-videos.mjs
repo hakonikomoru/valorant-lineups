@@ -16,7 +16,7 @@ const TAG_RULES = {
   retake: /リテイク|retake/i,
   oneway: /ワンウェイ|one[\s-]?ways?/i,
   setup: /セットアップ|置きカメラ|setups?\b/i,
-  molly: /モロトフ|モロ定点|モリー|空爆|インセンディアリー|スネークバイト|ナノスワーム|フラグ\/?メント|モッシュピット|ホットハンズ|moll(y|ies)|molotov|incendiary|snake\s?bite|nanoswarm|frag\/?ment|mosh\s?pit|hot\s?hands/i,
+  molly: /モロトフ|モロ定点|モリー|空爆|インセンディアリー|スネークバイト|ナノスワーム|フラグ\/?メント|モッシュピット|ホットハンズ?|moll(y|ies)|molotov|incendiary|snake\s?bite|nanoswarm|frag\/?ment|mosh\s?pit|hot\s?hands/i,
 };
 
 const byId = new Map();
