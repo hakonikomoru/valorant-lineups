@@ -5606,6 +5606,108 @@
     "tags": []
   },
   {
+    "id": "skDqVOhdCqg",
+    "title": "Lotus Fade C Default Haunt Lineups by NRG Ethan",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "zJ-RYu9sedg",
+    "title": "Split Viper A Poison Orb Lineups by NRG skuba",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "bQG-OkUs6C0",
+    "title": "Split Viper A Poison Orb Lineups by NRG skuba",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "tags": []
+  },
+  {
+    "id": "OBOB0drAMIw",
+    "title": "westside選手が使ったロータスCサイトセットアップ【サイファー】 #shorts #valorant #valorantclips",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "bgSkhtkSHu0",
+    "title": "PRX invy選手が使用！ヘイヴンAで使える激高カウンターホウント定点 #valorant #ヴァロラント #vct #champions #fade #フェイド #vctchampions",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "QCVpqVLz3oM",
+    "title": "Lotus Fade C Default Haunt Lineups by NRG Ethan",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "tags": []
+  },
+  {
+    "id": "b5NKC1C1a10",
+    "title": "NEW DEADLOCK SETUP ABYSS A SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "tags": [
+      "setup"
+    ]
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
