@@ -238,6 +238,7 @@ main { padding: 0 var(--gutter) 64px; }
 .hero-body { position: relative; z-index: 1; }
 .hero-role { margin: 0; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.16em; color: var(--red); }
 .hero-name { margin: 0; font-family: var(--font-display); font-weight: 400; font-size: clamp(2.6rem, 8vw, 5rem); line-height: 1; letter-spacing: 0.02em; text-transform: uppercase; }
+.hero-name-static { font-family: var(--font-body); font-weight: 900; font-size: clamp(1.5rem, 5vw, 2.4rem); line-height: 1.3; }
 .hero-name-ja { margin: 4px 0 16px; font-size: 1rem; font-weight: 700; }
 .hero-desc { max-width: 640px; margin: 0; font-size: 0.85rem; color: var(--ink); opacity: 0.85; }
 .agent-hero.is-feature { min-height: 160px; }

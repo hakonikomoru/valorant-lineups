@@ -128,10 +128,9 @@ function renderAgentRail() {
   for (const v of pool) for (const a of v.agents) count.set(a, (count.get(a) ?? 0) + 1);
   // エージェント別ではポストしかないエージェントも 0 本で出す
   if (state.view === 'agent') for (const a of agents) if (!count.has(a.slug)) count.set(a.slug, 0);
-  const groups = Map.groupBy(
-    agents.filter((a) => count.has(a.slug)),
-    (a) => a.role,
-  );
+  // ロールごとに分ける（Map.groupBy は iOS 17.4 未満の Safari に無いので使わない）
+  const groups = new Map();
+  for (const a of agents.filter((a) => count.has(a.slug))) groups.set(a.role, [...(groups.get(a.role) ?? []), a]);
   const all =
     state.view === 'agent'
       ? ''

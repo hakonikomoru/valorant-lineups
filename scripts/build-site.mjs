@@ -108,7 +108,7 @@ function render(page) {
   html = html.replace('</head>', `  <script type="application/ld+json">${JSON.stringify(ld)}</script>\n</head>`);
   html = html.replace(
     '<section class="agent-hero" id="agent-hero" aria-live="polite"></section>',
-    `<section class="agent-hero" id="agent-hero" aria-live="polite"><div class="hero-body"><h1 class="hero-name">${esc(heading(page))}</h1><p class="hero-desc">${esc(description)}</p></div></section>`,
+    `<section class="agent-hero" id="agent-hero" aria-live="polite"><div class="hero-body"><h1 class="hero-name hero-name-static">${esc(heading(page))}</h1><p class="hero-desc">${esc(description)}</p></div></section>`,
   );
   html = html.replace(
     '<section class="video-grid" id="video-grid"></section>',
