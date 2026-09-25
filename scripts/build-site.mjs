@@ -2,6 +2,7 @@
 // - /sova/ascent のようなページごとに index.html を作り、タイトル・説明文・canonical・OGP・パンくずを入れる
 // - 動画の一覧もリンクとして書き出しておく（JavaScript を実行しない検索エンジン向け。表示は app.js が置き換える）
 // - sitemap.xml と robots.txt も作る
+// - static/ の中身（Google Search Console の確認ファイルなど）はそのままサイトのルートに置く
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { SITE, ALL, FEATURE_NAMES, routePath, seoFor } from '../assets/js/seo.js';
 
@@ -119,6 +120,7 @@ function render(page) {
 await rm(out, { recursive: true, force: true });
 await mkdir(new URL('data/', out), { recursive: true });
 await cp(new URL('assets/', root), new URL('assets/', out), { recursive: true });
+await cp(new URL('static/', root), out, { recursive: true }).catch(() => {});
 for (const f of ['meta.json', 'videos.json', 'posts.json']) await cp(new URL(`data/${f}`, root), new URL(`data/${f}`, out));
 
 const paths = [];

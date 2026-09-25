@@ -97,6 +97,7 @@ data/videos.json        動画一覧（生成物）
 data/posts.json         X ポスト一覧（生成物）
 data/sources/*.json     動画の元データ（ここを編集する）
 data/sources/x/*.json   X ポストの元データ
+static/                 サイトのルートにそのまま置くファイル（Google Search Console の確認ファイルなど）
 scripts/                データ生成・検証・開発サーバー
 docs/RESEARCH.md        スキル定点に関する調査メモ
 ```
