@@ -31,8 +31,18 @@ export function parsePath(path) {
 
 const unit = (view) => (view === 'posts' ? '件' : '本');
 
+// 「セットアップ」でも探されるエージェント: センチネル全員と、セットアップの動画が 10 本以上あるエージェント（ヴァイパーなど）
+export function setupAgentsOf(meta, videos) {
+  const count = new Map();
+  for (const v of videos) if (v.tags.includes('setup')) for (const a of v.agents) count.set(a, (count.get(a) ?? 0) + 1);
+  return new Set(meta.agents.filter((a) => a.role === 'Sentinel' || (count.get(a.slug) ?? 0) >= 10).map((a) => a.slug));
+}
+
+// そのエージェントのページで使う呼び方（「定点」または「定点・セットアップ」）
+export const lineupTerm = (agent, setupAgents) => (setupAgents?.has(agent) ? '定点・セットアップ' : '定点');
+
 // ページの <title> と meta description。count はそのページに並ぶ動画（ポスト）の数
-export function seoFor({ view, agent, map, home = false }, meta, count) {
+export function seoFor({ view, agent, map, home = false }, meta, count, setupAgents) {
   const a = meta.agents.find((x) => x.slug === agent);
   const m = meta.maps.find((x) => x.slug === map);
   const mapJa = m ? m.name : map === 'multi' ? '複数マップ' : '';
@@ -40,17 +50,20 @@ export function seoFor({ view, agent, map, home = false }, meta, count) {
 
   if (home) {
     return {
-      title: `VALORANT 定点まとめ｜エージェント別・マップ別のスキル定点動画 | ${SITE.name}`,
-      description: `VALORANT のスキル定点（ラインナップ）動画をエージェント別・マップ別にまとめたサイト。ソーヴァ・ヴァイパー・ブリムストーン・キルジョイなど全エージェント、全マップの定点を、攻め・守り・設置後・リテイク・ワンウェイの用途別に探してその場で再生できます。モロトフ定点・YouTubeショート・X の定点ポストも毎日自動で更新。`,
+      title: `VALORANT 定点・セットアップまとめ｜エージェント別・マップ別の動画 | ${SITE.name}`,
+      description: `VALORANT のスキル定点（ラインナップ）とセットアップの動画をエージェント別・マップ別にまとめたサイト。ソーヴァ・ヴァイパー・ブリムストーンの定点から、キルジョイ・サイファーのセットアップまで、全マップ分を攻め・守り・設置後・リテイク・ワンウェイの用途別に探してその場で再生できます。モロトフ定点・YouTubeショート・X の定点ポストも毎日自動で更新。`,
     };
   }
 
   if (view === 'agent') {
     const abilities = a.abilities.map((ab) => ab.name).join('・');
     const where = m || map === 'multi' ? `${mapJa}の` : '';
+    const setup = setupAgents?.has(agent);
+    const what = setup ? 'スキル定点（ラインナップ）とセットアップの動画' : 'スキル定点（ラインナップ）動画';
+    const use = setup ? '攻め・守り・リテイク・設置後など用途別のセットアップや定点' : '攻め・守り・設置後・リテイク・ワンウェイなど用途別の定点';
     return {
-      title: `${a.name}（${a.nameEn}）${where}定点まとめ ${n} | VALORANT ${SITE.name}`,
-      description: `VALORANT ${a.name}（${a.nameEn}）の${m ? `${mapJa}（${m.nameEn}）で使える` : '全マップの'}スキル定点（ラインナップ）動画${n}をまとめました。${abilities}の定点を、攻め・守り・設置後・リテイク・ワンウェイなど用途別に探して、その場で再生できます。`,
+      title: `${a.name}（${a.nameEn}）${where}${lineupTerm(agent, setupAgents)}まとめ ${n} | VALORANT ${SITE.name}`,
+      description: `VALORANT ${a.name}（${a.nameEn}）の${m ? `${mapJa}（${m.nameEn}）で使える` : '全マップの'}${what}${n}をまとめました。${abilities}の${use}を探して、その場で再生できます。`,
     };
   }
 

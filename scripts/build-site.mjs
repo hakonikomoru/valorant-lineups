@@ -4,7 +4,7 @@
 // - sitemap.xml と robots.txt も作る
 // - static/ の中身（Google Search Console の確認ファイルなど）はそのままサイトのルートに置く
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
-import { SITE, ALL, FEATURE_NAMES, routePath, seoFor } from '../assets/js/seo.js';
+import { SITE, ALL, FEATURE_NAMES, routePath, seoFor, setupAgentsOf, lineupTerm } from '../assets/js/seo.js';
 
 const root = new URL('../', import.meta.url);
 const out = new URL('_site/', root);
@@ -19,6 +19,7 @@ const [meta, videos, posts, template] = await Promise.all([
 const esc = (s) =>
   String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 const agentBySlug = new Map(meta.agents.map((a) => [a.slug, a]));
+const setupAgents = setupAgentsOf(meta, videos);
 const mapBySlug = new Map(meta.maps.map((m) => [m.slug, m]));
 
 const FEATURE_ITEMS = {
@@ -64,9 +65,9 @@ function breadcrumb(page) {
 }
 
 function heading(page) {
-  if (page.home) return 'VALORANT スキル定点アーカイブ';
+  if (page.home) return 'VALORANT 定点・セットアップまとめ';
   const where = page.map === ALL ? '' : ` ${mapBySlug.get(page.map).name}`;
-  if (page.view === 'agent') return `${agentBySlug.get(page.agent).name}${where}の定点`;
+  if (page.view === 'agent') return `${agentBySlug.get(page.agent).name}${where}の${lineupTerm(page.agent, setupAgents)}`;
   return `${FEATURE_NAMES[page.view]}${where}`;
 }
 
@@ -91,7 +92,7 @@ function relatedLinks(page) {
 function render(page) {
   const path = page.home ? '/' : routePath(page);
   const url = SITE.url + path;
-  const { title, description } = seoFor(page, meta, page.items.length);
+  const { title, description } = seoFor(page, meta, page.items.length, setupAgents);
   const ld = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',

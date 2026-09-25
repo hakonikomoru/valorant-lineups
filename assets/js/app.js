@@ -1,4 +1,4 @@
-import { SITE, ALL, FEATURE_NAMES, routePath, parsePath, seoFor } from './seo.js';
+import { SITE, ALL, FEATURE_NAMES, routePath, parsePath, seoFor, setupAgentsOf, lineupTerm } from './seo.js';
 
 const TAGS = {
   attack: '攻め',
@@ -40,6 +40,7 @@ const esc = (s) =>
 
 // データは main.js が読み込んでから、この app.js を読み込む
 const { meta, videos, posts } = window.__LINEUP_DATA__;
+const setupAgents = setupAgentsOf(meta, videos);
 for (const v of videos) v.search = `${v.title} ${v.channel}`.toLowerCase();
 for (const p of posts) p.search = `${p.text} ${p.author} @${p.handle}`.toLowerCase();
 
@@ -95,7 +96,7 @@ function writeRoute(push) {
 
 // タイトル・説明文・canonical・OGP をページに合わせて書き換える
 function setMeta(count) {
-  const { title, description } = seoFor({ ...state, home: atHome }, meta, count);
+  const { title, description } = seoFor({ ...state, home: atHome }, meta, count, setupAgents);
   const url = SITE.url + currentPath();
   document.title = title;
   for (const [sel, attr, value] of [
@@ -191,7 +192,7 @@ function renderHero() {
     <div class="hero-body">
       <p class="hero-role">${esc(a.roleName)} / ${esc(a.role.toUpperCase())}</p>
       <h1 class="hero-name">${esc(a.nameEn)}</h1>
-      <p class="hero-name-ja">${esc(a.name)} のスキル定点</p>
+      <p class="hero-name-ja">${esc(a.name)} のスキル${lineupTerm(a.slug, setupAgents)}</p>
       <ul class="abilities">
         ${a.abilities
           .map(
