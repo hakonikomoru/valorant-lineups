@@ -22,18 +22,20 @@ npm run dev      # http://localhost:5173 で起動（依存パッケージなし
 
 ## 公開と自動更新
 
-GitHub Pages で公開し、GitHub Actions（[.github/workflows/site.yml](.github/workflows/site.yml)）で毎日 4:00（日本時間）に自動更新します。
+https://lineup-archive.vercel.app で公開しています。
+
+- **公開**: Vercel（komolab チームの `lineup-archive` プロジェクト）が GitHub の `main` への push を検知して自動でデプロイします。公開するファイルは [vercel.json](vercel.json) の `buildCommand` でまとめています（index.html・assets・生成済みの JSON のみ）
+- **自動更新**: GitHub Actions（[.github/workflows/site.yml](.github/workflows/site.yml)）が毎日 4:00（日本時間）に次を実行し、変更があればコミットします（その push で Vercel が公開）
 
 1. `npm run meta` … 新エージェント・新マップの反映（マッププールは `COMPETITIVE_POOL` を手で更新）
 2. `npm run discover` … 登録チャンネル（`data/channels.json`）の RSS から新着の定点動画を探し `data/sources/auto.json` に追記
 3. `npm run shorts` / `npm run verify -- --prune` / `npm run x-media -- --prune` … ショート判定・リンク切れ削除・X の動画情報更新
 4. `npm run merge` → 変更があればコミットして公開
 
-`main` に push したときと、Actions タブの「Run workflow」でも公開されます。リンク切れが全体の 3% を超えたときは通信側の問題とみなし、削除せずに止まります。
+Actions タブの「Run workflow」で手動でも実行できます。リンク切れが全体の 3% を超えたときは通信側の問題とみなし、削除せずに止まります。
 
-### 初回の設定
+### 補足
 
-- リポジトリの Settings → Pages → Source を「GitHub Actions」にする
 - API キーなどの設定は不要です（新着は YouTube がチャンネルごとに公開している RSS から取得します）
 - X のポストは自動では追加しません（X の検索 API は有料のため）。手動で `data/sources/x/` に追加してください
 
