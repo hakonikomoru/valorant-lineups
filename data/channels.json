@@ -543,7 +543,8 @@
     "id": "UCUyzkoU2IzFo7OG39FH8jSQ",
     "name": "一ノ瀬とおる",
     "handle": "@IchinoseTohr",
-    "agent": "cypher"
+    "agent": "cypher",
+    "lang": "ja"
   },
   {
     "id": "UC0Cx5nwNa7eK4welD1B6nwA",
@@ -574,6 +575,114 @@
     "name": "Me dusa",
     "handle": "@Medusa0125",
     "agent": "cypher",
+    "lang": "ja"
+  },
+  {
+    "id": "UCBp9FEztnlGhX5w2mFjnagQ",
+    "name": "ゆの【Yuno】",
+    "handle": "@Yuno_VL",
+    "lang": "ja"
+  },
+  {
+    "id": "UC0h1Pq3U3FNc6rwyDfbMU_A",
+    "name": "SurugaMonkeyCH",
+    "handle": "@monkeych4645",
+    "lang": "ja"
+  },
+  {
+    "id": "UCfJ3i4Zc35EF28N7YJuDWuw",
+    "name": "baruboy",
+    "handle": "@baruboy",
+    "lang": "ja"
+  },
+  {
+    "id": "UCqf8Mlsu9tsWigALK2gT-1g",
+    "name": "Lazvell",
+    "handle": "@Lazvell",
+    "lang": "ja"
+  },
+  {
+    "id": "UCYX2lGNvaS9LN2vkwJn7lEA",
+    "name": "mittiii 【みっちー】",
+    "handle": "@mittiii",
+    "lang": "ja"
+  },
+  {
+    "id": "UCK-ymzG3QDLTT_jbym7EjaA",
+    "name": "【公認】mittiii切り抜きチャンネル【みっちー】",
+    "handle": "@mittiii_kirinuki",
+    "lang": "ja"
+  },
+  {
+    "id": "UCT7Rrpq7oFRSWdqsAua0GQw",
+    "name": "【公認】ウィズさんちょきちょき【BlackWiz 切り抜き】",
+    "handle": "@blackwiz_chokichoki",
+    "agent": "viper",
+    "lang": "ja"
+  },
+  {
+    "id": "UCleynKbpHKmEWCzyairgu3A",
+    "name": "BlackWiz.",
+    "handle": "@BlackWizcs",
+    "agent": "viper",
+    "lang": "ja"
+  },
+  {
+    "id": "UCEeEFug3M-aQ62H8LOQt-YQ",
+    "name": "GON",
+    "handle": "@gon_vl",
+    "agent": "omen",
+    "lang": "ja"
+  },
+  {
+    "id": "UCBRfMHd7STg9Uq5DIJtRGZQ",
+    "name": "TORANECO",
+    "handle": "@toraneco9519",
+    "lang": "ja"
+  },
+  {
+    "id": "UCt5-xco6k1xV88hmaYlIAhw",
+    "name": "rion",
+    "handle": "@rioncr",
+    "lang": "ja"
+  },
+  {
+    "id": "UCODi_ErPvJ_L30H2WDEgaAw",
+    "name": "ade Channel",
+    "handle": "@adelazy",
+    "agent": "astra",
+    "lang": "ja"
+  },
+  {
+    "id": "UC7pz8a6erkK4xkWBjPVwO6w",
+    "name": "鮎良 Ayura",
+    "handle": "@harborOTP",
+    "agent": "harbor",
+    "lang": "ja"
+  },
+  {
+    "id": "UC365wnAhsZSfqvogYnaQy-w",
+    "name": "ZETA JUNiOR",
+    "handle": "@JUPJUNiOR",
+    "lang": "ja"
+  },
+  {
+    "id": "UCKsJclTB0H83xfUV2c_X68g",
+    "name": "Hamu",
+    "handle": "@Hamu_Aim",
+    "lang": "ja"
+  },
+  {
+    "id": "UCXEW13qpntV7pacu0Kz-9yA",
+    "name": "MOTHER3rd",
+    "handle": "@MOTHER3rd",
+    "lang": "ja"
+  },
+  {
+    "id": "UC60rk5b8PSc13WqESew3wkw",
+    "name": "ふぇに男",
+    "handle": "@fenio_youtube",
+    "agent": "phoenix",
     "lang": "ja"
   }
 ]
