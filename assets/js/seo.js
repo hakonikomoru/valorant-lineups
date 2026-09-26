@@ -9,6 +9,7 @@ export const SITE = {
 export const ALL = 'all';
 
 export const FEATURE_NAMES = {
+  pro: 'プロ定点',
   molly: 'モロトフ定点',
   shorts: 'YouTubeショート',
   posts: 'X ポスト',
@@ -71,6 +72,7 @@ export function seoFor({ view, agent, map, home = false }, meta, count, setupAge
   const who = a ? `${a.name}の` : '';
   const where = m ? `${mapJa}の` : '';
   const about = {
+    pro: 'VCT などの大会でプロ選手が使った定点・セットアップと、国内プロ本人による解説動画',
     molly: 'ブリムストーンのインセンディアリー、ヴァイパーのスネークバイト、キルジョイのナノスワーム、KAY/O のフラグ/メントなど、設置後の解除阻止や遅延に使う空爆系のモロトフ定点',
     shorts: '数十秒で立ち位置と照準を確認できる YouTube ショートの定点動画',
     posts: 'X（旧 Twitter）に投稿された、動画付きの定点ポスト',

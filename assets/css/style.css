@@ -96,6 +96,7 @@ main { padding: 0 var(--gutter) 64px; }
   transition: color 0.15s, box-shadow 0.15s;
 }
 .view-tab-count { font-size: 0.7rem; font-weight: 600; opacity: 0.7; }
+.view-tab-short { display: none; }
 .view-tab:hover { color: var(--ink); }
 .view-tab[aria-selected='true'] { color: var(--ink); box-shadow: inset 0 -3px 0 var(--red); }
 
@@ -450,6 +451,7 @@ main { padding: 0 var(--gutter) 64px; }
 .card-agents img { width: 20px; height: 20px; }
 .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
 .tag { padding: 0 6px; font-size: 0.68rem; border: 1px solid var(--slate); color: var(--muted); }
+.tag-pro { border-color: var(--red); color: var(--ink); font-weight: 700; }
 
 .empty {
   grid-column: 1 / -1;
@@ -600,7 +602,9 @@ dialog.dialog-shim[open] {
   .header-stats { display: none; }
   .brand-title { font-size: 1.25rem; }
   .view-tabs { margin-top: 12px; gap: 0; }
-  .view-tab { flex: 1; flex-direction: column; align-items: center; gap: 0; padding: 8px 4px; font-size: 0.82rem; white-space: nowrap; line-height: 1.3; }
+  .view-tab { flex: 1; flex-direction: column; align-items: center; gap: 0; padding: 8px 2px; font-size: 0.8rem; white-space: nowrap; line-height: 1.3; }
+  .view-tab-full { display: none; }
+  .view-tab-short { display: inline; }
   .agent-rail { gap: 14px; padding-top: 14px; }
   .agent-tab { width: 64px; }
   .agent-tab img, .agent-tab-all-mark { width: 40px; height: 40px; }
@@ -626,6 +630,12 @@ dialog.dialog-shim[open] {
   .player-actions { width: 100%; }
   .player-actions .btn { flex: 1; text-align: center; }
   .section-head .btn { padding: 6px 12px; font-size: 0.78rem; }
+}
+
+/* ===== 幅の狭いスマホ（iPhone SE 第 1 世代など） ===== */
+@media (max-width: 360px) {
+  .view-tab { padding: 8px 0; font-size: 0.72rem; }
+  .view-tab-count { font-size: 0.64rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {

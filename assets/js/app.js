@@ -11,6 +11,12 @@ const TAGS = {
 };
 // エージェント別とは別に、横断して見られる特集
 const FEATURES = {
+  pro: {
+    title: 'PRO LINEUPS',
+    name: FEATURE_NAMES.pro,
+    desc: 'VCT などの大会でプロ選手が使った定点・セットアップと、ZETA・DFM・CR など国内プロ本人による解説動画です。カードに選手名・大会名を載せています。',
+    match: (v) => Boolean(v.pro),
+  },
   molly: {
     title: 'MOLLY LINEUPS',
     name: FEATURE_NAMES.molly,
@@ -41,7 +47,7 @@ const esc = (s) =>
 // データは main.js が読み込んでから、この app.js を読み込む
 const { meta, videos, posts } = window.__LINEUP_DATA__;
 const setupAgents = setupAgentsOf(meta, videos);
-for (const v of videos) v.search = `${v.title} ${v.channel}`.toLowerCase();
+for (const v of videos) v.search = `${v.title} ${v.channel} ${v.pro ?? ''}`.toLowerCase();
 for (const p of posts) p.search = `${p.text} ${p.author} @${p.handle}`.toLowerCase();
 
 const agentBySlug = new Map(meta.agents.map((a) => [a.slug, a]));
@@ -110,9 +116,11 @@ function setMeta(count) {
 }
 
 /* ---------- 描画 ---------- */
+// スマホの幅ではタブ名を短くする（5 つ並ぶと見切れるため）
+const SHORT_TAB = { agent: 'エージェント', pro: 'プロ定点', molly: 'モロトフ', shorts: 'ショート', posts: 'Xポスト' };
 function renderViewTabs() {
   const tab = (view, label, n) =>
-    `<button type="button" class="view-tab" role="tab" data-view="${view}" aria-selected="${state.view === view}">${label}<span class="view-tab-count">${n}</span></button>`;
+    `<button type="button" class="view-tab" role="tab" data-view="${view}" aria-selected="${state.view === view}"><span class="view-tab-full">${label}</span><span class="view-tab-short" aria-hidden="true">${SHORT_TAB[view] ?? label}</span><span class="view-tab-count">${n}</span></button>`;
   $('#view-tabs').innerHTML = [
     tab('agent', 'エージェント別', videos.length),
     ...Object.keys(FEATURES).map((key) => tab(key, FEATURES[key].name, itemsOf(key).length)),
@@ -358,7 +366,7 @@ function renderGrid() {
           </div>
           <div class="card-body">
             <h3 class="card-title">${esc(v.title)}</h3>
-            ${v.tags.length ? `<div class="card-tags">${v.tags.map((t) => `<span class="tag">${TAGS[t]}</span>`).join('')}</div>` : ''}
+            ${v.tags.length || v.pro ? `<div class="card-tags">${v.pro ? `<span class="tag tag-pro">PRO ${esc(v.pro)}</span>` : ''}${v.tags.map((t) => `<span class="tag">${TAGS[t]}</span>`).join('')}</div>` : ''}
             <div class="card-meta">
               <span class="card-channel">${esc(v.channel)}</span>
               ${others ? `<span class="card-agents">${others}</span>` : ''}
@@ -379,7 +387,8 @@ function render(push = false) {
   renderTagChips();
   renderGrid();
   renderPostSection();
-  $('#search').placeholder = state.view === 'posts' ? '本文・アカウントで検索' : 'タイトル・チャンネルで検索';
+  $('#search').placeholder =
+    state.view === 'posts' ? '本文・アカウントで検索' : state.view === 'pro' ? '選手名・大会・タイトルで検索' : 'タイトル・チャンネルで検索';
   setMeta(currentVideos().length);
 }
 

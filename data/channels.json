@@ -544,5 +544,36 @@
     "name": "一ノ瀬とおる",
     "handle": "@IchinoseTohr",
     "agent": "cypher"
+  },
+  {
+    "id": "UC0Cx5nwNa7eK4welD1B6nwA",
+    "name": "VCTVALORANT定点研究ch りゅうてぃ",
+    "handle": "@vctvalorantteiten",
+    "lang": "ja"
+  },
+  {
+    "id": "UCO8X7IeQtqjirQmLcoCXDHA",
+    "name": "CS版 VALORANT研究所",
+    "handle": "@ValorantLab_CS",
+    "lang": "ja"
+  },
+  {
+    "id": "UCeF4C3EGr6o1a6QLplhF1Xw",
+    "name": "DetonatioN FocusMe VALORANT",
+    "handle": "@DFMVALORANT",
+    "lang": "ja"
+  },
+  {
+    "id": "UCy4myr_rqyKlo-SxseS4MNg",
+    "name": "VALORANT Lab",
+    "handle": "@ValorantLab_EN",
+    "lang": "en"
+  },
+  {
+    "id": "UCkcLtTRQr_c_Tkr1saeqPuw",
+    "name": "Me dusa",
+    "handle": "@Medusa0125",
+    "agent": "cypher",
+    "lang": "ja"
   }
 ]

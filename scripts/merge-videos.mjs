@@ -35,11 +35,14 @@ for (const file of files) {
       agents: [],
       maps: [],
       short: false,
+      pro: '',
       extraTags: [],
     };
     if (!v.agents.includes(e.agent)) v.agents.push(e.agent);
     if (!v.maps.includes(e.map)) v.maps.push(e.map);
     if (e.short) v.short = true;
+    // プロが使った定点・セットアップなら、どの選手・大会のものか（例: "ZETA Laz"・"TL nAts / VCT EMEA 2026"）
+    if (e.pro && !v.pro) v.pro = e.pro;
     // sources 側で明示したタグ（タイトルから推定できないもの）
     for (const t of e.tags ?? []) if (!v.extraTags.includes(t)) v.extraTags.push(t);
     byId.set(e.youtubeId, v);
