@@ -60,9 +60,11 @@ async function feedOf(channel) {
 }
 
 // タイトルからエージェントとマップを判定する。定点の動画でなければ null
-function classify(title) {
+// タイトルにエージェント名が無いときは、channels.json の agent（そのチャンネルの専門のエージェント）を使う
+function classify(title, channel) {
   if (!LINEUP.test(title)) return null;
-  const agents = agentRules.filter(([, re]) => re.test(title)).map(([slug]) => slug);
+  let agents = agentRules.filter(([, re]) => re.test(title)).map(([slug]) => slug);
+  if (!agents.length && channel.agent) agents = [channel.agent];
   if (!agents.length) return null;
   // ハッシュタグだけに出てくるマップ名（#フラクチャー など）は無関係なことが多いので見ない
   const body = title.replace(/#\S+/g, '');
@@ -95,7 +97,7 @@ async function pool(items, fn) {
 }
 
 const entries = (await pool(channels, feedOf)).flat().filter((e) => !known.has(e.id));
-const candidates = entries.map((e) => ({ ...e, match: classify(e.title) })).filter((e) => e.match);
+const candidates = entries.map((e) => ({ ...e, match: classify(e.title, e.channel) })).filter((e) => e.match);
 
 const today = new Date().toISOString().slice(0, 10);
 const added = (

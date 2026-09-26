@@ -69,9 +69,14 @@ npm run channels -- @valo-xyz                      # ハンドルで
 npm run channels -- https://youtu.be/XXXXXXXXXXX   # そのチャンネルの動画の URL で
 ```
 
+特定のエージェント専門のチャンネル（例: サイファー専門の一ノ瀬とおる）は、`data/channels.json` のそのチャンネルに `"agent": "cypher"` のように書くと、タイトルにエージェント名が無い動画もそのエージェントとして拾います。
+
 登録したチャンネルは翌日 4:00 の自動更新から対象になります（`data/channels.json` を push してください）。登録していないチャンネルの動画は自動では見つからないので、良い定点チャンネルを見つけたら登録してください。
 
 ### 動画を追加する
+
+新着チェックでは拾えない過去の動画を手で選んで入れるときは `data/sources/manual.json` に追記します（`"tags": ["setup"]` のようにタグを直接付けることもできます）。
+
 
 `data/sources/` の任意の JSON（または新しいファイル）に追記して `npm run merge` を実行します。
 

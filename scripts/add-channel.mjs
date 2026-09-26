@@ -3,6 +3,8 @@
 //   node scripts/add-channel.mjs @valo-xyz                 ハンドルで登録
 //   node scripts/add-channel.mjs https://youtu.be/XXXXXXXXXXX   動画の URL（または ID）から、その投稿者を登録
 //   node scripts/add-channel.mjs --from-archive 3          収録済みの動画が 3 本以上あるチャンネルをまとめて登録
+// 特定のエージェント専門のチャンネルは、channels.json の該当チャンネルに "agent": "cypher" のように書いておくと、
+// タイトルにエージェント名が無い動画もそのエージェントとして拾う（例: 一ノ瀬とおる）
 import { readFile, writeFile } from 'node:fs/promises';
 
 const root = new URL('../data/', import.meta.url);
