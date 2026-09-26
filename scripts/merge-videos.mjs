@@ -19,6 +19,22 @@ const TAG_RULES = {
   molly: /モロトフ|モロ定点|モリー|空爆|インセンディアリー|スネークバイト|ナノスワーム|フラグ\/?メント|モッシュピット|ホットハンズ?|moll(y|ies)|molotov|incendiary|snake\s?bite|nanoswarm|frag\/?ment|mosh\s?pit|hot\s?hands/i,
 };
 
+// 誰の動画か（creator）: 人気ストリーマー・プロの絞り込みに使う
+// 1. sources の "creator"、2. 投稿チャンネル（channels.json の "creator"）、3. "pro"（"ZETA Laz / VCT ..."）の選手名、の順に決める
+const channels = JSON.parse(await readFile(new URL('channels.json', root), 'utf8').catch(() => '[]'));
+const creatorByChannel = new Map(channels.filter((c) => c.creator).map((c) => [c.name, c.creator]));
+// チーム名だけのもの
+const TEAM_ONLY = { 'DetonatioN FocusMe': 'DFM', DFM: 'DFM' };
+function creatorOfPro(pro) {
+  const who = pro.split(' / ')[0].trim();
+  // 大会名だけのもの（"VCT Americas 2026 Stage 2" など）は人ではないので付けない
+  if (!who || /^(VCT|Masters|Champions|EWC|Challengers|Riot|VALORANT)\b/i.test(who)) return '';
+  if (TEAM_ONLY[who]) return TEAM_ONLY[who];
+  const words = who.split(/\s+/);
+  // "ZETA Laz" → "Laz"（先頭はチーム名）
+  return words.length > 1 ? words.slice(1).join(' ') : who;
+}
+
 const byId = new Map();
 const files = (await readdir(new URL('sources/', root))).filter((f) => f.endsWith('.json')).sort();
 for (const file of files) {
@@ -36,6 +52,7 @@ for (const file of files) {
       maps: [],
       short: false,
       pro: '',
+      creator: '',
       extraTags: [],
     };
     if (!v.agents.includes(e.agent)) v.agents.push(e.agent);
@@ -43,6 +60,7 @@ for (const file of files) {
     if (e.short) v.short = true;
     // プロが使った定点・セットアップなら、どの選手・大会のものか（例: "ZETA Laz"・"TL nAts / VCT EMEA 2026"）
     if (e.pro && !v.pro) v.pro = e.pro;
+    if (!v.creator) v.creator = e.creator ?? creatorByChannel.get(e.channel) ?? (e.pro ? creatorOfPro(e.pro) : '');
     // sources 側で明示したタグ（タイトルから推定できないもの）
     for (const t of e.tags ?? []) if (!v.extraTags.includes(t)) v.extraTags.push(t);
     byId.set(e.youtubeId, v);

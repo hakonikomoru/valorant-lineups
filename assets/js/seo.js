@@ -9,7 +9,7 @@ export const SITE = {
 export const ALL = 'all';
 
 export const FEATURE_NAMES = {
-  pro: 'プロ定点',
+  pro: 'ストリーマー・プロ',
   molly: 'モロトフ定点',
   shorts: 'YouTubeショート',
   posts: 'X ポスト',
@@ -72,13 +72,14 @@ export function seoFor({ view, agent, map, home = false }, meta, count, setupAge
   const who = a ? `${a.name}の` : '';
   const where = m ? `${mapJa}の` : '';
   const about = {
-    pro: 'VCT などの大会でプロ選手が使った定点・セットアップと、国内プロ本人による解説動画',
+    pro: '人気ストリーマー（Xandrite・ゆの・一ノ瀬とおる・GON など）と、プロ選手（ZETA Laz・TL nAts など、VCT で使われたものを含む）の定点・セットアップ動画',
     molly: 'ブリムストーンのインセンディアリー、ヴァイパーのスネークバイト、キルジョイのナノスワーム、KAY/O のフラグ/メントなど、設置後の解除阻止や遅延に使う空爆系のモロトフ定点',
     shorts: '数十秒で立ち位置と照準を確認できる YouTube ショートの定点動画',
     posts: 'X（旧 Twitter）に投稿された、動画付きの定点ポスト',
   }[view];
+  const label = view === 'pro' ? `${feature}の定点・セットアップ` : feature;
   return {
-    title: `${where}${who}${feature}まとめ ${n} | VALORANT ${SITE.name}`,
+    title: `${where}${who}${label}まとめ ${n} | VALORANT ${SITE.name}`,
     description: `VALORANT の${where}${who}${about}を${n}まとめました。エージェント・マップ別に絞り込んで、その場で再生できます。毎日自動で更新しています。`,
   };
 }

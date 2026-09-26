@@ -23,7 +23,7 @@ const setupAgents = setupAgentsOf(meta, videos);
 const mapBySlug = new Map(meta.maps.map((m) => [m.slug, m]));
 
 const FEATURE_ITEMS = {
-  pro: videos.filter((v) => v.pro),
+  pro: videos.filter((v) => v.creator || v.pro),
   molly: videos.filter((v) => v.tags.includes('molly')),
   shorts: videos.filter((v) => v.short),
   posts,

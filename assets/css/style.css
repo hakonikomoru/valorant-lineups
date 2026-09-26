@@ -455,6 +455,16 @@ main { padding: 0 var(--gutter) 64px; }
 .card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
 .tag { padding: 0 6px; font-size: 0.68rem; border: 1px solid var(--slate); color: var(--muted); }
 .tag-pro { border-color: var(--red); color: var(--ink); font-weight: 700; }
+.tag-streamer { border-color: #8b7cf6; }
+
+/* ===== ストリーマー・プロの人の絞り込み ===== */
+.person-row { margin-top: 16px; }
+.person-row[hidden] { display: none; }
+.person-label { margin: 0 0 6px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; color: var(--muted); }
+.person-chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 8px; scrollbar-width: thin; scrollbar-color: var(--slate) transparent; }
+.person-chip { flex: none; white-space: nowrap; }
+.person-kind { margin-right: 5px; padding: 0 4px; font-size: 0.6rem; font-weight: 700; letter-spacing: 0.04em; color: var(--navy); background: var(--muted); }
+.person-chip[aria-pressed='true'] .person-kind { background: var(--red); color: var(--ink); }
 
 .empty {
   grid-column: 1 / -1;

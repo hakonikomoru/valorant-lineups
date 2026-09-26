@@ -309,7 +309,8 @@
     "id": "UCnwetdmgXsWiJdmt0-p7VYw",
     "name": "Xandrite",
     "handle": "@Xandrite_ow",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "Xandrite"
   },
   {
     "id": "UC18JQ9Ny6Rs1KgzSoMF1eTg",
@@ -544,7 +545,8 @@
     "name": "一ノ瀬とおる",
     "handle": "@IchinoseTohr",
     "agent": "cypher",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "一ノ瀬とおる"
   },
   {
     "id": "UC0Cx5nwNa7eK4welD1B6nwA",
@@ -575,114 +577,132 @@
     "name": "Me dusa",
     "handle": "@Medusa0125",
     "agent": "cypher",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "Medusa"
   },
   {
     "id": "UCBp9FEztnlGhX5w2mFjnagQ",
     "name": "ゆの【Yuno】",
     "handle": "@Yuno_VL",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "ゆの"
   },
   {
     "id": "UC0h1Pq3U3FNc6rwyDfbMU_A",
     "name": "SurugaMonkeyCH",
     "handle": "@monkeych4645",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "SurugaMonkey"
   },
   {
     "id": "UCfJ3i4Zc35EF28N7YJuDWuw",
     "name": "baruboy",
     "handle": "@baruboy",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "baruboy"
   },
   {
     "id": "UCqf8Mlsu9tsWigALK2gT-1g",
     "name": "Lazvell",
     "handle": "@Lazvell",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "Laz"
   },
   {
     "id": "UCYX2lGNvaS9LN2vkwJn7lEA",
     "name": "mittiii 【みっちー】",
     "handle": "@mittiii",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "mittiii"
   },
   {
     "id": "UCK-ymzG3QDLTT_jbym7EjaA",
     "name": "【公認】mittiii切り抜きチャンネル【みっちー】",
     "handle": "@mittiii_kirinuki",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "mittiii"
   },
   {
     "id": "UCT7Rrpq7oFRSWdqsAua0GQw",
     "name": "【公認】ウィズさんちょきちょき【BlackWiz 切り抜き】",
     "handle": "@blackwiz_chokichoki",
     "agent": "viper",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "BlackWiz"
   },
   {
     "id": "UCleynKbpHKmEWCzyairgu3A",
     "name": "BlackWiz.",
     "handle": "@BlackWizcs",
     "agent": "viper",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "BlackWiz"
   },
   {
     "id": "UCEeEFug3M-aQ62H8LOQt-YQ",
     "name": "GON",
     "handle": "@gon_vl",
     "agent": "omen",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "GON"
   },
   {
     "id": "UCBRfMHd7STg9Uq5DIJtRGZQ",
     "name": "TORANECO",
     "handle": "@toraneco9519",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "TORANECO"
   },
   {
     "id": "UCt5-xco6k1xV88hmaYlIAhw",
     "name": "rion",
     "handle": "@rioncr",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "rion"
   },
   {
     "id": "UCODi_ErPvJ_L30H2WDEgaAw",
     "name": "ade Channel",
     "handle": "@adelazy",
     "agent": "astra",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "ade"
   },
   {
     "id": "UC7pz8a6erkK4xkWBjPVwO6w",
     "name": "鮎良 Ayura",
     "handle": "@harborOTP",
     "agent": "harbor",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "鮎良"
   },
   {
     "id": "UC365wnAhsZSfqvogYnaQy-w",
     "name": "ZETA JUNiOR",
     "handle": "@JUPJUNiOR",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "ZETA JUNiOR"
   },
   {
     "id": "UCKsJclTB0H83xfUV2c_X68g",
     "name": "Hamu",
     "handle": "@Hamu_Aim",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "Hamu"
   },
   {
     "id": "UCXEW13qpntV7pacu0Kz-9yA",
     "name": "MOTHER3rd",
     "handle": "@MOTHER3rd",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "MOTHER3"
   },
   {
     "id": "UC60rk5b8PSc13WqESew3wkw",
     "name": "ふぇに男",
     "handle": "@fenio_youtube",
     "agent": "phoenix",
-    "lang": "ja"
+    "lang": "ja",
+    "creator": "ふぇに男"
   }
 ]

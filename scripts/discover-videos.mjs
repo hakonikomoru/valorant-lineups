@@ -116,6 +116,7 @@ const added = (
         channel: info.author_name,
         lang,
         ...(short ? { short: true } : {}),
+        ...(channel.creator ? { creator: channel.creator } : {}),
         addedAt: today,
       })),
     );

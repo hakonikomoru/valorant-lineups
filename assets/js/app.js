@@ -12,10 +12,10 @@ const TAGS = {
 // エージェント別とは別に、横断して見られる特集
 const FEATURES = {
   pro: {
-    title: 'PRO LINEUPS',
+    title: 'STREAMERS & PROS',
     name: FEATURE_NAMES.pro,
-    desc: 'VCT などの大会でプロ選手が使った定点・セットアップと、ZETA・DFM・CR など国内プロ本人による解説動画です。カードに選手名・大会名を載せています。',
-    match: (v) => Boolean(v.pro),
+    desc: '人気ストリーマーの解説動画と、VCT などでプロ選手が使った定点・セットアップをまとめています。名前を選ぶとその人の動画だけに絞れます。',
+    match: (v) => Boolean(v.creator || v.pro),
   },
   molly: {
     title: 'MOLLY LINEUPS',
@@ -47,7 +47,7 @@ const esc = (s) =>
 // データは main.js が読み込んでから、この app.js を読み込む
 const { meta, videos, posts } = window.__LINEUP_DATA__;
 const setupAgents = setupAgentsOf(meta, videos);
-for (const v of videos) v.search = `${v.title} ${v.channel} ${v.pro ?? ''}`.toLowerCase();
+for (const v of videos) v.search = `${v.title} ${v.channel} ${v.pro ?? ''} ${v.creator ?? ''}`.toLowerCase();
 for (const p of posts) p.search = `${p.text} ${p.author} @${p.handle}`.toLowerCase();
 
 const agentBySlug = new Map(meta.agents.map((a) => [a.slug, a]));
@@ -61,19 +61,21 @@ const agents = meta.agents.filter((a) => countByAgent.has(a.slug) || posts.some(
 const agentSlugs = new Set(agents.map((a) => a.slug));
 
 // view: 'agent'（エージェント別）または FEATURES のキー。特集では agent に ALL（全エージェント）も入る
-const state = { view: 'agent', agent: agents[0].slug, map: ALL, tags: new Set(), lang: '', query: '' };
+// who: ストリーマー・プロのタブで選んでいる人（creator）
+const state = { view: 'agent', agent: agents[0].slug, map: ALL, who: '', tags: new Set(), lang: '', query: '' };
 
 const isMap = (map) => mapBySlug.has(map) || map === 'multi';
 // 横スクロール一覧の中で、選択中のタブが見える位置まで送る（ページ自体は動かさない）
-function revealSelected(list) {
-  const el = list.querySelector('[aria-selected="true"]');
+function revealSelected(list, selector = '[aria-selected="true"]') {
+  const el = list.querySelector(selector);
   if (!el) return;
   const r = el.getBoundingClientRect();
   const box = list.getBoundingClientRect();
   if (r.left < box.left) list.scrollLeft += r.left - box.left - 40;
   else if (r.right > box.right) list.scrollLeft += r.right - box.right + 40;
 }
-const featureVideos = () => (state.view === 'agent' ? videos : itemsOf(state.view));
+const byWho = (items) => (state.view === 'pro' && state.who ? items.filter((v) => v.creator === state.who) : items);
+const featureVideos = () => (state.view === 'agent' ? videos : byWho(itemsOf(state.view)));
 
 /* ---------- ルーティング: /<agent>/<map> または /<feature>/<map>/<agent> ---------- */
 // トップページ（/）はエージェントを選ぶまで URL を / のままにする（検索結果に出るトップの URL を保つため）
@@ -83,6 +85,8 @@ function readRoute() {
   const legacy = location.hash.startsWith('#/') ? location.hash.slice(1) : '';
   const { first, map, agent } = parsePath(legacy || location.pathname);
   atHome = !first;
+  const who = new URLSearchParams(location.search).get('who') ?? '';
+  state.who = first === 'pro' && videos.some((v) => v.creator === who) ? who : '';
   if (FEATURES[first]) {
     state.view = first;
     state.agent = featureVideos().some((v) => v.agents.includes(agent)) ? agent : ALL;
@@ -94,10 +98,33 @@ function readRoute() {
 }
 const currentPath = () => (atHome ? '/' : routePath(state));
 // 絞り込みを変えたら URL を書き換える（戻るボタンで前の表示に戻れるように履歴を積む）
+// 人の絞り込みは ?who=Laz のようにクエリで持つ（共有できるように。canonical には含めない）
 function writeRoute(push) {
   const path = currentPath();
-  if (location.pathname === path && !location.hash) return;
-  history[push ? 'pushState' : 'replaceState'](null, '', path);
+  const search = state.view === 'pro' && state.who ? `?who=${encodeURIComponent(state.who)}` : '';
+  if (location.pathname === path && location.search === search && !location.hash) return;
+  history[push ? 'pushState' : 'replaceState'](null, '', path + search);
+}
+
+// ストリーマー・プロのタブの、人の名前のボタン（件数は人以外の絞り込みで数える）
+function renderPersonChips() {
+  const wrap = $('#person-row');
+  wrap.hidden = state.view !== 'pro';
+  if (wrap.hidden) return;
+  const base = itemsOf('pro').filter((v) => v.creator && matchesAgent(v) && matchesMap(v));
+  const people = new Map();
+  for (const v of base) {
+    const p = people.get(v.creator) ?? { n: 0, pro: false };
+    p.n += 1;
+    p.pro = p.pro || Boolean(v.pro);
+    people.set(v.creator, p);
+  }
+  if (state.who && !people.has(state.who)) people.set(state.who, { n: 0, pro: false });
+  const list = [...people].sort((a, b) => b[1].n - a[1].n || a[0].localeCompare(b[0], 'ja'));
+  const chip = (who, label, n, kind) =>
+    `<button type="button" class="chip person-chip" data-who="${esc(who)}" aria-pressed="${state.who === who}">${kind ? `<span class="person-kind">${kind}</span>` : ''}${esc(label)}<span class="chip-count">${n}</span></button>`;
+  $('#person-chips').innerHTML = [chip('', 'すべて', itemsOf('pro').filter((v) => matchesAgent(v) && matchesMap(v)).length, ''), ...list.map(([who, p]) => chip(who, who, p.n, p.pro ? 'PRO' : '配信'))].join('');
+  revealSelected($('#person-chips'), '[aria-pressed="true"]');
 }
 
 // タイトル・説明文・canonical・OGP をページに合わせて書き換える
@@ -117,7 +144,7 @@ function setMeta(count) {
 
 /* ---------- 描画 ---------- */
 // スマホの幅ではタブ名を短くする（5 つ並ぶと見切れるため）
-const SHORT_TAB = { agent: 'エージェント', pro: 'プロ定点', molly: 'モロトフ', shorts: 'ショート', posts: 'Xポスト' };
+const SHORT_TAB = { agent: 'エージェント', pro: '配信者・プロ', molly: 'モロトフ', shorts: 'ショート', posts: 'Xポスト' };
 function renderViewTabs() {
   const tab = (view, label, n) =>
     `<button type="button" class="view-tab" role="tab" data-view="${view}" aria-selected="${state.view === view}"><span class="view-tab-full">${label}</span><span class="view-tab-short" aria-hidden="true">${SHORT_TAB[view] ?? label}</span><span class="view-tab-count">${n}</span></button>`;
@@ -187,7 +214,7 @@ function renderHero() {
       <div class="hero-body">
         <p class="hero-role">FEATURE / 特集</p>
         <h1 class="hero-name">${f.title}</h1>
-        <p class="hero-name-ja">${esc(f.name)}${a ? `（${esc(a.name)}）` : ''}</p>
+        <p class="hero-name-ja">${esc(f.name)}${[state.view === 'pro' && state.who, a?.name].filter(Boolean).map((x) => `（${esc(x)}）`).join('')}</p>
         <p class="hero-desc">${esc(f.desc)}</p>
       </div>
       ${a ? `<img class="hero-portrait" src="${a.portrait}" alt="">` : ''}`;
@@ -366,7 +393,7 @@ function renderGrid() {
           </div>
           <div class="card-body">
             <h3 class="card-title">${esc(v.title)}</h3>
-            ${v.tags.length || v.pro ? `<div class="card-tags">${v.pro ? `<span class="tag tag-pro">PRO ${esc(v.pro)}</span>` : ''}${v.tags.map((t) => `<span class="tag">${TAGS[t]}</span>`).join('')}</div>` : ''}
+            ${v.tags.length || v.pro || v.creator ? `<div class="card-tags">${v.pro ? `<span class="tag tag-pro">PRO ${esc(v.pro)}</span>` : v.creator ? `<span class="tag tag-pro tag-streamer">配信 ${esc(v.creator)}</span>` : ''}${v.tags.map((t) => `<span class="tag">${TAGS[t]}</span>`).join('')}</div>` : ''}
             <div class="card-meta">
               <span class="card-channel">${esc(v.channel)}</span>
               ${others ? `<span class="card-agents">${others}</span>` : ''}
@@ -384,13 +411,24 @@ function render(push = false) {
   renderAgentRail();
   renderHero();
   renderMapTabs();
+  renderPersonChips();
   renderTagChips();
   renderGrid();
   renderPostSection();
   $('#search').placeholder =
-    state.view === 'posts' ? '本文・アカウントで検索' : state.view === 'pro' ? '選手名・大会・タイトルで検索' : 'タイトル・チャンネルで検索';
+    state.view === 'posts' ? '本文・アカウントで検索' : state.view === 'pro' ? '名前・大会・タイトルで検索' : 'タイトル・チャンネルで検索';
   setMeta(currentVideos().length);
+  requestAnimationFrame(revealAll);
 }
+
+// 選択中のエージェント・マップ・人を見える位置まで送る。Safari では開いた直後だと配置が確定していないことがあるので、
+// 描画の次のフレームとページの読み込み完了時にもやり直す
+function revealAll() {
+  revealSelected($('#agent-rail'));
+  revealSelected($('#map-tabs'));
+  if (state.view === 'pro') revealSelected($('#person-chips'), '[aria-pressed="true"]');
+}
+window.addEventListener('load', revealAll);
 
 /* ---------- プレイヤー ---------- */
 // <dialog> が無いブラウザ（Safari 15.4 未満など）向けに、showModal / close と Esc で閉じる動きを足す
@@ -572,6 +610,15 @@ $('#view-tabs').addEventListener('click', (e) => {
   // 選んでいたエージェントを引き継ぐ（特集に動画がなければ全員 / 先頭のエージェント）
   state.agent = featureVideos().some((v) => v.agents.includes(prev)) ? prev : state.view === 'agent' ? agents[0].slug : ALL;
   state.map = ALL;
+  state.who = '';
+  state.tags.clear();
+  render(true);
+});
+
+$('#person-chips').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-who]');
+  if (!btn) return;
+  state.who = btn.dataset.who === state.who ? '' : btn.dataset.who;
   state.tags.clear();
   render(true);
 });
