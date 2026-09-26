@@ -374,7 +374,10 @@ main { padding: 0 var(--gutter) 64px; }
 }
 .search::placeholder { color: var(--muted); }
 
-.result-count { margin: 16px 0 12px; font-size: 0.85rem; color: var(--muted); }
+.result-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; margin: 16px 0 12px; }
+.result-count { margin: 0; font-size: 0.85rem; color: var(--muted); }
+.segmented-sm button { padding: 4px 10px; font-size: 0.72rem; }
+.segmented-sm button[aria-pressed='true'] { background: var(--navy-3); }
 .result-count strong { color: var(--ink); }
 
 /* ===== 書き出し時の一覧（JavaScript が動くまでの表示・検索エンジン向け） ===== */
@@ -546,7 +549,17 @@ main { padding: 0 var(--gutter) 64px; }
 .player-info { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 14px 16px; }
 .player-info h2 { margin: 0; font-size: 1rem; }
 .player-info p { margin: 2px 0 0; font-size: 0.8rem; color: var(--muted); }
-.player-info .player-hint { margin-top: 6px; font-size: 0.72rem; }
+.player.is-stuck.is-short .player-frame {
+  height: min(calc(100vh - 460px), 680px);
+  height: min(calc(100dvh - 460px), 680px);
+  min-height: 160px;
+}
+.player.is-stuck #player-link { display: none; } /* 案内の中に同じボタンがあるので */
+.player-stuck { flex-basis: 100%; padding: 10px 12px; border: 1px solid var(--red); background: rgb(255 70 85 / 0.12); }
+.player-stuck[hidden] { display: none; }
+.player-info .player-stuck p { margin: 0 0 8px; font-size: 0.8rem; color: var(--ink); }
+.player-stuck-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.player-stuck-remember { display: flex; align-items: center; gap: 6px; font-size: 0.75rem; color: var(--muted); cursor: pointer; }
 .player-actions { display: flex; gap: 8px; }
 
 .btn {

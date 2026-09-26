@@ -409,18 +409,85 @@ shimDialog($('#player'));
 shimDialog($('#post-viewer'));
 
 const player = $('#player');
+const youtubeUrl = (v) => (v.short ? `https://www.youtube.com/shorts/${v.id}` : `https://www.youtube.com/watch?v=${v.id}`);
+
+// 動画の開き方（サイト内で再生 / YouTube で開く）。bot 確認が出るブラウザの人向けに選べるようにし、ブラウザに記憶する
+const OPEN_MODE_KEY = 'lineup-open-mode';
+let openMode = 'site';
+try {
+  if (localStorage.getItem(OPEN_MODE_KEY) === 'youtube') openMode = 'youtube';
+} catch {}
+function setOpenMode(mode) {
+  openMode = mode;
+  try {
+    localStorage.setItem(OPEN_MODE_KEY, mode);
+  } catch {}
+  document.querySelectorAll('#open-mode [data-mode]').forEach((b) => b.setAttribute('aria-pressed', b.dataset.mode === mode));
+  $('#always-youtube').checked = mode === 'youtube';
+}
+
+// YouTube の公式プレーヤー API で再生が始まったかを見る。bot 確認などで始まらなければ「YouTube で開く」を案内する
+let youtubeApi;
+const loadYouTubeApi = () =>
+  (youtubeApi ??= new Promise((resolve, reject) => {
+    window.onYouTubeIframeAPIReady = () => resolve(window.YT);
+    const script = Object.assign(document.createElement('script'), { src: 'https://www.youtube.com/iframe_api', async: true });
+    script.onerror = reject;
+    document.head.append(script);
+  }));
+const STUCK_MS = 6000;
+let stuckTimer;
+function showStuck(show) {
+  clearTimeout(stuckTimer);
+  $('#player-stuck').hidden = !show;
+  // 案内が出ている間は動画枠を縮めて、案内と「閉じる」が画面に収まるようにする
+  player.classList.toggle('is-stuck', show);
+}
+
 function openPlayer(id) {
   const v = videos.find((x) => x.id === id);
+  if (openMode === 'youtube') {
+    window.open(youtubeUrl(v), '_blank', 'noopener');
+    return;
+  }
+  // 毎回新しい iframe に差し替えて、プレーヤー API をつなぎ直す
   // youtube-nocookie だと YouTube にログインしていても未ログイン扱いになり bot 確認が出やすいので youtube.com を使う
-  const params = new URLSearchParams({ autoplay: '1', rel: '0', playsinline: '1', origin: location.origin });
-  $('#player-iframe').src = `https://www.youtube.com/embed/${id}?${params}`;
+  const params = new URLSearchParams({ autoplay: '1', rel: '0', playsinline: '1', enablejsapi: '1', origin: location.origin });
+  const old = $('#player-iframe');
+  const iframe = old.cloneNode(false);
+  iframe.src = `https://www.youtube.com/embed/${id}?${params}`;
+  old.replaceWith(iframe);
+  showStuck(false);
+  stuckTimer = setTimeout(() => showStuck(true), STUCK_MS);
+  loadYouTubeApi()
+    .then((YT) => {
+      if (!iframe.isConnected) return;
+      new YT.Player(iframe, {
+        events: {
+          // 1: 再生中 / 3: 読み込み中 → 見られているので案内は出さない
+          onStateChange: (e) => (e.data === 1 || e.data === 3) && showStuck(false),
+          onError: () => showStuck(true),
+        },
+      });
+    })
+    .catch(() => {});
   $('#player-title').textContent = v.title;
   $('#player-channel').textContent = v.channel;
-  $('#player-link').href = v.short ? `https://www.youtube.com/shorts/${id}` : `https://www.youtube.com/watch?v=${id}`;
+  $('#player-link').href = youtubeUrl(v);
+  $('#player-stuck-link').href = youtubeUrl(v);
   player.classList.toggle('is-short', v.short);
   player.showModal();
 }
-player.addEventListener('close', () => ($('#player-iframe').src = 'about:blank'));
+player.addEventListener('close', () => {
+  showStuck(false);
+  $('#player-iframe').src = 'about:blank';
+});
+$('#open-mode').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-mode]');
+  if (btn) setOpenMode(btn.dataset.mode);
+});
+$('#always-youtube').addEventListener('change', (e) => setOpenMode(e.target.checked ? 'youtube' : 'site'));
+setOpenMode(openMode);
 player.addEventListener('click', (e) => e.target === player && player.close());
 $('#player-close').addEventListener('click', () => player.close());
 

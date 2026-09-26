@@ -76,7 +76,13 @@
       </div>
     </section>
 
-    <p class="result-count" id="result-count"></p>
+    <div class="result-row">
+      <p class="result-count" id="result-count"></p>
+      <div class="segmented segmented-sm" id="open-mode" role="radiogroup" aria-label="動画の開き方">
+        <button type="button" data-mode="site" aria-pressed="true">サイト内で再生</button>
+        <button type="button" data-mode="youtube" aria-pressed="false">YouTube で開く</button>
+      </div>
+    </div>
     <section class="video-grid" id="video-grid"></section>
 
     <section class="post-section" id="post-section" aria-label="X のポスト" hidden></section>
@@ -96,7 +102,13 @@
         <div>
           <h2 id="player-title"></h2>
           <p id="player-channel"></p>
-          <p class="player-hint">「ログインして bot ではないことを確認」と出て再生できないときは、「YouTube で開く」から見てください。</p>
+        </div>
+        <div class="player-stuck" id="player-stuck" hidden>
+          <p>再生が始まらないときや「bot ではないことを確認」と出るときは、YouTube で開いてください（スマホはアプリで開きます）。</p>
+          <div class="player-stuck-actions">
+            <a id="player-stuck-link" class="btn" target="_blank" rel="noopener">YouTube で開く</a>
+            <label class="player-stuck-remember"><input type="checkbox" id="always-youtube"> 次からは最初から YouTube で開く</label>
+          </div>
         </div>
         <div class="player-actions">
           <a id="player-link" class="btn" target="_blank" rel="noopener">YouTube で開く</a>
