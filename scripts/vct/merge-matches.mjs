@@ -3,10 +3,11 @@
 //
 // - 公式チャンネル（scripts/vct/official.mjs）の、再生できる VOD があるマップだけを載せる
 // - 1 本の動画に複数マップが入っているときは、マップごとの開始秒（vod.start）で頭出しする
-import { readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { EVENTS } from './events.mjs';
 import { OFFICIAL_CHANNELS, handleOf } from './official.mjs';
 import { normalizeTimeline } from './lib/timeline.mjs';
+import { LOGO_DIR, logoFile } from './lib/logos.mjs';
 
 const root = new URL('../../data/vct/', import.meta.url);
 const read = async (p, fallback) => JSON.parse(await readFile(new URL(p, root), 'utf8').catch(() => JSON.stringify(fallback)));
@@ -22,6 +23,10 @@ const matches = [];
 const skipped = { noVod: 0, unofficial: 0, dead: 0, unknownMap: 0 };
 const unofficialChannels = new Map();
 
+// チームロゴは scripts/vct/fetch-logos.mjs で assets/vct/teams/ に保存したものを使う（vlr.gg の画像は直リンクできない）
+const savedLogos = new Set(await readdir(new URL('../../assets/vct/teams/', import.meta.url)).catch(() => []));
+const localLogo = (url) => (savedLogos.has(logoFile(url)) ? LOGO_DIR + logoFile(url) : '');
+
 const teamIdOf = (vlrPath) => vlrPath.match(/\/team\/(\d+)/)?.[1] ?? '';
 
 for (const event of EVENTS) {
@@ -31,7 +36,7 @@ for (const event of EVENTS) {
     m.teams.forEach((t, i) => {
       // チームの略称は選手の所属表示（TL・PRX など）から取る
       const tag = m.games.map((g) => g.players[i]?.[0]?.tag).find(Boolean) ?? '';
-      teams[teamIds[i]] = { name: t.name, tag: tag || teams[teamIds[i]]?.tag || t.name, logo: t.logo };
+      teams[teamIds[i]] = { name: t.name, tag: tag || teams[teamIds[i]]?.tag || t.name, logo: localLogo(t.logo) };
     });
     const games = [];
     // 全マップに VOD があるときだけ、開始秒の重複を直し、開始秒の順に MAP 番号を振り直す

@@ -32,3 +32,12 @@ test('同じ動画に入っている同じ試合のマップは、マップの�
 test('構成は各チーム 5 人', () => {
   for (const m of data.matches) for (const g of m.games) for (const c of g.comps) assert.equal(c.length, 5, `${m.id} MAP ${g.n}`);
 });
+
+test('チームロゴはサイトに保存した画像を指す（vlr.gg の画像は直リンクできない）', async () => {
+  const { access } = await import('node:fs/promises');
+  for (const [id, t] of Object.entries(data.teams)) {
+    if (!t.logo) continue;
+    assert.match(t.logo, /^\/assets\/vct\/teams\/[\w-]+\.\w+$/, id);
+    await access(new URL(`../..${t.logo}`, import.meta.url));
+  }
+});

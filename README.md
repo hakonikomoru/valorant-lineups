@@ -136,13 +136,14 @@ VALORANT のプロの試合（VCT）を、**公式 YouTube の VOD でマップ�
 | コマンド | 内容 |
 |---|---|
 | `npm run vct:fetch` | `scripts/vct/events.mjs` の大会について、vlr.gg から終了済みの試合（マップごとのスコア・ピック・構成・VOD と開始秒）を取得し `data/vct/sources/vlr/<大会ID>.json` に保存。全マップに VOD がそろった試合は次から取りに行かない（`-- --refresh` で取り直し、`-- --event 2766` で大会を指定）。取得した HTML は調査用に `.cache/vct/vlr/` にも保存（git には入れない） |
+| `npm run vct:logos` | 試合に出てくるチームのロゴを `assets/vct/teams/` に保存（vlr.gg の画像サーバーは他サイトからの直リンクを 403 で断るため、サイトに置いたものを表示する。保存済みは取りに行かない） |
 | `npm run vct:vods` | VOD を YouTube oEmbed で調べ、投稿チャンネル・タイトルを `data/vct/sources/vods.json` に記録（`-- --recheck` で記録済みも調べ直す） |
 | `npm run vct:merge` | 公式チャンネル（`scripts/vct/official.mjs`）の再生できる VOD があるマップだけを集め、開始秒を整えて `data/vct/matches.json` を生成 |
-| `npm run vct:build` | `vct:fetch` → `vct:vods` → `vct:merge` |
+| `npm run vct:build` | `vct:fetch` → `vct:logos` → `vct:vods` → `vct:merge` |
 
 マップ・エージェント情報は定点と同じ `data/meta.json` を使います（`npm run meta`）。
 
-GitHub Actions（[.github/workflows/vct.yml](.github/workflows/vct.yml)）が毎日 6:00（日本時間）に `vct:fetch` → `vct:vods` → `vct:merge` → `test` を実行し、変更があればコミットします。
+GitHub Actions（[.github/workflows/vct.yml](.github/workflows/vct.yml)）が毎日 6:00（日本時間）に `vct:fetch` → `vct:logos` → `vct:vods` → `vct:merge` → `test` を実行し、変更があればコミットします。
 
 #### 新しい大会を追加する
 
@@ -160,6 +161,7 @@ vct.html                ページ本体（VCT。/vct 以下）
 assets/css/style.css    スタイル（VALORANT ブランドカラー #FF4655 / #0F1923 / #ECE8E1）
 assets/css/vct.css      VCT のスタイル（ヘッダーのセクション切り替えは style.css と同じものを両方に持つ）
 assets/js/app.js        タブ・絞り込み・プレイヤー
+assets/vct/teams/       VCT のチームロゴ（npm run vct:logos で保存）
 assets/js/vct/          VCT のマップタブ・絞り込み・プレーヤー（app.js）と URL・タイトル（seo.js）
 data/meta.json          エージェント・マップ情報（生成物）
 data/videos.json        動画一覧（生成物）
