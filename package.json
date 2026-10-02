@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "komolab",
-  "description": "VALORANT のスキル定点 YouTube 動画をエージェント別・マップ別にまとめた静的サイト",
+  "description": "VALORANT のスキル定点 YouTube 動画をエージェント別・マップ別に、プロの試合（VCT）の公式 VOD をマップ別にまとめた静的サイト",
   "type": "module",
   "scripts": {
     "dev": "node scripts/serve.mjs",
@@ -15,7 +15,12 @@
     "discover": "node scripts/discover-videos.mjs",
     "channels": "node scripts/add-channel.mjs",
     "build": "npm run meta && npm run merge",
-    "build:site": "node scripts/build-site.mjs"
+    "vct:fetch": "node scripts/vct/fetch-matches.mjs",
+    "vct:vods": "node scripts/vct/check-vods.mjs",
+    "vct:merge": "node scripts/vct/merge-matches.mjs",
+    "vct:build": "npm run vct:fetch && npm run vct:vods && npm run vct:merge",
+    "build:site": "node scripts/build-site.mjs",
+    "test": "node --test"
   },
   "engines": { "node": ">=22" }
 }

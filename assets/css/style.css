@@ -69,6 +69,27 @@ a { color: inherit; }
 .header-stats { margin: 0; font-size: 0.8rem; color: var(--muted); text-align: right; }
 .header-stats strong { color: var(--red); font-family: var(--font-display); font-size: 1.1rem; font-weight: 400; margin-right: 2px; }
 
+/* ===== セクション切り替え（スキル定点 / プロの試合）。style.css と vct.css で同じ ===== */
+.site-nav { display: flex; gap: 2px; margin-right: auto; padding: 3px; background: var(--navy-2); border: 1px solid var(--navy-3); }
+.site-nav-link {
+  display: flex;
+  flex-direction: column;
+  padding: 4px 14px 5px;
+  line-height: 1.2;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--muted);
+  text-decoration: none;
+  white-space: nowrap;
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%);
+  transition: color 0.15s, background 0.15s;
+}
+.site-nav-kicker { font-family: var(--font-display); font-size: 0.62rem; font-weight: 400; letter-spacing: 0.16em; color: var(--slate); }
+.site-nav-short { display: none; }
+.site-nav-link:hover { color: var(--ink); background: var(--navy-3); }
+.site-nav-link[aria-current='true'] { color: #fff; background: var(--red); }
+.site-nav-link[aria-current='true'] .site-nav-kicker { color: rgb(255 255 255 / 0.75); }
+
 main { padding: 0 var(--gutter) 64px; }
 
 /* ===== 表示切り替え（エージェント別 / 特集） ===== */
@@ -623,6 +644,12 @@ dialog.dialog-shim[open] {
 /* ===== スマホ ===== */
 @media (max-width: 640px) {
   .header-stats { display: none; }
+  .brand-sub { display: none; }
+  .site-nav { margin-right: 0; }
+  .site-nav-link { padding: 6px 10px; }
+  .site-nav-kicker { display: none; }
+  .site-nav-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+  .site-nav-short { display: inline; }
   .brand-title { font-size: 1.25rem; }
   .view-tabs { margin-top: 12px; gap: 0; }
   .view-tab { flex: 1; flex-direction: column; align-items: center; gap: 0; padding: 8px 2px; font-size: 0.8rem; white-space: nowrap; line-height: 1.3; }

@@ -1,0 +1,5265 @@
+[
+ {
+  "id": "684613",
+  "path": "/684613/xi-lai-gaming-vs-nrg-valorant-masters-london-2026-r1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-06-06T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 0
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270746",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 1,
+    "duration": "44:32",
+    "players": [
+     [
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "astra"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "vyse"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "jD3cGBf_Vw4",
+     "start": 143
+    }
+   },
+   {
+    "gameId": "270747",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "56:56",
+    "players": [
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "fade"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "sage"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "deadlock"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "raze"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "jD3cGBf_Vw4",
+     "start": 2871
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684610",
+  "path": "/684610/team-vitality-vs-dragon-ranger-gaming-valorant-masters-london-2026-r1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-06-06T12:30:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   },
+   {
+    "name": "Dragon Ranger Gaming",
+    "vlr": "/team/11981/dragon-ranger-gaming",
+    "logo": "https://owcdn.net/img/642233fc01f26.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270737",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 1,
+    "duration": "43:10",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "vo0kashu",
+       "tag": "DRG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Life",
+       "tag": "DRG",
+       "agent": "chamber"
+      },
+      {
+       "name": "Nicc",
+       "tag": "DRG",
+       "agent": "skye"
+      },
+      {
+       "name": "SpiritZ1",
+       "tag": "DRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Flex1n",
+       "tag": "DRG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Xo1sU79Fvas",
+     "start": 140
+    }
+   },
+   {
+    "gameId": "270738",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 0,
+    "duration": "44:47",
+    "players": [
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      }
+     ],
+     [
+      {
+       "name": "Life",
+       "tag": "DRG",
+       "agent": "chamber"
+      },
+      {
+       "name": "Nicc",
+       "tag": "DRG",
+       "agent": "sova"
+      },
+      {
+       "name": "vo0kashu",
+       "tag": "DRG",
+       "agent": "viper"
+      },
+      {
+       "name": "SpiritZ1",
+       "tag": "DRG",
+       "agent": "jett"
+      },
+      {
+       "name": "Flex1n",
+       "tag": "DRG",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Xo1sU79Fvas",
+     "start": 2799
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684611",
+  "path": "/684611/full-sense-vs-fut-esports-valorant-masters-london-2026-r1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-06-07T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 0
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270740",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 0,
+    "duration": "33:55",
+    "players": [
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "TVOx7WKAu_A",
+     "start": 273
+    }
+   },
+   {
+    "gameId": "270741",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "40:17",
+    "players": [
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "chamber"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "TVOx7WKAu_A",
+     "start": 2324
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684612",
+  "path": "/684612/leviat-n-vs-global-esports-valorant-masters-london-2026-r1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-06-07T12:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 2
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270743",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "37:17",
+    "players": [
+     [
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "astra"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "phoenix"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "opiaS8K3ZIM",
+     "start": 230
+    }
+   },
+   {
+    "gameId": "270744",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "51:24",
+    "players": [
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "waylay"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "brimstone"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "breach"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "tejo"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "chamber"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "phoenix"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "waylay"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "opiaS8K3ZIM",
+     "start": 2518
+    }
+   },
+   {
+    "gameId": "270745",
+    "n": 3,
+    "map": "split",
+    "score": [
+     13,
+     9
+    ],
+    "pick": null,
+    "duration": "48:48",
+    "players": [
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "viper"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "opiaS8K3ZIM",
+     "start": 5666
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684614",
+  "path": "/684614/team-vitality-vs-fut-esports-valorant-masters-london-2026-r2-1-0",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 2 (1-0)",
+  "date": "2026-06-08T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270749",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "54:46",
+    "players": [
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "chamber"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "astra"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "kayo"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "pL4dzDvZkLs",
+     "start": 136
+    }
+   },
+   {
+    "gameId": "270750",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "35:01",
+    "players": [
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "cypher"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "pL4dzDvZkLs",
+     "start": 3451
+    }
+   },
+   {
+    "gameId": "270751",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     10
+    ],
+    "pick": null,
+    "duration": "46:40",
+    "players": [
+     [
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "cypher"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "pL4dzDvZkLs",
+     "start": 5941
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684615",
+  "path": "/684615/nrg-vs-leviat-n-valorant-masters-london-2026-r2-1-0",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 2 (1-0)",
+  "date": "2026-06-08T13:15:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 1
+   },
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270752",
+    "n": 1,
+    "map": "ascent",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "46:14",
+    "players": [
+     [
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "astra"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q-wuLNx0d5k",
+     "start": 133
+    }
+   },
+   {
+    "gameId": "270753",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "37:40",
+    "players": [
+     [
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "raze"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "skye"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q-wuLNx0d5k",
+     "start": 2976
+    }
+   },
+   {
+    "gameId": "270754",
+    "n": 3,
+    "map": "pearl",
+    "score": [
+     8,
+     13
+    ],
+    "pick": null,
+    "duration": "46:57",
+    "players": [
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "astra"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "astra"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q-wuLNx0d5k",
+     "start": 5269
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684616",
+  "path": "/684616/dragon-ranger-gaming-vs-xi-lai-gaming-valorant-masters-london-2026-r2-0-1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 2 (0-1)",
+  "date": "2026-06-09T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Dragon Ranger Gaming",
+    "vlr": "/team/11981/dragon-ranger-gaming",
+    "logo": "https://owcdn.net/img/642233fc01f26.png",
+    "score": 1
+   },
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270755",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 0,
+    "duration": "33:41",
+    "players": [
+     [
+      {
+       "name": "Nicc",
+       "tag": "DRG",
+       "agent": "skye"
+      },
+      {
+       "name": "vo0kashu",
+       "tag": "DRG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Flex1n",
+       "tag": "DRG",
+       "agent": "omen"
+      },
+      {
+       "name": "SpiritZ1",
+       "tag": "DRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Life",
+       "tag": "DRG",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9h3r8pTV618",
+     "start": 116
+    }
+   },
+   {
+    "gameId": "270756",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "46:41",
+    "players": [
+     [
+      {
+       "name": "vo0kashu",
+       "tag": "DRG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Flex1n",
+       "tag": "DRG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Nicc",
+       "tag": "DRG",
+       "agent": "fade"
+      },
+      {
+       "name": "SpiritZ1",
+       "tag": "DRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Life",
+       "tag": "DRG",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "tejo"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9h3r8pTV618",
+     "start": 2424
+    }
+   },
+   {
+    "gameId": "270757",
+    "n": 3,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": null,
+    "duration": "58:24",
+    "players": [
+     [
+      {
+       "name": "SpiritZ1",
+       "tag": "DRG",
+       "agent": "jett"
+      },
+      {
+       "name": "vo0kashu",
+       "tag": "DRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "Life",
+       "tag": "DRG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Nicc",
+       "tag": "DRG",
+       "agent": "fade"
+      },
+      {
+       "name": "Flex1n",
+       "tag": "DRG",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "skye"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "raze"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9h3r8pTV618",
+     "start": 5268
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684617",
+  "path": "/684617/global-esports-vs-full-sense-valorant-masters-london-2026-r2-0-1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 2 (0-1)",
+  "date": "2026-06-09T13:20:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   },
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270758",
+    "n": 1,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "51:20",
+    "players": [
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "sage"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "viper"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "rXGUHJMRiK8",
+     "start": 71
+    }
+   },
+   {
+    "gameId": "270759",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 1,
+    "duration": "39:38",
+    "players": [
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "sage"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "viper"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "rXGUHJMRiK8",
+     "start": 3090
+    }
+   },
+   {
+    "gameId": "270760",
+    "n": 3,
+    "map": "pearl",
+    "score": [
+     13,
+     8
+    ],
+    "pick": null,
+    "duration": "45:21",
+    "players": [
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "phoenix"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "vyse"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "astra"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "rXGUHJMRiK8",
+     "start": 5524
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684619",
+  "path": "/684619/fut-esports-vs-nrg-valorant-masters-london-2026-r3-1-1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 3 (1-1)",
+  "date": "2026-06-10T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270764",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "55:14",
+    "players": [
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ep-ofVqg81s",
+     "start": 238
+    }
+   },
+   {
+    "gameId": "270765",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 0,
+    "duration": "58:03",
+    "players": [
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "cypher"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "jett"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ep-ofVqg81s",
+     "start": 3626
+    }
+   },
+   {
+    "gameId": "270766",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     11
+    ],
+    "pick": null,
+    "duration": "52:37",
+    "players": [
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "cypher"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "brimstone"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ep-ofVqg81s",
+     "start": 7142
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "684618",
+  "path": "/684618/global-esports-vs-xi-lai-gaming-valorant-masters-london-2026-r3-1-1",
+  "event": "Valorant Masters London 2026",
+  "series": "Swiss Stage: Round 3 (1-1)",
+  "date": "2026-06-10T13:40:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 1
+   },
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "270761",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "46:34",
+    "players": [
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nBjwduhpzmM",
+     "start": 119
+    }
+   },
+   {
+    "gameId": "270762",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "51:51",
+    "players": [
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "jett"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "vyse"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "sage"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "deadlock"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "fade"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nBjwduhpzmM",
+     "start": 2879
+    }
+   },
+   {
+    "gameId": "270763",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     10,
+     13
+    ],
+    "pick": null,
+    "duration": "47:11",
+    "players": [
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nBjwduhpzmM",
+     "start": 6045
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670466",
+  "path": "/670466/paper-rex-vs-leviat-n-valorant-masters-london-2026-ubqf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-06-12T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267804",
+    "n": 1,
+    "map": "ascent",
+    "score": [
+     13,
+     1
+    ],
+    "pick": 1,
+    "duration": "29:19",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "BAH3zpoOYXQ",
+     "start": 85
+    }
+   },
+   {
+    "gameId": "267805",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "48:54",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "skye"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "BAH3zpoOYXQ",
+     "start": 1857
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670467",
+  "path": "/670467/team-heretics-vs-team-vitality-valorant-masters-london-2026-ubqf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-06-12T12:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 0
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267807",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 1,
+    "duration": "40:32",
+    "players": [
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "sage"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "pMYvVg8VjWE",
+     "start": 141
+    }
+   },
+   {
+    "gameId": "267808",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 0,
+    "duration": "45:54",
+    "players": [
+     [
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "pMYvVg8VjWE",
+     "start": 2654
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670465",
+  "path": "/670465/edward-gaming-vs-fut-esports-valorant-masters-london-2026-ubqf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-06-13T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 2
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267801",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "35:37",
+    "players": [
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "raze"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "vFmM51y2IEk",
+     "start": 139
+    }
+   },
+   {
+    "gameId": "267802",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 0,
+    "duration": "53:52",
+    "players": [
+     [
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "astra"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "vyse"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "kayo"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "astra"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "chamber"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "vFmM51y2IEk",
+     "start": 2288
+    }
+   },
+   {
+    "gameId": "267803",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     5
+    ],
+    "pick": null,
+    "duration": "34:55",
+    "players": [
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "fade"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "vFmM51y2IEk",
+     "start": 5537
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670464",
+  "path": "/670464/g2-esports-vs-xi-lai-gaming-valorant-masters-london-2026-ubqf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-06-13T13:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 1
+   },
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267798",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 1,
+    "duration": "49:23",
+    "players": [
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "vyse"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "raze"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "fade"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "sage"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "deadlock"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "z2p_eCxcIAI",
+     "start": 113
+    }
+   },
+   {
+    "gameId": "267799",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "40:42",
+    "players": [
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "phoenix"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "z2p_eCxcIAI",
+     "start": 3098
+    }
+   },
+   {
+    "gameId": "267800",
+    "n": 3,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": null,
+    "duration": "51:24",
+    "players": [
+     [
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "vyse"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "raze"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "raze"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "skye"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "z2p_eCxcIAI",
+     "start": 5621
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670473",
+  "path": "/670473/leviat-n-vs-team-heretics-valorant-masters-london-2026-lr1",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-06-14T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 2
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267827",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 0,
+    "duration": "30:03",
+    "players": [
+     [
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "fade"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "vaEwNmGq364",
+     "start": 261
+    }
+   },
+   {
+    "gameId": "267828",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "50:15",
+    "players": [
+     [
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "raze"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "skye"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "vaEwNmGq364",
+     "start": 2113
+    }
+   },
+   {
+    "gameId": "273204",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     13,
+     6
+    ],
+    "pick": null,
+    "duration": "41:49",
+    "players": [
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "vaEwNmGq364",
+     "start": 5213
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670472",
+  "path": "/670472/g2-esports-vs-fut-esports-valorant-masters-london-2026-lr1",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-06-14T13:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 0
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267824",
+    "n": 1,
+    "map": "ascent",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 1,
+    "duration": "45:06",
+    "players": [
+     [
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "vyse"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "phoenix"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "sage"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QCianVVO54A",
+     "start": 133
+    }
+   },
+   {
+    "gameId": "267825",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 0,
+    "duration": "1:16:29",
+    "players": [
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "raze"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QCianVVO54A",
+     "start": 2956
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670468",
+  "path": "/670468/xi-lai-gaming-vs-edward-gaming-valorant-masters-london-2026-ubsf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-06-15T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 1
+   },
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267810",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "52:19",
+    "players": [
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "sage"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "fade"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "deadlock"
+      }
+     ],
+     [
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "vyse"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "raze"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9PwEfkFweiE",
+     "start": 129
+    }
+   },
+   {
+    "gameId": "267811",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "52:00",
+    "players": [
+     [
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "sova"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "kayo"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9PwEfkFweiE",
+     "start": 3308
+    }
+   },
+   {
+    "gameId": "267812",
+    "n": 3,
+    "map": "split",
+    "score": [
+     3,
+     13
+    ],
+    "pick": null,
+    "duration": "32:41",
+    "players": [
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "raze"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "waylay"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "raze"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9PwEfkFweiE",
+     "start": 6606
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670469",
+  "path": "/670469/paper-rex-vs-team-vitality-valorant-masters-london-2026-ubsf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-06-15T13:15:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267813",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 1,
+    "duration": "31:00",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "1VqGWzbVVL8",
+     "start": 148
+    }
+   },
+   {
+    "gameId": "267814",
+    "n": 2,
+    "map": "split",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "50:09",
+    "players": [
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "1VqGWzbVVL8",
+     "start": 2085
+    }
+   },
+   {
+    "gameId": "267815",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     6
+    ],
+    "pick": null,
+    "duration": "39:16",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "breach"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "cypher"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "1VqGWzbVVL8",
+     "start": 4683
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670475",
+  "path": "/670475/xi-lai-gaming-vs-leviat-n-valorant-masters-london-2026-lr2",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-06-16T10:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 0
+   },
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267833",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "40:52",
+    "players": [
+     [
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "jett"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "astra"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yuN_-2pPxAQ",
+     "start": 107
+    }
+   },
+   {
+    "gameId": "267834",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 0,
+    "duration": "34:50",
+    "players": [
+     [
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "sage"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "fade"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "cypher"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "deadlock"
+      }
+     ],
+     [
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "skye"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "raze"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yuN_-2pPxAQ",
+     "start": 2610
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670474",
+  "path": "/670474/team-vitality-vs-fut-esports-valorant-masters-london-2026-lr2",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-06-16T12:05:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267830",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "45:44",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "vyse"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FpGHDFsnKJM",
+     "start": 137
+    }
+   },
+   {
+    "gameId": "267831",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     13,
+     2
+    ],
+    "pick": 1,
+    "duration": "31:13",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "sage"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FpGHDFsnKJM",
+     "start": 2970
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670470",
+  "path": "/670470/edward-gaming-vs-paper-rex-valorant-masters-london-2026-ubf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Upper Final",
+  "date": "2026-06-19T09:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 1
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267816",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     15,
+     13
+    ],
+    "pick": 1,
+    "duration": "55:40",
+    "players": [
+     [
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "kayo"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "sova"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-nfe8xeT-ao",
+     "start": 82
+    }
+   },
+   {
+    "gameId": "267817",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     12,
+     14
+    ],
+    "pick": 0,
+    "duration": "57:34",
+    "players": [
+     [
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "fade"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "breach"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "brimstone"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-nfe8xeT-ao",
+     "start": 3431
+    }
+   },
+   {
+    "gameId": "267818",
+    "n": 3,
+    "map": "split",
+    "score": [
+     6,
+     13
+    ],
+    "pick": null,
+    "duration": "43:18",
+    "players": [
+     [
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "raze"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-nfe8xeT-ao",
+     "start": 6908
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670476",
+  "path": "/670476/team-vitality-vs-leviat-n-valorant-masters-london-2026-lr3",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Lower Round 3",
+  "date": "2026-06-19T12:35:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 0
+   },
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267836",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "41:04",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "skye"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "raze"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Zxy9lFlO8Jc",
+     "start": 149
+    }
+   },
+   {
+    "gameId": "267837",
+    "n": 2,
+    "map": "split",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "36:54",
+    "players": [
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "skye"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "fade"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "viper"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Zxy9lFlO8Jc",
+     "start": 2673
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670477",
+  "path": "/670477/edward-gaming-vs-leviat-n-valorant-masters-london-2026-lbf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Lower Final",
+  "date": "2026-06-20T09:00:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 0
+   },
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267839",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 1,
+    "duration": "34:20",
+    "players": [
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "cypher"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "raze"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "astra"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "n4jX567C_hw",
+     "start": 104
+    }
+   },
+   {
+    "gameId": "267840",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "46:57",
+    "players": [
+     [
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "fade"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "astra"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "astra"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "n4jX567C_hw",
+     "start": 2192
+    }
+   },
+   {
+    "gameId": "267841",
+    "n": 3,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "52:34",
+    "players": [
+     [
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "jett"
+      },
+      {
+       "name": "Jieni7",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "viper"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "fade"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "n4jX567C_hw",
+     "start": 5018
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "670471",
+  "path": "/670471/paper-rex-vs-leviat-n-valorant-masters-london-2026-gf",
+  "event": "Valorant Masters London 2026",
+  "series": "Playoffs: Grand Final",
+  "date": "2026-06-21T10:20:00Z",
+  "patch": "12.10",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "LEVIATÁN",
+    "vlr": "/team/2359/leviat-n",
+    "logo": "https://owcdn.net/img/61b8888cc3860.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "267819",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     13,
+     2
+    ],
+    "pick": 0,
+    "duration": "31:58",
+    "players": [
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "breach"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "brimstone"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "breach"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "waylay"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "tejo"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yWqPVOvSJPg",
+     "start": 128
+    }
+   },
+   {
+    "gameId": "267820",
+    "n": 2,
+    "map": "split",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 1,
+    "duration": "36:56",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "fade"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yWqPVOvSJPg",
+     "start": 2049
+    }
+   },
+   {
+    "gameId": "267821",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "48:35",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yWqPVOvSJPg",
+     "start": 4283
+    }
+   },
+   {
+    "gameId": "267822",
+    "n": 4,
+    "map": "ascent",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "54:54",
+    "players": [
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "neon"
+      },
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "sova"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "chamber"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yWqPVOvSJPg",
+     "start": 7250
+    }
+   },
+   {
+    "gameId": "267823",
+    "n": 5,
+    "map": "lotus",
+    "score": [
+     5,
+     13
+    ],
+    "pick": null,
+    "duration": "38:24",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "blowz",
+       "tag": "LEV",
+       "agent": "skye"
+      },
+      {
+       "name": "spike",
+       "tag": "LEV",
+       "agent": "omen"
+      },
+      {
+       "name": "Neon",
+       "tag": "LEV",
+       "agent": "jett"
+      },
+      {
+       "name": "kiNgg",
+       "tag": "LEV",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sato",
+       "tag": "LEV",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "yWqPVOvSJPg",
+     "start": 10636
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ }
+]

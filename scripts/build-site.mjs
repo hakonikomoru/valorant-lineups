@@ -1,10 +1,12 @@
 // 公開用のサイトを _site/ に書き出す（Vercel のビルドで実行）。使い方: node scripts/build-site.mjs
 // - /sova/ascent のようなページごとに index.html を作り、タイトル・説明文・canonical・OGP・パンくずを入れる
 // - 動画の一覧もリンクとして書き出しておく（JavaScript を実行しない検索エンジン向け。表示は app.js が置き換える）
-// - sitemap.xml と robots.txt も作る
+// - VCT のページ（/vct 以下）は scripts/vct/build-pages.mjs が書き出す
+// - sitemap.xml と robots.txt も作る（定点と VCT のページをまとめて）
 // - static/ の中身（Google Search Console の確認ファイルなど）はそのままサイトのルートに置く
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { SITE, ALL, FEATURE_NAMES, routePath, seoFor, setupAgentsOf, lineupTerm } from '../assets/js/seo.js';
+import { buildVctPages } from './vct/build-pages.mjs';
 
 const root = new URL('../', import.meta.url);
 const out = new URL('_site/', root);
@@ -133,6 +135,7 @@ for (const page of pages) {
   await writeFile(new URL('index.html', dir), html);
   paths.push(path);
 }
+paths.push(...(await buildVctPages(out)));
 
 const today = new Date().toISOString().slice(0, 10);
 const priority = (p) => (p === '/' ? '1.0' : p.split('/').length === 2 ? '0.8' : '0.6');

@@ -5,7 +5,10 @@
   "buildCommand": "node scripts/build-site.mjs",
   "outputDirectory": "_site",
   "trailingSlash": false,
-  "rewrites": [{ "source": "/((?!assets/|data/).*)", "destination": "/index.html" }],
+  "rewrites": [
+    { "source": "/vct/:path*", "destination": "/vct/index.html" },
+    { "source": "/((?!assets/|data/|vct).*)", "destination": "/index.html" }
+  ],
   "headers": [
     { "source": "/data/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }] }
   ]

@@ -1,0 +1,8659 @@
+[
+ {
+  "id": "644652",
+  "path": "/644652/gen-g-vs-global-esports-vct-2026-pacific-stage-1-w1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-03T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gen.G",
+    "vlr": "/team/17/gen-g",
+    "logo": "https://owcdn.net/img/6970c986eddc6.png",
+    "score": 0
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258249",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:12:39",
+    "players": [
+     [
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Foxy9",
+       "tag": "GEN",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "viper"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "gekko"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "brimstone"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "kayo"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "m9Ievrepbww",
+     "start": 4389
+    }
+   },
+   {
+    "gameId": "258250",
+    "n": 2,
+    "map": "split",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "37:35",
+    "players": [
+     [
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "Foxy9",
+       "tag": "GEN",
+       "agent": "omen"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "cypher"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "veto"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "m9Ievrepbww",
+     "start": 7861
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644653",
+  "path": "/644653/t1-vs-varrel-vct-2026-pacific-stage-1-w1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-03T06:15:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   },
+   {
+    "name": "VARREL",
+    "vlr": "/team/11229/varrel",
+    "logo": "https://owcdn.net/img/63a74624cc76a.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258252",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "1:04:12",
+    "players": [
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "phoenix"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "astra"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "omen"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "sova"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "jett"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "m9Ievrepbww",
+     "start": 12047
+    }
+   },
+   {
+    "gameId": "258253",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 1,
+    "duration": "44:57",
+    "players": [
+     [
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "astra"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "fade"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "astra"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "kayo"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "m9Ievrepbww",
+     "start": 15785
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644654",
+  "path": "/644654/nongshim-redforce-vs-paper-rex-vct-2026-pacific-stage-1-w1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-04T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 1
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258255",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     15,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:13:24",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "breach"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "tejo"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "brimstone"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "breach"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9YY2O5Tx0Pw",
+     "start": 4056
+    }
+   },
+   {
+    "gameId": "258256",
+    "n": 2,
+    "map": "split",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "45:23",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9YY2O5Tx0Pw",
+     "start": 7812
+    }
+   },
+   {
+    "gameId": "258257",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     6,
+     13
+    ],
+    "pick": null,
+    "duration": "42:53",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9YY2O5Tx0Pw",
+     "start": 11033
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644655",
+  "path": "/644655/full-sense-vs-detonation-focusme-vct-2026-pacific-stage-1-w1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-04T07:10:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 2
+   },
+   {
+    "name": "DetonatioN FocusMe",
+    "vlr": "/team/278/detonation-focusme",
+    "logo": "https://owcdn.net/img/63972e548cdc9.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258258",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "46:44",
+    "players": [
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "astra"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "waylay"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "astra"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "tejo"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9YY2O5Tx0Pw",
+     "start": 15318
+    }
+   },
+   {
+    "gameId": "258259",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "45:58",
+    "players": [
+     [
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "viper"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      }
+     ],
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "skye"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "waylay"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9YY2O5Tx0Pw",
+     "start": 18287
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644656",
+  "path": "/644656/team-secret-vs-drx-vct-2026-pacific-stage-1-w1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-05T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Secret",
+    "vlr": "/team/6199/team-secret",
+    "logo": "https://owcdn.net/img/629f13085ead6.png",
+    "score": 0
+   },
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258261",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:00:31",
+    "players": [
+     [
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "astra"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "skye"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Rimuru",
+       "tag": "TS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "astra"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "fade"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "_oZviE6kAas",
+     "start": 3987
+    }
+   },
+   {
+    "gameId": "258262",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 1,
+    "duration": "1:04:10",
+    "players": [
+     [
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "skye"
+      },
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "cypher"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "tejo"
+      },
+      {
+       "name": "Rimuru",
+       "tag": "TS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "breach"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "waylay"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "tejo"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "_oZviE6kAas",
+     "start": 7025
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644657",
+  "path": "/644657/rex-regum-qeon-vs-zeta-division-vct-2026-pacific-stage-1-w1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-05T06:30:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 2
+   },
+   {
+    "name": "ZETA DIVISION",
+    "vlr": "/team/5448/zeta-division",
+    "logo": "https://owcdn.net/img/62a411783d94d.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258264",
+    "n": 1,
+    "map": "split",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "49:58",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "waylay"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "omen"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "viper"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "_oZviE6kAas",
+     "start": 12497
+    }
+   },
+   {
+    "gameId": "258265",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 0,
+    "duration": "35:25",
+    "players": [
+     [
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "raze"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "veto"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "veto"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "breach"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "_oZviE6kAas",
+     "start": 15575
+    }
+   },
+   {
+    "gameId": "258266",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     13,
+     11
+    ],
+    "pick": null,
+    "duration": "53:29",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "killjoy"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "cypher"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "omen"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "sova"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "_oZviE6kAas",
+     "start": 18147
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644658",
+  "path": "/644658/detonation-focusme-vs-t1-vct-2026-pacific-stage-1-w2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-10T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "DetonatioN FocusMe",
+    "vlr": "/team/278/detonation-focusme",
+    "logo": "https://owcdn.net/img/63972e548cdc9.png",
+    "score": 0
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258267",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 0,
+    "duration": "1:22:20",
+    "players": [
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "waylay"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "sova"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "astra"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "tejo"
+      }
+     ],
+     [
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "astra"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "44oMtwXAYf8",
+     "start": 4007
+    }
+   },
+   {
+    "gameId": "258268",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 1,
+    "duration": "45:17",
+    "players": [
+     [
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "fade"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "viper"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "iso"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "44oMtwXAYf8",
+     "start": 8341
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644659",
+  "path": "/644659/nongshim-redforce-vs-drx-vct-2026-pacific-stage-1-w2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-10T06:35:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 1
+   },
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258270",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "54:03",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "breach"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "sova"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "cypher"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "44oMtwXAYf8",
+     "start": 12737
+    }
+   },
+   {
+    "gameId": "258271",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     15,
+     13
+    ],
+    "pick": 1,
+    "duration": "58:27",
+    "players": [
+     [
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "breach"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "tejo"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "tejo"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "breach"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "waylay"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "44oMtwXAYf8",
+     "start": 16021
+    }
+   },
+   {
+    "gameId": "258272",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     10,
+     13
+    ],
+    "pick": null,
+    "duration": "51:57",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "vyse"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "breach"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "44oMtwXAYf8",
+     "start": 19958
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644660",
+  "path": "/644660/team-secret-vs-global-esports-vct-2026-pacific-stage-1-w2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-11T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Secret",
+    "vlr": "/team/6199/team-secret",
+    "logo": "https://owcdn.net/img/629f13085ead6.png",
+    "score": 0
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258273",
+    "n": 1,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:10:35",
+    "players": [
+     [
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "astra"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "skye"
+      },
+      {
+       "name": "Rimuru",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "veto"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Qp4zxBw1u4c",
+     "start": 3846
+    }
+   },
+   {
+    "gameId": "258274",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "52:34",
+    "players": [
+     [
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "omen"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "fade"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "vyse"
+      },
+      {
+       "name": "Rimuru",
+       "tag": "TS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Qp4zxBw1u4c",
+     "start": 7454
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644661",
+  "path": "/644661/rex-regum-qeon-vs-varrel-vct-2026-pacific-stage-1-w2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-11T06:25:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 2
+   },
+   {
+    "name": "VARREL",
+    "vlr": "/team/11229/varrel",
+    "logo": "https://owcdn.net/img/63a74624cc76a.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258276",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "1:02:11",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "waylay"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "chamber"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "astra"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "jett"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "waylay"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Qp4zxBw1u4c",
+     "start": 12252
+    }
+   },
+   {
+    "gameId": "258277",
+    "n": 2,
+    "map": "split",
+    "score": [
+     16,
+     14
+    ],
+    "pick": 0,
+    "duration": "1:09:36",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "waylay"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "tejo"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "deadlock"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "astra"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "skye"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Qp4zxBw1u4c",
+     "start": 16054
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644662",
+  "path": "/644662/full-sense-vs-zeta-division-vct-2026-pacific-stage-1-w2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-12T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 2
+   },
+   {
+    "name": "ZETA DIVISION",
+    "vlr": "/team/5448/zeta-division",
+    "logo": "https://owcdn.net/img/62a411783d94d.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258279",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 0,
+    "duration": "53:43",
+    "players": [
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "veto"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "breach"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "brimstone"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Tea_WwGFJc8",
+     "start": 3998
+    }
+   },
+   {
+    "gameId": "258280",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 1,
+    "duration": "36:41",
+    "players": [
+     [
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "waylay"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "deadlock"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "viper"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "omen"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Tea_WwGFJc8",
+     "start": 6572
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644663",
+  "path": "/644663/gen-g-vs-paper-rex-vct-2026-pacific-stage-1-w2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-12T05:50:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gen.G",
+    "vlr": "/team/17/gen-g",
+    "logo": "https://owcdn.net/img/6970c986eddc6.png",
+    "score": 2
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258282",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     17,
+     15
+    ],
+    "pick": 0,
+    "duration": "1:16:39",
+    "players": [
+     [
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "chamber"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "omen"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Tea_WwGFJc8",
+     "start": 10835
+    }
+   },
+   {
+    "gameId": "258283",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 1,
+    "duration": "34:10",
+    "players": [
+     [
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "cypher"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "waylay"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "breach"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "breach"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Tea_WwGFJc8",
+     "start": 15510
+    }
+   },
+   {
+    "gameId": "258284",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     13,
+     3
+    ],
+    "pick": null,
+    "duration": "39:22",
+    "players": [
+     [
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "vyse"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "raze"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Tea_WwGFJc8",
+     "start": 17979
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644665",
+  "path": "/644665/full-sense-vs-varrel-vct-2026-pacific-stage-1-w3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-17T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 2
+   },
+   {
+    "name": "VARREL",
+    "vlr": "/team/11229/varrel",
+    "logo": "https://owcdn.net/img/63a74624cc76a.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258285",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "1:01:39",
+    "players": [
+     [
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "deadlock"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "astra"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "sova"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "chamber"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2IwKw_LG64U",
+     "start": 4039
+    }
+   },
+   {
+    "gameId": "265130",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 1,
+    "duration": "1:00:47",
+    "players": [
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "fade"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "viper"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "raze"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "neon"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2IwKw_LG64U",
+     "start": 7071
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644666",
+  "path": "/644666/team-secret-vs-paper-rex-vct-2026-pacific-stage-1-w3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-17T06:20:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Secret",
+    "vlr": "/team/6199/team-secret",
+    "logo": "https://owcdn.net/img/629f13085ead6.png",
+    "score": 0
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258288",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "39:58",
+    "players": [
+     [
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "astra"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "kayo"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "sova"
+      },
+      {
+       "name": "Rimuru",
+       "tag": "TS",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2IwKw_LG64U",
+     "start": 11580
+    }
+   },
+   {
+    "gameId": "258289",
+    "n": 2,
+    "map": "split",
+    "score": [
+     16,
+     18
+    ],
+    "pick": 1,
+    "duration": "1:09:49",
+    "players": [
+     [
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "cypher"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "Rimuru",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "omen"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2IwKw_LG64U",
+     "start": 13999
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644667",
+  "path": "/644667/kiwoom-drx-vs-global-esports-vct-2026-pacific-stage-1-w3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-18T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 2
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258291",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "1:07:42",
+    "players": [
+     [
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "breach"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "tejo"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "brimstone"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "breach"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QLsCFQ9yzpE",
+     "start": 3969
+    }
+   },
+   {
+    "gameId": "258292",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "50:36",
+    "players": [
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "skye"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "waylay"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "skye"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "cypher"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QLsCFQ9yzpE",
+     "start": 7416
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644668",
+  "path": "/644668/zeta-division-vs-detonation-focusme-vct-2026-pacific-stage-1-w3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-18T06:20:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "ZETA DIVISION",
+    "vlr": "/team/5448/zeta-division",
+    "logo": "https://owcdn.net/img/62a411783d94d.png",
+    "score": 1
+   },
+   {
+    "name": "DetonatioN FocusMe",
+    "vlr": "/team/278/detonation-focusme",
+    "logo": "https://owcdn.net/img/63972e548cdc9.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258294",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "58:20",
+    "players": [
+     [
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "skye"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "viper"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "skye"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QLsCFQ9yzpE",
+     "start": 12193
+    }
+   },
+   {
+    "gameId": "258295",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "39:47",
+    "players": [
+     [
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "viper"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "waylay"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "fade"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "raze"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "vyse"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QLsCFQ9yzpE",
+     "start": 15736
+    }
+   },
+   {
+    "gameId": "258296",
+    "n": 3,
+    "map": "pearl",
+    "score": [
+     5,
+     13
+    ],
+    "pick": null,
+    "duration": "44:34",
+    "players": [
+     [
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "cypher"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "fade"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "astra"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "sova"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "astra"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "waylay"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "tejo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QLsCFQ9yzpE",
+     "start": 18555
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644669",
+  "path": "/644669/rex-regum-qeon-vs-t1-vct-2026-pacific-stage-1-w3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-19T04:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 0
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258297",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:11:20",
+    "players": [
+     [
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "kayo"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "astra"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "astra"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "skye"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "JiyDFdTz11c",
+     "start": 4002
+    }
+   },
+   {
+    "gameId": "258298",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "52:52",
+    "players": [
+     [
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "waylay"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "brimstone"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "JiyDFdTz11c",
+     "start": 7616
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644670",
+  "path": "/644670/nongshim-redforce-vs-gen-g-vct-2026-pacific-stage-1-w3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-19T06:25:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 2
+   },
+   {
+    "name": "Gen.G",
+    "vlr": "/team/17/gen-g",
+    "logo": "https://owcdn.net/img/6970c986eddc6.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258300",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "57:46",
+    "players": [
+     [
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "astra"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "astra"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "JiyDFdTz11c",
+     "start": 12559
+    }
+   },
+   {
+    "gameId": "258301",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 1,
+    "duration": "36:26",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "harbor"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "sova"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "viper"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "harbor"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "jett"
+      },
+      {
+       "name": "ZynX",
+       "tag": "GEN",
+       "agent": "kayo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "JiyDFdTz11c",
+     "start": 15940
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644671",
+  "path": "/644671/rex-regum-qeon-vs-full-sense-vct-2026-pacific-stage-1-w4",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-24T04:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 2
+   },
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258303",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:11:30",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "astra"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "kayo"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "astra"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "xC4V8x91ALQ",
+     "start": 4035
+    }
+   },
+   {
+    "gameId": "258304",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "47:50",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "jett"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "cypher"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "waylay"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "deadlock"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "xC4V8x91ALQ",
+     "start": 7725
+    }
+   },
+   {
+    "gameId": "258305",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     3
+    ],
+    "pick": null,
+    "duration": "35:53",
+    "players": [
+     [
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "veto"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "raze"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "xC4V8x91ALQ",
+     "start": 11017
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644672",
+  "path": "/644672/paper-rex-vs-global-esports-vct-2026-pacific-stage-1-w4",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-24T07:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258306",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 1,
+    "duration": "37:32",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "vyse"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "xC4V8x91ALQ",
+     "start": 14879
+    }
+   },
+   {
+    "gameId": "258307",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "49:28",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "astra"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "tejo"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "xC4V8x91ALQ",
+     "start": 17209
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644673",
+  "path": "/644673/gen-g-vs-kiwoom-drx-vct-2026-pacific-stage-1-w4",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-25T04:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gen.G",
+    "vlr": "/team/17/gen-g",
+    "logo": "https://owcdn.net/img/6970c986eddc6.png",
+    "score": 1
+   },
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258309",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 0,
+    "duration": "50:17",
+    "players": [
+     [
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "KiTae",
+       "tag": "GEN",
+       "agent": "omen"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "chamber"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "skye"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "4Ll6PfUa3_I",
+     "start": 4020
+    }
+   },
+   {
+    "gameId": "258310",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "58:01",
+    "players": [
+     [
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "phoenix"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "chamber"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "KiTae",
+       "tag": "GEN",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "astra"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "skye"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "4Ll6PfUa3_I",
+     "start": 6414
+    }
+   },
+   {
+    "gameId": "258311",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     17,
+     19
+    ],
+    "pick": null,
+    "duration": "1:18:05",
+    "players": [
+     [
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "vyse"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "raze"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "KiTae",
+       "tag": "GEN",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "fade"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "4Ll6PfUa3_I",
+     "start": 10340
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644674",
+  "path": "/644674/detonation-focusme-vs-varrel-vct-2026-pacific-stage-1-w4",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-25T07:35:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "DetonatioN FocusMe",
+    "vlr": "/team/278/detonation-focusme",
+    "logo": "https://owcdn.net/img/63972e548cdc9.png",
+    "score": 2
+   },
+   {
+    "name": "VARREL",
+    "vlr": "/team/11229/varrel",
+    "logo": "https://owcdn.net/img/63a74624cc76a.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258312",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "1:02:32",
+    "players": [
+     [
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "vyse"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "raze"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "fade"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "viper"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "neon"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "raze"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "fade"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "4Ll6PfUa3_I",
+     "start": 16645
+    }
+   },
+   {
+    "gameId": "258313",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "52:15",
+    "players": [
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "jett"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "cypher"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "skye"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "deadlock"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "waylay"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "cypher"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "skye"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "4Ll6PfUa3_I",
+     "start": 20523
+    }
+   },
+   {
+    "gameId": "258314",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     9
+    ],
+    "pick": null,
+    "duration": "54:12",
+    "players": [
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "cypher"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "breach"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "tejo"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "brimstone"
+      }
+     ],
+     [
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "raze"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "neon"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "cypher"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "breach"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "4Ll6PfUa3_I",
+     "start": 24053
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644675",
+  "path": "/644675/t1-vs-zeta-division-vct-2026-pacific-stage-1-w4",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-26T04:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   },
+   {
+    "name": "ZETA DIVISION",
+    "vlr": "/team/5448/zeta-division",
+    "logo": "https://owcdn.net/img/62a411783d94d.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258315",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "1:01:33",
+    "players": [
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "phoenix"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "omen"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "skye"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "killjoy"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "znMI4eE9_3Y",
+     "start": 3992
+    }
+   },
+   {
+    "gameId": "258316",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "43:38",
+    "players": [
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "raze"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "vyse"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "omen"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "znMI4eE9_3Y",
+     "start": 7066
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644676",
+  "path": "/644676/nongshim-redforce-vs-team-secret-vct-2026-pacific-stage-1-w4",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-26T06:05:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 2
+   },
+   {
+    "name": "Team Secret",
+    "vlr": "/team/6199/team-secret",
+    "logo": "https://owcdn.net/img/629f13085ead6.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258318",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "51:13",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "harbor"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "astra"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "Zeus",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "sova"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "kayo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "znMI4eE9_3Y",
+     "start": 11322
+    }
+   },
+   {
+    "gameId": "258319",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "46:04",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "skye"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "tejo"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Zeus",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "znMI4eE9_3Y",
+     "start": 14465
+    }
+   },
+   {
+    "gameId": "258320",
+    "n": 3,
+    "map": "pearl",
+    "score": [
+     13,
+     5
+    ],
+    "pick": null,
+    "duration": "39:47",
+    "players": [
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "astra"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "killjoy"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Zeus",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "astra"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "znMI4eE9_3Y",
+     "start": 17636
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644677",
+  "path": "/644677/gen-g-vs-team-secret-vct-2026-pacific-stage-1-w5",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-01T04:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gen.G",
+    "vlr": "/team/17/gen-g",
+    "logo": "https://owcdn.net/img/6970c986eddc6.png",
+    "score": 1
+   },
+   {
+    "name": "Team Secret",
+    "vlr": "/team/6199/team-secret",
+    "logo": "https://owcdn.net/img/629f13085ead6.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258321",
+    "n": 1,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:16:35",
+    "players": [
+     [
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "raze"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "vyse"
+      },
+      {
+       "name": "KiTae",
+       "tag": "GEN",
+       "agent": "astra"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "omen"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "skye"
+      },
+      {
+       "name": "Zeus",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Czkh8wierro",
+     "start": 3969
+    }
+   },
+   {
+    "gameId": "258322",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "54:50",
+    "players": [
+     [
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "fade"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "vyse"
+      },
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "raze"
+      },
+      {
+       "name": "KiTae",
+       "tag": "GEN",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Zeus",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "fade"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Czkh8wierro",
+     "start": 8023
+    }
+   },
+   {
+    "gameId": "258323",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     7,
+     13
+    ],
+    "pick": null,
+    "duration": "42:00",
+    "players": [
+     [
+      {
+       "name": "t3xture",
+       "tag": "GEN",
+       "agent": "jett"
+      },
+      {
+       "name": "Lakia",
+       "tag": "GEN",
+       "agent": "sova"
+      },
+      {
+       "name": "Ash",
+       "tag": "GEN",
+       "agent": "neon"
+      },
+      {
+       "name": "Karon",
+       "tag": "GEN",
+       "agent": "viper"
+      },
+      {
+       "name": "KiTae",
+       "tag": "GEN",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Sylvan",
+       "tag": "TS",
+       "agent": "astra"
+      },
+      {
+       "name": "Zeus",
+       "tag": "TS",
+       "agent": "neon"
+      },
+      {
+       "name": "kellyS",
+       "tag": "TS",
+       "agent": "kayo"
+      },
+      {
+       "name": "BerserX",
+       "tag": "TS",
+       "agent": "viper"
+      },
+      {
+       "name": "JessieVash",
+       "tag": "TS",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Czkh8wierro",
+     "start": 11748
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644678",
+  "path": "/644678/varrel-vs-zeta-division-vct-2026-pacific-stage-1-w5",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-01T07:20:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "VARREL",
+    "vlr": "/team/11229/varrel",
+    "logo": "https://owcdn.net/img/63a74624cc76a.png",
+    "score": 1
+   },
+   {
+    "name": "ZETA DIVISION",
+    "vlr": "/team/5448/zeta-division",
+    "logo": "https://owcdn.net/img/62a411783d94d.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258324",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "54:29",
+    "players": [
+     [
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "skye"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "neon"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "skye"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "viper"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "raze"
+      },
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Czkh8wierro",
+     "start": 15962
+    }
+   },
+   {
+    "gameId": "258325",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "45:10",
+    "players": [
+     [
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "sova"
+      },
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "viper"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "neon"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "chamber"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "viper"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "harbor"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "kayo"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Czkh8wierro",
+     "start": 19372
+    }
+   },
+   {
+    "gameId": "258326",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     9,
+     13
+    ],
+    "pick": null,
+    "duration": "44:46",
+    "players": [
+     [
+      {
+       "name": "oonzmlp",
+       "tag": "VL",
+       "agent": "breach"
+      },
+      {
+       "name": "Klaus",
+       "tag": "VL",
+       "agent": "waylay"
+      },
+      {
+       "name": "XuNa",
+       "tag": "VL",
+       "agent": "tejo"
+      },
+      {
+       "name": "C1ndeR",
+       "tag": "VL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Zexy",
+       "tag": "VL",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Absol",
+       "tag": "ZETA",
+       "agent": "neon"
+      },
+      {
+       "name": "SugarZ3ro",
+       "tag": "ZETA",
+       "agent": "brimstone"
+      },
+      {
+       "name": "eKo",
+       "tag": "ZETA",
+       "agent": "breach"
+      },
+      {
+       "name": "Xdll",
+       "tag": "ZETA",
+       "agent": "cypher"
+      },
+      {
+       "name": "SyouTa",
+       "tag": "ZETA",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Czkh8wierro",
+     "start": 22549
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644679",
+  "path": "/644679/t1-vs-full-sense-vct-2026-pacific-stage-1-w5",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-02T04:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   },
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258327",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 1,
+    "duration": "1:00:45",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "tejo"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "astra"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9cRHCZoUBwI",
+     "start": 3981
+    }
+   },
+   {
+    "gameId": "258328",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 0,
+    "duration": "50:10",
+    "players": [
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "brimstone"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "raze"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "viper"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9cRHCZoUBwI",
+     "start": 7002
+    }
+   },
+   {
+    "gameId": "258329",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     13,
+     9
+    ],
+    "pick": null,
+    "duration": "53:50",
+    "players": [
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "kayo"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "harbor"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "sova"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9cRHCZoUBwI",
+     "start": 10484
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644680",
+  "path": "/644680/nongshim-redforce-vs-global-esports-vct-2026-pacific-stage-1-w5",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-02T07:10:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 1
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258330",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 0,
+    "duration": "45:37",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9cRHCZoUBwI",
+     "start": 15378
+    }
+   },
+   {
+    "gameId": "258331",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "56:52",
+    "players": [
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "raze"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "skye"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "gekko"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "brimstone"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "kayo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9cRHCZoUBwI",
+     "start": 18120
+    }
+   },
+   {
+    "gameId": "258332",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     12,
+     14
+    ],
+    "pick": null,
+    "duration": "59:32",
+    "players": [
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "cypher"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9cRHCZoUBwI",
+     "start": 21945
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644681",
+  "path": "/644681/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-w5",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-03T04:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258333",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "55:29",
+    "players": [
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "viper"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "sova"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "f6VXtU2i110",
+     "start": 4018
+    }
+   },
+   {
+    "gameId": "258334",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 1,
+    "duration": "36:32",
+    "players": [
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "fade"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "f6VXtU2i110",
+     "start": 6723
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644682",
+  "path": "/644682/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-w5",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-03T06:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 2
+   },
+   {
+    "name": "DetonatioN FocusMe",
+    "vlr": "/team/278/detonation-focusme",
+    "logo": "https://owcdn.net/img/63972e548cdc9.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258336",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     12,
+     14
+    ],
+    "pick": 1,
+    "duration": "1:01:05",
+    "players": [
+     [
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "cypher"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "jett"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "jett"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "skye"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "cypher"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "f6VXtU2i110",
+     "start": 14295
+    }
+   },
+   {
+    "gameId": "258337",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 0,
+    "duration": "59:58",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "fade"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "raze"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "fade"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "f6VXtU2i110",
+     "start": 18279
+    }
+   },
+   {
+    "gameId": "258338",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     13,
+     8
+    ],
+    "pick": null,
+    "duration": "43:10",
+    "players": [
+     [
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "raze"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "veto"
+      }
+     ],
+     [
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "tejo"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "brimstone"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "breach"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": null
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666488",
+  "path": "/666488/rex-regum-qeon-vs-global-esports-vct-2026-pacific-stage-1-ur1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Upper Round 1",
+  "date": "2026-05-07T04:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 0
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266840",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:16:37",
+    "players": [
+     [
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "kayo"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hurmbylV3os",
+     "start": 4105
+    }
+   },
+   {
+    "gameId": "266841",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "55:42",
+    "players": [
+     [
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "skye"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "killjoy"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "killjoy"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "phoenix"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hurmbylV3os",
+     "start": 7807
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666489",
+  "path": "/666489/kiwoom-drx-vs-full-sense-vct-2026-pacific-stage-1-ur1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Upper Round 1",
+  "date": "2026-05-07T06:35:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 0
+   },
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266843",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "59:19",
+    "players": [
+     [
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "fade"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "Hermes",
+       "tag": "KRX",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "raze"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "vyse"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hurmbylV3os",
+     "start": 12826
+    }
+   },
+   {
+    "gameId": "266844",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 0,
+    "duration": "44:53",
+    "players": [
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "Hermes",
+       "tag": "KRX",
+       "agent": "cypher"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "breach"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hurmbylV3os",
+     "start": 16640
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666490",
+  "path": "/666490/paper-rex-vs-global-esports-vct-2026-pacific-stage-1-ubsf",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-05-08T04:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 1
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266846",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:05:48",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hdotlYcOOIs",
+     "start": 4124
+    }
+   },
+   {
+    "gameId": "266847",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 0,
+    "duration": "39:50",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "vyse"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hdotlYcOOIs",
+     "start": 7346
+    }
+   },
+   {
+    "gameId": "266848",
+    "n": 3,
+    "map": "pearl",
+    "score": [
+     5,
+     13
+    ],
+    "pick": null,
+    "duration": "40:48",
+    "players": [
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "astra"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "phoenix"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "killjoy"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hdotlYcOOIs",
+     "start": 10201
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666491",
+  "path": "/666491/t1-vs-full-sense-vct-2026-pacific-stage-1-ubsf",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-05-08T07:15:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 0
+   },
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266849",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:16:39",
+    "players": [
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "tejo"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "vyse"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hdotlYcOOIs",
+     "start": 15148
+    }
+   },
+   {
+    "gameId": "266850",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 0,
+    "duration": "48:02",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "raze"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hdotlYcOOIs",
+     "start": 19057
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666494",
+  "path": "/666494/rex-regum-qeon-vs-detonation-focusme-vct-2026-pacific-stage-1-lr1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-05-09T04:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 2
+   },
+   {
+    "name": "DetonatioN FocusMe",
+    "vlr": "/team/278/detonation-focusme",
+    "logo": "https://owcdn.net/img/63972e548cdc9.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266860",
+    "n": 1,
+    "map": "ascent",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:10:43",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "jett"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "sova"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "cypher"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "jett"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "iBwAs5NCvac",
+     "start": 3987
+    }
+   },
+   {
+    "gameId": "266861",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "52:39",
+    "players": [
+     [
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "harbor"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "kayo"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "sova"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "viper"
+      },
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "jett"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "iBwAs5NCvac",
+     "start": 7629
+    }
+   },
+   {
+    "gameId": "266862",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     13,
+     8
+    ],
+    "pick": null,
+    "duration": "52:31",
+    "players": [
+     [
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Meiy",
+       "tag": "DFM",
+       "agent": "raze"
+      },
+      {
+       "name": "Akame",
+       "tag": "DFM",
+       "agent": "neon"
+      },
+      {
+       "name": "Caedye",
+       "tag": "DFM",
+       "agent": "vyse"
+      },
+      {
+       "name": "SSeeS",
+       "tag": "DFM",
+       "agent": "omen"
+      },
+      {
+       "name": "yatsuka",
+       "tag": "DFM",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "iBwAs5NCvac",
+     "start": 11248
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666495",
+  "path": "/666495/kiwoom-drx-vs-nongshim-redforce-vct-2026-pacific-stage-1-lr1",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-05-09T07:30:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 2
+   },
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266863",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:01:51",
+    "players": [
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "tejo"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "killjoy"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "kayo"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "astra"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "iBwAs5NCvac",
+     "start": 16096
+    }
+   },
+   {
+    "gameId": "266864",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 0,
+    "duration": "42:22",
+    "players": [
+     [
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "astra"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "skye"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "iBwAs5NCvac",
+     "start": 19906
+    }
+   },
+   {
+    "gameId": "266865",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     13,
+     9
+    ],
+    "pick": null,
+    "duration": "49:35",
+    "players": [
+     [
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "cypher"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "neon"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "iBwAs5NCvac",
+     "start": 22824
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666496",
+  "path": "/666496/t1-vs-rex-regum-qeon-vct-2026-pacific-stage-1-lr2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-05-10T04:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   },
+   {
+    "name": "Rex Regum Qeon",
+    "vlr": "/team/878/rex-regum-qeon",
+    "logo": "https://owcdn.net/img/629f17f51e7a3.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266866",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "1:04:33",
+    "players": [
+     [
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "cypher"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "waylay"
+      },
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dDovFH9LH00",
+     "start": 3985
+    }
+   },
+   {
+    "gameId": "266867",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:02:09",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "neon"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "omen"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "chamber"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dDovFH9LH00",
+     "start": 7328
+    }
+   },
+   {
+    "gameId": "266868",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     13,
+     5
+    ],
+    "pick": null,
+    "duration": "37:24",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "kayo"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "harbor"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Monyet",
+       "tag": "RRQ",
+       "agent": "harbor"
+      },
+      {
+       "name": "Kushy",
+       "tag": "RRQ",
+       "agent": "sova"
+      },
+      {
+       "name": "crazyguy",
+       "tag": "RRQ",
+       "agent": "kayo"
+      },
+      {
+       "name": "xffero",
+       "tag": "RRQ",
+       "agent": "viper"
+      },
+      {
+       "name": "Jemkin",
+       "tag": "RRQ",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dDovFH9LH00",
+     "start": 11480
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666497",
+  "path": "/666497/paper-rex-vs-kiwoom-drx-vct-2026-pacific-stage-1-lr2",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-05-10T07:30:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "KIWOOM DRX",
+    "vlr": "/team/8185/kiwoom-drx",
+    "logo": "https://owcdn.net/img/6a353ee73ab25.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266869",
+    "n": 1,
+    "map": "ascent",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 1,
+    "duration": "56:41",
+    "players": [
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      }
+     ],
+     [
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "omen"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "waylay"
+      },
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dDovFH9LH00",
+     "start": 16161
+    }
+   },
+   {
+    "gameId": "266870",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 0,
+    "duration": "41:07",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "kayo"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "viper"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "sova"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dDovFH9LH00",
+     "start": 19745
+    }
+   },
+   {
+    "gameId": "266871",
+    "n": 3,
+    "map": "split",
+    "score": [
+     13,
+     1
+    ],
+    "pick": null,
+    "duration": "30:28",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "BeYN",
+       "tag": "KRX",
+       "agent": "skye"
+      },
+      {
+       "name": "MaKo",
+       "tag": "KRX",
+       "agent": "astra"
+      },
+      {
+       "name": "yong",
+       "tag": "KRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "free1ng",
+       "tag": "KRX",
+       "agent": "raze"
+      },
+      {
+       "name": "HYUNMIN",
+       "tag": "KRX",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dDovFH9LH00",
+     "start": 22525
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666492",
+  "path": "/666492/global-esports-vs-full-sense-vct-2026-pacific-stage-1-ubf",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Upper Final",
+  "date": "2026-05-15T06:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 0
+   },
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266852",
+    "n": 1,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:09:53",
+    "players": [
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "raze"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QgtNfkdSgvA",
+     "start": 4277
+    }
+   },
+   {
+    "gameId": "266853",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 0,
+    "duration": "41:55",
+    "players": [
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "sova"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QgtNfkdSgvA",
+     "start": 7901
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666498",
+  "path": "/666498/t1-vs-paper-rex-vct-2026-pacific-stage-1-lr3",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Lower Round 3",
+  "date": "2026-05-15T08:20:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 1
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266872",
+    "n": 1,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:11:12",
+    "players": [
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "raze"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QgtNfkdSgvA",
+     "start": 13669
+    }
+   },
+   {
+    "gameId": "266873",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "51:59",
+    "players": [
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "kayo"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "jett"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QgtNfkdSgvA",
+     "start": 17248
+    }
+   },
+   {
+    "gameId": "266874",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     8,
+     13
+    ],
+    "pick": null,
+    "duration": "40:38",
+    "players": [
+     [
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "kayo"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QgtNfkdSgvA",
+     "start": 20972
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666499",
+  "path": "/666499/global-esports-vs-paper-rex-vct-2026-pacific-stage-1-lbf",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Lower Final",
+  "date": "2026-05-16T06:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 0
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266875",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "59:01",
+    "players": [
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "iso"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "vyse"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "kDs1EZW3k44",
+     "start": 4376
+    }
+   },
+   {
+    "gameId": "266876",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "39:07",
+    "players": [
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "cypher"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "deadlock"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "kDs1EZW3k44",
+     "start": 7460
+    }
+   },
+   {
+    "gameId": "266877",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "52:07",
+    "players": [
+     [
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "phoenix"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "kayo"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "sova"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "kDs1EZW3k44",
+     "start": 10226
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "666493",
+  "path": "/666493/full-sense-vs-paper-rex-vct-2026-pacific-stage-1-gf",
+  "event": "VCT 2026: Pacific Stage 1",
+  "series": "Playoffs: Grand Final",
+  "date": "2026-05-17T06:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "FULL SENSE",
+    "vlr": "/team/4050/full-sense",
+    "logo": "https://owcdn.net/img/6537a7954d915.png",
+    "score": 0
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "266855",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:23:10",
+    "players": [
+     [
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "astra"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "vyse"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "astra"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "oRPT3H09ZB0",
+     "start": 8218
+    }
+   },
+   {
+    "gameId": "266856",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "42:12",
+    "players": [
+     [
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "omen"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "vyse"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "jett"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "skye"
+      },
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "oRPT3H09ZB0",
+     "start": 12254
+    }
+   },
+   {
+    "gameId": "266857",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "45:25",
+    "players": [
+     [
+      {
+       "name": "JitBoyS",
+       "tag": "FS",
+       "agent": "neon"
+      },
+      {
+       "name": "Crws",
+       "tag": "FS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Killua",
+       "tag": "FS",
+       "agent": "fade"
+      },
+      {
+       "name": "Leviathan",
+       "tag": "FS",
+       "agent": "cypher"
+      },
+      {
+       "name": "primmie",
+       "tag": "FS",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "breach"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "oRPT3H09ZB0",
+     "start": 15454
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ }
+]

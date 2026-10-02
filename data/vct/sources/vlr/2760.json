@@ -1,0 +1,4839 @@
+[
+ {
+  "id": "625788",
+  "path": "/625788/gentle-mates-vs-edward-gaming-valorant-masters-santiago-2026-r1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-02-28T12:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 2
+   },
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254143",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "54:30",
+    "players": [
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "sova"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "chamber"
+      },
+      {
+       "name": "cb",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "sova"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "72YPJbZQMdU",
+     "start": 10
+    }
+   },
+   {
+    "gameId": "254144",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "45:24",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "cb",
+       "tag": "EDG",
+       "agent": "yoru"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "astra"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "72YPJbZQMdU",
+     "start": 3246
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "625791",
+  "path": "/625791/xi-lai-gaming-vs-nrg-valorant-masters-santiago-2026-r1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-02-28T14:30:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 0
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254152",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     2,
+     13
+    ],
+    "pick": 1,
+    "duration": "35:28",
+    "players": [
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "neon"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ISayDnJokzk",
+     "start": 5
+    }
+   },
+   {
+    "gameId": "254153",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "50:40",
+    "players": [
+     [
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "astra"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "yoru"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ISayDnJokzk",
+     "start": 2072
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "625790",
+  "path": "/625790/g2-esports-vs-paper-rex-valorant-masters-santiago-2026-r1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-03-01T12:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 0
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254149",
+    "n": 1,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "43:53",
+    "players": [
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "KKa_YM-8MHk",
+     "start": 15
+    }
+   },
+   {
+    "gameId": "254150",
+    "n": 2,
+    "map": "corrode",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 0,
+    "duration": "37:12",
+    "players": [
+     [
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "skye"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "iso"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "KKa_YM-8MHk",
+     "start": 2584
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "625789",
+  "path": "/625789/t1-vs-team-liquid-valorant-masters-santiago-2026-r1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 1",
+  "date": "2026-03-01T14:05:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 0
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254146",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "41:05",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "yoru"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "jett"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "yoru"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "sova"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "qnO-LlwW2tM",
+     "start": 11
+    }
+   },
+   {
+    "gameId": "254147",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 0,
+    "duration": "56:37",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "yoru"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "raze"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "qnO-LlwW2tM",
+     "start": 2445
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626529",
+  "path": "/626529/paper-rex-vs-nrg-valorant-masters-santiago-2026-r2-1-0",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 2 (1-0)",
+  "date": "2026-03-02T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254342",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "49:53",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "skye"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MXvyAVsnqTc",
+     "start": 78
+    }
+   },
+   {
+    "gameId": "254343",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "52:48",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "astra"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "veto"
+      }
+     ],
+     [
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "astra"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MXvyAVsnqTc",
+     "start": 3158
+    }
+   },
+   {
+    "gameId": "254344",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     13,
+     11
+    ],
+    "pick": null,
+    "duration": "55:43",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MXvyAVsnqTc",
+     "start": 6306
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626530",
+  "path": "/626530/gentle-mates-vs-team-liquid-valorant-masters-santiago-2026-r2-1-0",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 2 (1-0)",
+  "date": "2026-03-02T16:30:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 2
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254345",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "48:24",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "waylay"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "RTmdmtwXklY",
+     "start": 126
+    }
+   },
+   {
+    "gameId": "254346",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 1,
+    "duration": "32:57",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "waylay"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "RTmdmtwXklY",
+     "start": 3107
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626532",
+  "path": "/626532/edward-gaming-vs-t1-valorant-masters-santiago-2026-r2-0-1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 2 (0-1)",
+  "date": "2026-03-03T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 0
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254348",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     1,
+     13
+    ],
+    "pick": 1,
+    "duration": "30:50",
+    "players": [
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "chamber"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      },
+      {
+       "name": "cb",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "waylay"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-hr5Fl56DEA",
+     "start": 78
+    }
+   },
+   {
+    "gameId": "254349",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "50:03",
+    "players": [
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "chamber"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "viper"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "sova"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "cb",
+       "tag": "EDG",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-hr5Fl56DEA",
+     "start": 1956
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626533",
+  "path": "/626533/xi-lai-gaming-vs-g2-esports-valorant-masters-santiago-2026-r2-0-1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 2 (0-1)",
+  "date": "2026-03-03T15:10:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Xi Lai Gaming",
+    "vlr": "/team/13581/xi-lai-gaming",
+    "logo": "https://owcdn.net/img/671742f863b9b.png",
+    "score": 0
+   },
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254351",
+    "n": 1,
+    "map": "abyss",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 0,
+    "duration": "42:01",
+    "players": [
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "astra"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "yoru"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "waylay"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "harbor"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "t2q1UkGg-jg",
+     "start": 97
+    }
+   },
+   {
+    "gameId": "254352",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 1,
+    "duration": "36:54",
+    "players": [
+     [
+      {
+       "name": "happywei",
+       "tag": "XLG",
+       "agent": "viper"
+      },
+      {
+       "name": "NoMan",
+       "tag": "XLG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "WsLeo",
+       "tag": "XLG",
+       "agent": "sova"
+      },
+      {
+       "name": "Rarga",
+       "tag": "XLG",
+       "agent": "neon"
+      },
+      {
+       "name": "Lysoar",
+       "tag": "XLG",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "phoenix"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "yoru"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "t2q1UkGg-jg",
+     "start": 2641
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626535",
+  "path": "/626535/nrg-vs-team-liquid-valorant-masters-santiago-2026-r3",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 3",
+  "date": "2026-03-04T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 2
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254357",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "50:03",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "jett"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "yoru"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "sova"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "yoru"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gcbgzFL92XU",
+     "start": 367
+    }
+   },
+   {
+    "gameId": "254358",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 0,
+    "duration": "39:31",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "yoru"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "astra"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "harbor"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gcbgzFL92XU",
+     "start": 3476
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626534",
+  "path": "/626534/g2-esports-vs-t1-valorant-masters-santiago-2026-r3",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Swiss Stage: Round 3",
+  "date": "2026-03-04T15:20:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 2
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254354",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "42:33",
+    "players": [
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "yoru"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "yoru"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "astra"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "jett"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dX0hUGXoJyk",
+     "start": 374
+    }
+   },
+   {
+    "gameId": "254355",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     16,
+     14
+    ],
+    "pick": 0,
+    "duration": "1:08:59",
+    "players": [
+     [
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "phoenix"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "cypher"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "yoru"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "iso"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "dX0hUGXoJyk",
+     "start": 2967
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626539",
+  "path": "/626539/furia-vs-paper-rex-valorant-masters-santiago-2026-ubqf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-03-06T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FURIA",
+    "vlr": "/team/2406/furia",
+    "logo": "https://owcdn.net/img/632be843b7d51.png",
+    "score": 1
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254366",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "47:01",
+    "players": [
+     [
+      {
+       "name": "eeiu",
+       "tag": "FUR",
+       "agent": "sova"
+      },
+      {
+       "name": "nerve",
+       "tag": "FUR",
+       "agent": "viper"
+      },
+      {
+       "name": "artzin",
+       "tag": "FUR",
+       "agent": "killjoy"
+      },
+      {
+       "name": "koalanoob",
+       "tag": "FUR",
+       "agent": "omen"
+      },
+      {
+       "name": "alym",
+       "tag": "FUR",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "CSk1dca-rss",
+     "start": 19
+    }
+   },
+   {
+    "gameId": "254367",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "37:20",
+    "players": [
+     [
+      {
+       "name": "koalanoob",
+       "tag": "FUR",
+       "agent": "yoru"
+      },
+      {
+       "name": "eeiu",
+       "tag": "FUR",
+       "agent": "sova"
+      },
+      {
+       "name": "nerve",
+       "tag": "FUR",
+       "agent": "viper"
+      },
+      {
+       "name": "alym",
+       "tag": "FUR",
+       "agent": "neon"
+      },
+      {
+       "name": "artzin",
+       "tag": "FUR",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "CSk1dca-rss",
+     "start": 2785
+    }
+   },
+   {
+    "gameId": "254368",
+    "n": 3,
+    "map": "split",
+    "score": [
+     7,
+     13
+    ],
+    "pick": null,
+    "duration": "45:01",
+    "players": [
+     [
+      {
+       "name": "eeiu",
+       "tag": "FUR",
+       "agent": "fade"
+      },
+      {
+       "name": "koalanoob",
+       "tag": "FUR",
+       "agent": "yoru"
+      },
+      {
+       "name": "artzin",
+       "tag": "FUR",
+       "agent": "omen"
+      },
+      {
+       "name": "nerve",
+       "tag": "FUR",
+       "agent": "viper"
+      },
+      {
+       "name": "alym",
+       "tag": "FUR",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "CSk1dca-rss",
+     "start": 4960
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626537",
+  "path": "/626537/nongshim-redforce-vs-gentle-mates-valorant-masters-santiago-2026-ubqf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-03-06T16:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 2
+   },
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254360",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "41:12",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "sova"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-wX7dk_wdRU",
+     "start": 21
+    }
+   },
+   {
+    "gameId": "254361",
+    "n": 2,
+    "map": "corrode",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "43:33",
+    "players": [
+     [
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "sova"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "kayo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "-wX7dk_wdRU",
+     "start": 2461
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626540",
+  "path": "/626540/bbl-esports-vs-nrg-valorant-masters-santiago-2026-ubqf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-03-07T12:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 1
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254369",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "42:19",
+    "players": [
+     [
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "astra"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "astra"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ufgHES26TeE",
+     "start": 15
+    }
+   },
+   {
+    "gameId": "254370",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "41:16",
+    "players": [
+     [
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "waylay"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ufgHES26TeE",
+     "start": 2510
+    }
+   },
+   {
+    "gameId": "254371",
+    "n": 3,
+    "map": "split",
+    "score": [
+     15,
+     17
+    ],
+    "pick": null,
+    "duration": "1:11:32",
+    "players": [
+     [
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "skye"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ufgHES26TeE",
+     "start": 4936
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626538",
+  "path": "/626538/all-gamers-vs-g2-esports-valorant-masters-santiago-2026-ubqf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-03-07T15:30:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "All Gamers",
+    "vlr": "/team/1119/all-gamers",
+    "logo": "https://owcdn.net/img/6549c2b905061.png",
+    "score": 0
+   },
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254363",
+    "n": 1,
+    "map": "split",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "44:37",
+    "players": [
+     [
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "viper"
+      },
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "skye"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "omen"
+      },
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Hl65QMr-f8w",
+     "start": 19
+    }
+   },
+   {
+    "gameId": "254364",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "37:59",
+    "players": [
+     [
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "astra"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "harbor"
+      },
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "sova"
+      },
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "harbor"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Hl65QMr-f8w",
+     "start": 2661
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626546",
+  "path": "/626546/furia-vs-bbl-esports-valorant-masters-santiago-2026-lr1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-03-08T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FURIA",
+    "vlr": "/team/2406/furia",
+    "logo": "https://owcdn.net/img/632be843b7d51.png",
+    "score": 1
+   },
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254389",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 0,
+    "duration": "49:43",
+    "players": [
+     [
+      {
+       "name": "eeiu",
+       "tag": "FUR",
+       "agent": "sova"
+      },
+      {
+       "name": "nerve",
+       "tag": "FUR",
+       "agent": "viper"
+      },
+      {
+       "name": "koalanoob",
+       "tag": "FUR",
+       "agent": "omen"
+      },
+      {
+       "name": "alym",
+       "tag": "FUR",
+       "agent": "neon"
+      },
+      {
+       "name": "artzin",
+       "tag": "FUR",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "timJ-FSwaAM",
+     "start": 7
+    }
+   },
+   {
+    "gameId": "254390",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "48:37",
+    "players": [
+     [
+      {
+       "name": "eeiu",
+       "tag": "FUR",
+       "agent": "sova"
+      },
+      {
+       "name": "alym",
+       "tag": "FUR",
+       "agent": "neon"
+      },
+      {
+       "name": "koalanoob",
+       "tag": "FUR",
+       "agent": "yoru"
+      },
+      {
+       "name": "nerve",
+       "tag": "FUR",
+       "agent": "viper"
+      },
+      {
+       "name": "artzin",
+       "tag": "FUR",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "timJ-FSwaAM",
+     "start": 2928
+    }
+   },
+   {
+    "gameId": "254391",
+    "n": 3,
+    "map": "abyss",
+    "score": [
+     11,
+     13
+    ],
+    "pick": null,
+    "duration": "56:12",
+    "players": [
+     [
+      {
+       "name": "eeiu",
+       "tag": "FUR",
+       "agent": "sova"
+      },
+      {
+       "name": "artzin",
+       "tag": "FUR",
+       "agent": "astra"
+      },
+      {
+       "name": "alym",
+       "tag": "FUR",
+       "agent": "waylay"
+      },
+      {
+       "name": "koalanoob",
+       "tag": "FUR",
+       "agent": "omen"
+      },
+      {
+       "name": "nerve",
+       "tag": "FUR",
+       "agent": "tejo"
+      }
+     ],
+     [
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "waylay"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "timJ-FSwaAM",
+     "start": 5796
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626545",
+  "path": "/626545/gentle-mates-vs-all-gamers-valorant-masters-santiago-2026-lr1",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-03-08T16:30:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 1
+   },
+   {
+    "name": "All Gamers",
+    "vlr": "/team/1119/all-gamers",
+    "logo": "https://owcdn.net/img/6549c2b905061.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254386",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "39:41",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "fade"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "yoru"
+      },
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "astra"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "3cyBswcpKBg",
+     "start": 6
+    }
+   },
+   {
+    "gameId": "254387",
+    "n": 2,
+    "map": "split",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "39:18",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "omen"
+      },
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "raze"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "viper"
+      },
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "skye"
+      },
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "3cyBswcpKBg",
+     "start": 2348
+    }
+   },
+   {
+    "gameId": "254388",
+    "n": 3,
+    "map": "bind",
+    "score": [
+     8,
+     13
+    ],
+    "pick": null,
+    "duration": "49:47",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "yoru"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "waylay"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "raze"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "yoru"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "viper"
+      },
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "3cyBswcpKBg",
+     "start": 4659
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626541",
+  "path": "/626541/nongshim-redforce-vs-g2-esports-valorant-masters-santiago-2026-ubsf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-03-09T14:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 2
+   },
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254373",
+    "n": 1,
+    "map": "corrode",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "39:18",
+    "players": [
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "skye"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "iso"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "EpC_Wn5viOQ",
+     "start": 2561
+    }
+   },
+   {
+    "gameId": "254374",
+    "n": 2,
+    "map": "split",
+    "score": [
+     14,
+     12
+    ],
+    "pick": null,
+    "duration": "1:00:57",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "EpC_Wn5viOQ",
+     "start": 4865
+    }
+   },
+   {
+    "gameId": "256753",
+    "n": 3,
+    "map": "abyss",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "43:15",
+    "players": [
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "astra"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "harbor"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "EpC_Wn5viOQ",
+     "start": 5
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626542",
+  "path": "/626542/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-03-09T17:20:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 0
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254375",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     12,
+     14
+    ],
+    "pick": 1,
+    "duration": "1:00:22",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "astra"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "astra"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "lbH8PxtdlHs",
+     "start": 10
+    }
+   },
+   {
+    "gameId": "254376",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "58:09",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "skye"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "gekko"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "yoru"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "lbH8PxtdlHs",
+     "start": 3549
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626548",
+  "path": "/626548/g2-esports-vs-bbl-esports-valorant-masters-santiago-2026-lr2",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-03-10T14:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 2
+   },
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254395",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 1,
+    "duration": "40:29",
+    "players": [
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "phoenix"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "yoru"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nFCE8az8CTw",
+     "start": 419
+    }
+   },
+   {
+    "gameId": "256892",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "44:58",
+    "players": [
+     [
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "yoru"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "yoru"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nFCE8az8CTw",
+     "start": 2849
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626547",
+  "path": "/626547/paper-rex-vs-all-gamers-valorant-masters-santiago-2026-lr2",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-03-10T16:10:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "All Gamers",
+    "vlr": "/team/1119/all-gamers",
+    "logo": "https://owcdn.net/img/6549c2b905061.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254392",
+    "n": 1,
+    "map": "corrode",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "55:50",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "waylay"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "omen"
+      },
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "fade"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "viper"
+      },
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "chamber"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6OBZIQwBmM8",
+     "start": 311
+    }
+   },
+   {
+    "gameId": "254393",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "42:30",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "yoru"
+      },
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "fade"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "astra"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6OBZIQwBmM8",
+     "start": 3677
+    }
+   },
+   {
+    "gameId": "254394",
+    "n": 3,
+    "map": "split",
+    "score": [
+     13,
+     4
+    ],
+    "pick": null,
+    "duration": "36:31",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Shr1mp",
+       "tag": "AG",
+       "agent": "skye"
+      },
+      {
+       "name": "K1ra",
+       "tag": "AG",
+       "agent": "raze"
+      },
+      {
+       "name": "Au1",
+       "tag": "AG",
+       "agent": "viper"
+      },
+      {
+       "name": "f4ngeer",
+       "tag": "AG",
+       "agent": "waylay"
+      },
+      {
+       "name": "iamgrq",
+       "tag": "AG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6OBZIQwBmM8",
+     "start": 6219
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626543",
+  "path": "/626543/nongshim-redforce-vs-nrg-valorant-masters-santiago-2026-ubf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Upper Final",
+  "date": "2026-03-13T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 2
+   },
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254378",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "47:58",
+    "players": [
+     [
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "raze"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "zSks_VrlpCE",
+     "start": 11
+    }
+   },
+   {
+    "gameId": "254379",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "53:24",
+    "players": [
+     [
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "zSks_VrlpCE",
+     "start": 2855
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626549",
+  "path": "/626549/paper-rex-vs-g2-esports-valorant-masters-santiago-2026-lr3",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Lower Round 3",
+  "date": "2026-03-13T15:25:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 2
+   },
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254398",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "50:27",
+    "players": [
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "phoenix"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "yoru"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Q5-jDQhlYTE",
+     "start": 17
+    }
+   },
+   {
+    "gameId": "254399",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "47:35",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Q5-jDQhlYTE",
+     "start": 3005
+    }
+   },
+   {
+    "gameId": "254400",
+    "n": 3,
+    "map": "corrode",
+    "score": [
+     13,
+     4
+    ],
+    "pick": null,
+    "duration": "36:49",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "waylay"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "vyse"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "yoru"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "fade"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Q5-jDQhlYTE",
+     "start": 5810
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626550",
+  "path": "/626550/nrg-vs-paper-rex-valorant-masters-santiago-2026-lbf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Lower Final",
+  "date": "2026-03-14T13:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 1
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254401",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "48:07",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "killjoy"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "tejo"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "astra"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "khErde2Dhbg",
+     "start": 20
+    }
+   },
+   {
+    "gameId": "254402",
+    "n": 2,
+    "map": "split",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "43:12",
+    "players": [
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "skye"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "khErde2Dhbg",
+     "start": 2863
+    }
+   },
+   {
+    "gameId": "254403",
+    "n": 3,
+    "map": "corrode",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "45:27",
+    "players": [
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "waylay"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "khErde2Dhbg",
+     "start": 5428
+    }
+   },
+   {
+    "gameId": "254404",
+    "n": 4,
+    "map": "breeze",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "48:28",
+    "players": [
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "yoru"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "khErde2Dhbg",
+     "start": 8134
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "626544",
+  "path": "/626544/nongshim-redforce-vs-paper-rex-valorant-masters-santiago-2026-gf",
+  "event": "Valorant Masters Santiago 2026",
+  "series": "Playoffs: Grand Final",
+  "date": "2026-03-15T14:00:00Z",
+  "patch": "12.03",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 3
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "254381",
+    "n": 1,
+    "map": "corrode",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "49:17",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "waylay"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "NR1AEXusjac",
+     "start": 476
+    }
+   },
+   {
+    "gameId": "254382",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 1,
+    "duration": "31:52",
+    "players": [
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "viper"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "NR1AEXusjac",
+     "start": 3390
+    }
+   },
+   {
+    "gameId": "254383",
+    "n": 3,
+    "map": "abyss",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 0,
+    "duration": "30:41",
+    "players": [
+     [
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "NR1AEXusjac",
+     "start": 5266
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ }
+]

@@ -22,10 +22,10 @@ createServer(async (req, res) => {
     res.writeHead(200, { 'Content-Type': TYPES[extname(file)] ?? 'application/octet-stream' });
     res.end(body);
   } catch {
-    // /sova/ascent のようなページの URL は index.html を返す（本番は Vercel の rewrites で同じ動き）
+    // /sova/ascent のようなページの URL は index.html、/vct 以下は vct.html を返す（本番は Vercel の rewrites で同じ動き）
     if (!extname(path)) {
       res.writeHead(200, { 'Content-Type': TYPES['.html'] });
-      return res.end(await readFile(join(root, 'index.html')));
+      return res.end(await readFile(join(root, /^[/\\]vct([/\\]|$)/.test(path) ? 'vct.html' : 'index.html')));
     }
     res.writeHead(404).end('Not Found');
   }

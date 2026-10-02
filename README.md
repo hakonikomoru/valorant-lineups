@@ -1,6 +1,15 @@
-# VALORANT スキル定点アーカイブ
+# VALORANT スキル定点アーカイブ ＋ VCT MAP ARCHIVE
 
-VALORANT のスキル定点（ラインナップ）を紹介する YouTube 動画を、**エージェント別 → マップ別**のタブで探せる静的サイトです。
+VALORANT のファンサイトです。2 つのセクションがあり、ヘッダーの「スキル定点 / プロの試合」で切り替えます。どちらも単独のページとして URL・タイトル・説明文を持ちます。
+
+| セクション | URL | 内容 |
+|---|---|---|
+| LINEUP ARCHIVE（スキル定点） | `/`・`/sova/ascent` など | スキル定点の YouTube 動画をエージェント別・マップ別に |
+| VCT MAP ARCHIVE（プロの試合） | `/vct`・`/vct/ascent/champions-2026` など | VCT の公式 VOD をマップ別に、マップの開始位置から再生（[下の章](#vct-map-archiveプロの試合)） |
+
+## LINEUP ARCHIVE（スキル定点）
+
+VALORANT のスキル定点（ラインナップ）を紹介する YouTube 動画を、**エージェント別 → マップ別**のタブで探せます。
 
 - 21 エージェント × 13 マップ、計 1,000 本以上の動画を収録（すべて YouTube oEmbed で実在を確認済み）
 - エージェントタブはロール別（イニシエーター／コントローラー／センチネル／デュエリスト）に並びます
@@ -28,8 +37,9 @@ VALORANT のスキル定点（ラインナップ）を紹介する YouTube 動�
 ## 使い方
 
 ```sh
-npm run dev      # http://localhost:5173 で起動（依存パッケージなし）
-npm run build:site   # 公開用のページを _site/ に書き出す（Vercel と同じもの）
+npm run dev      # http://localhost:5173 で起動（依存パッケージなし）。/vct で VCT のページ
+npm test         # テスト（VCT: vlr.gg の読み取り・開始秒の補正・生成データの整合性）
+npm run build:site   # 公開用のページ（定点・VCT とも）を _site/ に書き出す（Vercel と同じもの）
 ```
 
 `fetch` で JSON を読むため、`index.html` を直接ファイルとして開くのではなく HTTP サーバー経由で表示してください。GitHub Pages などの静的ホスティングにそのまま置けます。
@@ -45,6 +55,8 @@ https://lineup-archive.vercel.app で公開しています。
 2. `npm run discover` … 登録チャンネル（`data/channels.json`）の RSS から新着の定点動画を探し `data/sources/auto.json` に追記
 3. `npm run shorts` / `npm run verify -- --prune` / `npm run x-media -- --prune` … ショート判定・リンク切れ削除・X の動画情報更新
 4. `npm run merge` → 変更があればコミットして公開
+
+VCT のデータは別のワークフロー（[.github/workflows/vct.yml](.github/workflows/vct.yml)）が毎日 6:00 に更新します（[VCT の章](#vct-map-archiveプロの試合)）。
 
 Actions タブの「Run workflow」で手動でも実行できます。リンク切れが全体の 3% を超えたときは通信側の問題とみなし、削除せずに止まります。
 
@@ -103,20 +115,65 @@ npm run channels -- https://youtu.be/XXXXXXXXXXX   # そのチャンネルの動
 
 `scripts/build-meta.mjs` の `COMPETITIVE_POOL` を書き換えて `npm run meta` を実行します。新エージェント・新マップも `npm run meta` で自動的に反映されます。
 
+## VCT MAP ARCHIVE（プロの試合）
+
+VALORANT のプロの試合（VCT）を、**公式 YouTube の VOD でマップごとに見られる**ページです（`/vct` 以下）。もとは別リポジトリ（valorant-pro-matches）で作っていたものを、このサイトに取り込みました。
+
+- マップのタブ（現在のマッププールが先頭）を選ぶと、そのマップで行われた試合だけが並びます
+- **1 本の動画に複数のマップが入っている VOD**（国際大会の FULL MATCH、Pacific・China の 1 日配信まるごとの VOD など）も、カードを押すと**そのマップの開始位置から**再生します。プレーヤーの下のマップのボタンで、同じ試合の別のマップへ移れます（同じ動画なら読み込み直さずに頭出し）
+- 大会・地域・チーム・選手名・エージェント構成（「ソーヴァとヴァイパーを両方含む構成」など）で絞り込めます
+- マップごとのエージェント使用率を表示します（絞り込みに合わせて変わります。押すとそのエージェントで絞り込み）
+- 「スコアを隠す（ネタバレ防止）」で、一覧とプレーヤーのスコアを隠せます
+- 収録: VCT 2026 の全 15 大会・601 試合・1,527 マップ（すべて公式チャンネルの VOD。2026-10-02 時点）
+- URL は `/vct/ascent`・`/vct/ascent/champions-2026`・`/vct/all/champions-2026` のようにマップと大会を持ち、チーム・地域・エージェントは `?team=624&agents=sova,viper` のようにクエリで持つので、そのまま共有できます
+- SEO: マップ × 大会ごとのページ（約 140 ページ）を書き出し、タイトル・説明文・canonical・OGP・パンくずと試合一覧のリンクを入れています（sitemap.xml は定点のページとまとめて 1 つ）
+- 「サイト内で再生 / YouTube で開く」の設定は定点のページと共通です
+
+公式動画の分析（チャンネルごとの動画の単位、開始秒の検証）は [docs/VCT-RESEARCH.md](docs/VCT-RESEARCH.md) にまとめています。
+
+### データの更新
+
+| コマンド | 内容 |
+|---|---|
+| `npm run vct:fetch` | `scripts/vct/events.mjs` の大会について、vlr.gg から終了済みの試合（マップごとのスコア・ピック・構成・VOD と開始秒）を取得し `data/vct/sources/vlr/<大会ID>.json` に保存。全マップに VOD がそろった試合は次から取りに行かない（`-- --refresh` で取り直し、`-- --event 2766` で大会を指定）。取得した HTML は調査用に `.cache/vct/vlr/` にも保存（git には入れない） |
+| `npm run vct:vods` | VOD を YouTube oEmbed で調べ、投稿チャンネル・タイトルを `data/vct/sources/vods.json` に記録（`-- --recheck` で記録済みも調べ直す） |
+| `npm run vct:merge` | 公式チャンネル（`scripts/vct/official.mjs`）の再生できる VOD があるマップだけを集め、開始秒を整えて `data/vct/matches.json` を生成 |
+| `npm run vct:build` | `vct:fetch` → `vct:vods` → `vct:merge` |
+
+マップ・エージェント情報は定点と同じ `data/meta.json` を使います（`npm run meta`）。
+
+GitHub Actions（[.github/workflows/vct.yml](.github/workflows/vct.yml)）が毎日 6:00（日本時間）に `vct:fetch` → `vct:vods` → `vct:merge` → `test` を実行し、変更があればコミットします。
+
+#### 新しい大会を追加する
+
+<https://www.vlr.gg/vct-2026>（翌年は `vct-2027`）で大会の ID を調べ、[scripts/vct/events.mjs](scripts/vct/events.mjs) に追記して `npm run vct:build` を実行します。新しい公式チャンネルが出てきたら `npm run vct:vods` の集計に出るので、[scripts/vct/official.mjs](scripts/vct/official.mjs) に足してください。
+
+#### 開始秒が間違っているとき
+
+vlr.gg の開始秒が誤っているマップは、`data/vct/sources/overrides.json` に `{ "<vlr の試合 ID>": { "<マップ番号>": { "start": 秒 } } }` の形で正しい秒を書いて `npm run vct:merge` を実行します（マップ番号は vlr.gg のページでの順番）。同じ動画で開始秒が重複しているマップは自動で「推定」になります（[scripts/vct/lib/timeline.mjs](scripts/vct/lib/timeline.mjs)）。
+
 ## 構成
 
 ```
-index.html              ページ本体
+index.html              ページ本体（定点）
+vct.html                ページ本体（VCT。/vct 以下）
 assets/css/style.css    スタイル（VALORANT ブランドカラー #FF4655 / #0F1923 / #ECE8E1）
+assets/css/vct.css      VCT のスタイル（ヘッダーのセクション切り替えは style.css と同じものを両方に持つ）
 assets/js/app.js        タブ・絞り込み・プレイヤー
+assets/js/vct/          VCT のマップタブ・絞り込み・プレーヤー（app.js）と URL・タイトル（seo.js）
 data/meta.json          エージェント・マップ情報（生成物）
 data/videos.json        動画一覧（生成物）
 data/posts.json         X ポスト一覧（生成物）
 data/sources/*.json     動画の元データ（ここを編集する）
 data/sources/x/*.json   X ポストの元データ
+data/vct/matches.json   VCT の試合・マップ・VOD の一覧（生成物）
+data/vct/sources/       VCT の取得した元データ（vlr/・vods.json）と手直し（overrides.json）
 static/                 サイトのルートにそのまま置くファイル（Google Search Console の確認ファイルなど）
 scripts/                データ生成・検証・開発サーバー
+scripts/vct/            VCT のデータ取得・生成とページ書き出し（lib/ は読み取りと補正の処理）
+test/vct/               VCT のテスト（node --test）
 docs/RESEARCH.md        スキル定点に関する調査メモ
+docs/VCT-RESEARCH.md    VCT の公式動画の調査メモ
 ```
 
 ## 制作
@@ -125,4 +182,4 @@ komolab
 
 ## 注意
 
-動画の権利は各投稿者に帰属します。本サイトは Riot Games の承認を受けたものではありません（[Legal Jibber Jabber](https://www.riotgames.com/en/legal) に準拠したファンコンテンツ）。
+動画の権利は各投稿者に帰属します（VCT の VOD は Riot Games）。VCT の試合データは [VLR.gg](https://www.vlr.gg) をもとにしています。本サイトは Riot Games の承認を受けたものではありません（[Legal Jibber Jabber](https://www.riotgames.com/en/legal) に準拠したファンコンテンツ）。

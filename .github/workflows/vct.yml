@@ -1,0 +1,52 @@
+# VCT（プロの試合）のデータの自動更新
+# - 毎日 6:00（日本時間）: 新しい試合・VOD の取得（vlr.gg） → 公式 VOD の確認 → data/vct/matches.json の生成 → テスト → 変更があればコミット
+# - 定点の自動更新（site.yml、4:00）とは別に動かす。同じ concurrency グループなので同時には走らない
+# - 公開は Vercel が main への push を検知して自動で行う（https://lineup-archive.vercel.app/vct）
+# - Actions タブの Run workflow から手動でも実行できる
+name: VCT データの自動更新
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: 試合と VOD の取得（vlr.gg）
+        run: npm run vct:fetch
+
+      - name: VOD の確認（YouTube oEmbed）
+        run: npm run vct:vods
+
+      - name: matches.json の生成
+        run: npm run vct:merge
+
+      - name: テスト
+        run: npm test
+
+      - name: 変更をコミット
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/vct
+          if git diff --cached --quiet; then
+            echo '変更なし'
+          else
+            git commit -m "VCT データの自動更新 ($(TZ=Asia/Tokyo date +%F))"
+            git pull --rebase
+            git push
+          fi

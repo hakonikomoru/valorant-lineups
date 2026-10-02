@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VALORANT プロの試合をマップ別に見る｜VCT 公式 VOD アーカイブ | VCT MAP ARCHIVE</title>
+  <meta name="description" content="VALORANT のプロの試合（VCT）を、公式 YouTube の VOD でマップごとに見られるサイト。アセント・ヘイヴン・ロータスなどマップを選ぶと、そのマップの試合だけが並び、1 本の配信に複数マップが入っている動画もそのマップの開始位置から再生できます。大会・地域・チーム・エージェント構成で絞り込めます。">
+  <meta name="author" content="komolab">
+  <meta name="theme-color" content="#0F1923">
+  <link rel="canonical" href="https://lineup-archive.vercel.app/vct">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="VCT MAP ARCHIVE｜VALORANT プロ試合 マップ別アーカイブ">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:title" content="VALORANT プロの試合をマップ別に見る｜VCT 公式 VOD アーカイブ | VCT MAP ARCHIVE">
+  <meta property="og:description" content="VALORANT のプロの試合（VCT）を、公式 YouTube の VOD でマップごとに見られるサイト。複数マップが入った配信も、そのマップの開始位置から再生できます。">
+  <meta property="og:url" content="https://lineup-archive.vercel.app/vct">
+  <meta name="twitter:card" content="summary">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "VCT MAP ARCHIVE",
+      "alternateName": "VALORANT プロ試合 マップ別アーカイブ",
+      "url": "https://lineup-archive.vercel.app/vct",
+      "inLanguage": "ja",
+      "description": "VALORANT のプロの試合（VCT）の公式 VOD をマップごとにまとめたファンサイト",
+      "isPartOf": { "@type": "WebSite", "name": "LINEUP ARCHIVE", "url": "https://lineup-archive.vercel.app/" },
+      "author": { "@type": "Person", "name": "komolab" }
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow:wght@400;600;700&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/vct.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/vct">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-text">
+        <span class="brand-title">VCT MAP ARCHIVE</span>
+        <span class="brand-sub">VALORANT プロ試合 マップ別アーカイブ</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="セクション">
+      <a class="site-nav-link" href="/"><span class="site-nav-kicker">LINEUPS</span><span class="site-nav-label">スキル定点</span><span class="site-nav-short" aria-hidden="true">定点</span></a>
+      <a class="site-nav-link" href="/vct" aria-current="true"><span class="site-nav-kicker">VCT</span><span class="site-nav-label">プロの試合</span><span class="site-nav-short" aria-hidden="true">プロ試合</span></a>
+    </nav>
+    <p class="header-stats" id="header-stats"></p>
+  </header>
+
+  <main>
+    <div class="scroller scroller-maps">
+      <nav class="map-tabs" id="map-tabs" aria-label="マップ" role="tablist"></nav>
+    </div>
+
+    <section class="map-hero" id="map-hero" aria-live="polite"></section>
+
+    <section class="filters" aria-label="絞り込み">
+      <div class="filter-row">
+        <p class="filter-label">大会</p>
+        <div class="scroller">
+          <nav class="event-chips" id="event-chips" aria-label="大会"></nav>
+        </div>
+      </div>
+      <div class="filter-row filter-row-inline">
+        <div class="segmented" id="region-filter" role="radiogroup" aria-label="地域"></div>
+        <select class="select" id="team-filter" aria-label="チーム"></select>
+        <input class="search" id="search" type="search" placeholder="チーム・選手で検索" aria-label="検索">
+      </div>
+      <div class="filter-row">
+        <p class="filter-label">エージェント構成で絞り込む<span class="filter-hint">（選んだエージェントをすべて含む構成）</span></p>
+        <div class="scroller">
+          <nav class="agent-picks" id="agent-picks" aria-label="エージェント"></nav>
+        </div>
+      </div>
+    </section>
+
+    <div class="result-row">
+      <p class="result-count" id="result-count"></p>
+      <div class="result-options">
+        <label class="toggle"><input type="checkbox" id="spoiler-free"> スコアを隠す（ネタバレ防止）</label>
+        <div class="segmented segmented-sm" id="open-mode" role="radiogroup" aria-label="動画の開き方">
+          <button type="button" data-mode="site" aria-pressed="true">サイト内で再生</button>
+          <button type="button" data-mode="youtube" aria-pressed="false">YouTube で開く</button>
+        </div>
+      </div>
+    </div>
+    <section class="game-grid" id="game-grid"></section>
+    <div class="more-row"><button type="button" class="btn btn-ghost" id="more" hidden>さらに表示</button></div>
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-credit">制作: <strong>komolab</strong></p>
+    <p>動画は VALORANT Champions Tour の公式 YouTube チャンネルの VOD を、YouTube の埋め込み機能で表示しています。動画の権利は Riot Games に帰属します。</p>
+    <p>試合結果・構成・マップごとの開始時刻は <a href="https://www.vlr.gg" target="_blank" rel="noopener">VLR.gg</a> のデータをもとにしています。</p>
+    <p>本サイトは Riot Games の承認を受けたものではなく、Riot Games および Riot Games のプロパティの制作・管理に正式に関与する人物の見解や意見を反映するものではありません。Riot Games および関連するプロパティは Riot Games, Inc. の商標または登録商標です。</p>
+    <p class="footer-meta" id="footer-meta"></p>
+  </footer>
+
+  <dialog class="player" id="player">
+    <div class="player-inner">
+      <div class="player-frame"><iframe id="player-iframe" title="YouTube 動画" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+      <div class="player-info">
+        <div class="player-head">
+          <h2 id="player-title"></h2>
+          <p id="player-sub"></p>
+        </div>
+        <div class="player-maps" id="player-maps" aria-label="この試合のマップ"></div>
+        <div class="player-stuck" id="player-stuck" hidden>
+          <p>再生が始まらないときや「bot ではないことを確認」と出るときは、YouTube で開いてください（マップの開始位置から再生されます）。</p>
+          <div class="player-stuck-actions">
+            <a id="player-stuck-link" class="btn" target="_blank" rel="noopener">YouTube で開く</a>
+            <label class="player-stuck-remember"><input type="checkbox" id="always-youtube"> 次からは最初から YouTube で開く</label>
+          </div>
+        </div>
+        <div class="player-actions">
+          <a id="player-link" class="btn" target="_blank" rel="noopener">YouTube で開く</a>
+          <a id="player-vlr" class="btn btn-ghost" target="_blank" rel="noopener">試合の詳細（VLR.gg）</a>
+          <button type="button" class="btn btn-ghost" id="player-close" autofocus>閉じる</button>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <script type="module" src="/assets/js/vct/main.js"></script>
+</body>
+</html>

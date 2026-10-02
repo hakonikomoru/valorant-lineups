@@ -1,0 +1,8875 @@
+[
+ {
+  "id": "644709",
+  "path": "/644709/fnatic-vs-eternal-fire-vct-2026-emea-stage-1-w1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-01T11:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 2
+   },
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258339",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 1,
+    "duration": "53:19",
+    "players": [
+     [
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "iso"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "kayo"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "sova"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "jett"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "doaVPXfcPb8",
+     "start": 3217
+    }
+   },
+   {
+    "gameId": "258340",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     15,
+     17
+    ],
+    "pick": 0,
+    "duration": "1:04:50",
+    "players": [
+     [
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "waylay"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "skye"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "waylay"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "brimstone"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "doaVPXfcPb8",
+     "start": 7077
+    }
+   },
+   {
+    "gameId": "258341",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     13,
+     2
+    ],
+    "pick": null,
+    "duration": "31:06",
+    "players": [
+     [
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "fade"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "killjoy"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "skye"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "veto"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "doaVPXfcPb8",
+     "start": 11627
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644710",
+  "path": "/644710/team-liquid-vs-karmine-corp-vct-2026-emea-stage-1-w1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-01T14:35:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 2
+   },
+   {
+    "name": "Karmine Corp",
+    "vlr": "/team/8877/karmine-corp",
+    "logo": "https://owcdn.net/img/627403a0d9e48.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258342",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "54:33",
+    "players": [
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "killjoy"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "jett"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "vyse"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "tejo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "doaVPXfcPb8",
+     "start": 15951
+    }
+   },
+   {
+    "gameId": "258343",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "47:39",
+    "players": [
+     [
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "astra"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "killjoy"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "tejo"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "vyse"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "astra"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "doaVPXfcPb8",
+     "start": 19792
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644711",
+  "path": "/644711/team-vitality-vs-giantx-vct-2026-emea-stage-1-w1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-02T11:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   },
+   {
+    "name": "GIANTX",
+    "vlr": "/team/14419/giantx",
+    "logo": "https://owcdn.net/img/657b2f3fcd199.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258345",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "43:10",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "cypher"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "sova"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FADt60npqew",
+     "start": 3027
+    }
+   },
+   {
+    "gameId": "258346",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 1,
+    "duration": "33:49",
+    "players": [
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "astra"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "cypher"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "fade"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "tejo"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FADt60npqew",
+     "start": 6223
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644712",
+  "path": "/644712/gentle-mates-vs-fut-esports-vct-2026-emea-stage-1-w1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-02T13:05:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 1
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258348",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "55:26",
+    "players": [
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "astra"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FADt60npqew",
+     "start": 10564
+    }
+   },
+   {
+    "gameId": "258349",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "46:00",
+    "players": [
+     [
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "brimstone"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "waylay"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FADt60npqew",
+     "start": 14549
+    }
+   },
+   {
+    "gameId": "258350",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     6,
+     13
+    ],
+    "pick": null,
+    "duration": "41:27",
+    "players": [
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "killjoy"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "FADt60npqew",
+     "start": 18012
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644713",
+  "path": "/644713/team-heretics-vs-natus-vincere-vct-2026-emea-stage-1-w1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-03T11:00:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 1
+   },
+   {
+    "name": "Natus Vincere",
+    "vlr": "/team/4915/natus-vincere",
+    "logo": "https://owcdn.net/img/62a4109ddbd7f.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258351",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "1:14:49",
+    "players": [
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "harbor"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "skye"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "astra"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "tejo"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "chamber"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "sova"
+      },
+      {
+       "name": "Kolosha",
+       "tag": "NAVI",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ze91eRIMmj8",
+     "start": 3202
+    }
+   },
+   {
+    "gameId": "258352",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "53:08",
+    "players": [
+     [
+      {
+       "name": "ComeBack",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "skye"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "fade"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "omen"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "chamber"
+      },
+      {
+       "name": "Kolosha",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ze91eRIMmj8",
+     "start": 8312
+    }
+   },
+   {
+    "gameId": "258353",
+    "n": 3,
+    "map": "bind",
+    "score": [
+     9,
+     13
+    ],
+    "pick": null,
+    "duration": "53:52",
+    "players": [
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "viper"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "chamber"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "skye"
+      },
+      {
+       "name": "Kolosha",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ze91eRIMmj8",
+     "start": 12304
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644714",
+  "path": "/644714/bbl-esports-vs-pcific-esports-vct-2026-emea-stage-1-w1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 1",
+  "date": "2026-04-03T14:55:00Z",
+  "patch": "12.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 2
+   },
+   {
+    "name": "PCIFIC Esports",
+    "vlr": "/team/3478/pcific-esports",
+    "logo": "https://owcdn.net/img/656e2ae2b8a48.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258354",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "55:08",
+    "players": [
+     [
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "skye"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "waylay"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "raze"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "waylay"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ze91eRIMmj8",
+     "start": 17633
+    }
+   },
+   {
+    "gameId": "258355",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "45:10",
+    "players": [
+     [
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "kayo"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "sova"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "kayo"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "jett"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "omen"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ze91eRIMmj8",
+     "start": 21591
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644716",
+  "path": "/644716/pcific-esports-vs-giantx-vct-2026-emea-stage-1-w2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-08T11:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "PCIFIC Esports",
+    "vlr": "/team/3478/pcific-esports",
+    "logo": "https://owcdn.net/img/656e2ae2b8a48.png",
+    "score": 1
+   },
+   {
+    "name": "GIANTX",
+    "vlr": "/team/14419/giantx",
+    "logo": "https://owcdn.net/img/657b2f3fcd199.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258357",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "43:24",
+    "players": [
+     [
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "chamber"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "sova"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "omen"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "cypher"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6iFdVQxqDv4",
+     "start": 3121
+    }
+   },
+   {
+    "gameId": "258358",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 0,
+    "duration": "58:02",
+    "players": [
+     [
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "veto"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "waylay"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "astra"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "cypher"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "tejo"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6iFdVQxqDv4",
+     "start": 6372
+    }
+   },
+   {
+    "gameId": "258359",
+    "n": 3,
+    "map": "split",
+    "score": [
+     10,
+     13
+    ],
+    "pick": null,
+    "duration": "48:55",
+    "players": [
+     [
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "skye"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "waylay"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "astra"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6iFdVQxqDv4",
+     "start": 10553
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644717",
+  "path": "/644717/bbl-esports-vs-eternal-fire-vct-2026-emea-stage-1-w2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-08T14:25:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 0
+   },
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258360",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "39:56",
+    "players": [
+     [
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "astra"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6iFdVQxqDv4",
+     "start": 15574
+    }
+   },
+   {
+    "gameId": "258361",
+    "n": 2,
+    "map": "split",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "47:44",
+    "players": [
+     [
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "raze"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "6iFdVQxqDv4",
+     "start": 18640
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644718",
+  "path": "/644718/fnatic-vs-team-vitality-vct-2026-emea-stage-1-w2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-09T11:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 2
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258363",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "53:03",
+    "players": [
+     [
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "astra"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "raze"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ky2aYIftA5s",
+     "start": 3117
+    }
+   },
+   {
+    "gameId": "258364",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "49:01",
+    "players": [
+     [
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "harbor"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "kayo"
+      }
+     ],
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ky2aYIftA5s",
+     "start": 6953
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644719",
+  "path": "/644719/team-liquid-vs-team-heretics-vct-2026-emea-stage-1-w2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-09T13:30:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 2
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258366",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "55:51",
+    "players": [
+     [
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "killjoy"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "harbor"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "skye"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ky2aYIftA5s",
+     "start": 11691
+    }
+   },
+   {
+    "gameId": "258367",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "43:08",
+    "players": [
+     [
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "viper"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "skye"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ky2aYIftA5s",
+     "start": 15821
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644720",
+  "path": "/644720/fut-esports-vs-natus-vincere-vct-2026-emea-stage-1-w2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-10T11:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   },
+   {
+    "name": "Natus Vincere",
+    "vlr": "/team/4915/natus-vincere",
+    "logo": "https://owcdn.net/img/62a4109ddbd7f.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258369",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "53:28",
+    "players": [
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "breach"
+      }
+     ],
+     [
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "chamber"
+      },
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "omen"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "fade"
+      },
+      {
+       "name": "Kolosha",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0b4SPzgrMso",
+     "start": 2945
+    }
+   },
+   {
+    "gameId": "258370",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "50:25",
+    "players": [
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      }
+     ],
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "brimstone"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "skye"
+      },
+      {
+       "name": "Kolosha",
+       "tag": "NAVI",
+       "agent": "neon"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0b4SPzgrMso",
+     "start": 6768
+    }
+   },
+   {
+    "gameId": "258371",
+    "n": 3,
+    "map": "split",
+    "score": [
+     13,
+     6
+    ],
+    "pick": null,
+    "duration": "42:53",
+    "players": [
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "omen"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "fade"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "raze"
+      },
+      {
+       "name": "Kolosha",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0b4SPzgrMso",
+     "start": 10403
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644721",
+  "path": "/644721/gentle-mates-vs-karmine-corp-vct-2026-emea-stage-1-w2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 2",
+  "date": "2026-04-10T14:20:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 2
+   },
+   {
+    "name": "Karmine Corp",
+    "vlr": "/team/8877/karmine-corp",
+    "logo": "https://owcdn.net/img/627403a0d9e48.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258372",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "48:15",
+    "players": [
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "breach"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "brimstone"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "veto"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "astra"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "vyse"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "kayo"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0b4SPzgrMso",
+     "start": 14631
+    }
+   },
+   {
+    "gameId": "258373",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "46:24",
+    "players": [
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "veto"
+      }
+     ],
+     [
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "cypher"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0b4SPzgrMso",
+     "start": 18254
+    }
+   },
+   {
+    "gameId": "258374",
+    "n": 3,
+    "map": "pearl",
+    "score": [
+     13,
+     9
+    ],
+    "pick": null,
+    "duration": "46:37",
+    "players": [
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "astra"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "jett"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "veto"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0b4SPzgrMso",
+     "start": 21597
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644722",
+  "path": "/644722/bbl-esports-vs-giantx-vct-2026-emea-stage-1-w3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-15T11:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 1
+   },
+   {
+    "name": "GIANTX",
+    "vlr": "/team/14419/giantx",
+    "logo": "https://owcdn.net/img/657b2f3fcd199.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258375",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "53:28",
+    "players": [
+     [
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "breach"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "cypher"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "sova"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "DmhPaBwVwT0",
+     "start": 3030
+    }
+   },
+   {
+    "gameId": "258376",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 1,
+    "duration": "46:23",
+    "players": [
+     [
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "raze"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "vyse"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "viper"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "chamber"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "DmhPaBwVwT0",
+     "start": 6855
+    }
+   },
+   {
+    "gameId": "264326",
+    "n": 3,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": null,
+    "duration": "48:35",
+    "players": [
+     [
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "astra"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "raze"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "vyse"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "astra"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "viper"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "skye"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "waylay"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "DmhPaBwVwT0",
+     "start": 10236
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644723",
+  "path": "/644723/gentle-mates-vs-natus-vincere-vct-2026-emea-stage-1-w3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-15T14:20:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 2
+   },
+   {
+    "name": "Natus Vincere",
+    "vlr": "/team/4915/natus-vincere",
+    "logo": "https://owcdn.net/img/62a4109ddbd7f.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258378",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "1:05:15",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "astra"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "tejo"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "sova"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "chamber"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "DmhPaBwVwT0",
+     "start": 14816
+    }
+   },
+   {
+    "gameId": "258379",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 1,
+    "duration": "46:37",
+    "players": [
+     [
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "raze"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "neon"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "chamber"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "fade"
+      },
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "DmhPaBwVwT0",
+     "start": 19583
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644724",
+  "path": "/644724/eternal-fire-vs-team-vitality-vct-2026-emea-stage-1-w3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-16T11:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 2
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258381",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "55:58",
+    "players": [
+     [
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "skye"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "11kVPznV9mQ",
+     "start": 3224
+    }
+   },
+   {
+    "gameId": "258382",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "42:34",
+    "players": [
+     [
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "11kVPznV9mQ",
+     "start": 7339
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644725",
+  "path": "/644725/karmine-corp-vs-team-heretics-vct-2026-emea-stage-1-w3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-16T13:30:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Karmine Corp",
+    "vlr": "/team/8877/karmine-corp",
+    "logo": "https://owcdn.net/img/627403a0d9e48.png",
+    "score": 1
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258384",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "42:22",
+    "players": [
+     [
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "cypher"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "phoenix"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "11kVPznV9mQ",
+     "start": 11620
+    }
+   },
+   {
+    "gameId": "258385",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     2,
+     13
+    ],
+    "pick": 0,
+    "duration": "28:19",
+    "players": [
+     [
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "vyse"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "11kVPznV9mQ",
+     "start": 14815
+    }
+   },
+   {
+    "gameId": "258386",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     7,
+     13
+    ],
+    "pick": null,
+    "duration": "40:15",
+    "players": [
+     [
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "kayo"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "waylay"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "vyse"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "brimstone"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "11kVPznV9mQ",
+     "start": 17155
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644726",
+  "path": "/644726/fut-esports-vs-team-liquid-vct-2026-emea-stage-1-w3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-17T11:00:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258387",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "51:13",
+    "players": [
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "sova"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "kayo"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0hVLiDjhZgA",
+     "start": 3105
+    }
+   },
+   {
+    "gameId": "258388",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     15,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:01:32",
+    "players": [
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "killjoy"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0hVLiDjhZgA",
+     "start": 6781
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644727",
+  "path": "/644727/pcific-esports-vs-fnatic-vct-2026-emea-stage-1-w3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 3",
+  "date": "2026-04-17T13:40:00Z",
+  "patch": "12.06",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "PCIFIC Esports",
+    "vlr": "/team/3478/pcific-esports",
+    "logo": "https://owcdn.net/img/656e2ae2b8a48.png",
+    "score": 0
+   },
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258390",
+    "n": 1,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "55:25",
+    "players": [
+     [
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "raze"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "skye"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "astra"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "raze"
+      },
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0hVLiDjhZgA",
+     "start": 12238
+    }
+   },
+   {
+    "gameId": "258391",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "36:11",
+    "players": [
+     [
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "veto"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "sage"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Veqaj",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "fade"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "killjoy"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0hVLiDjhZgA",
+     "start": 16108
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644728",
+  "path": "/644728/eternal-fire-vs-pcific-esports-vct-2026-emea-stage-1-w4",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-22T11:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 2
+   },
+   {
+    "name": "PCIFIC Esports",
+    "vlr": "/team/3478/pcific-esports",
+    "logo": "https://owcdn.net/img/656e2ae2b8a48.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258393",
+    "n": 1,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "42:26",
+    "players": [
+     [
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "raze"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "V3KETXPOc-U",
+     "start": 305
+    }
+   },
+   {
+    "gameId": "258394",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "49:05",
+    "players": [
+     [
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "tejo"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "skye"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "tejo"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "skye"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "veto"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "V3KETXPOc-U",
+     "start": 2799
+    }
+   },
+   {
+    "gameId": "258395",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": null,
+    "duration": "47:40",
+    "players": [
+     [
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "deadlock"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "omen"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "V3KETXPOc-U",
+     "start": 5846
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644729",
+  "path": "/644729/natus-vincere-vs-team-liquid-vct-2026-emea-stage-1-w4",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-22T14:10:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Natus Vincere",
+    "vlr": "/team/4915/natus-vincere",
+    "logo": "https://owcdn.net/img/62a4109ddbd7f.png",
+    "score": 1
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258396",
+    "n": 1,
+    "map": "bind",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "50:01",
+    "players": [
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "skye"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "vyse"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "brimstone"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gMbluHIkprQ",
+     "start": 149
+    }
+   },
+   {
+    "gameId": "258397",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "49:22",
+    "players": [
+     [
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "omen"
+      },
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "vyse"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "fade"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gMbluHIkprQ",
+     "start": 3188
+    }
+   },
+   {
+    "gameId": "258398",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     7,
+     13
+    ],
+    "pick": null,
+    "duration": "44:34",
+    "players": [
+     [
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "neon"
+      },
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "omen"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "vyse"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "cypher"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gMbluHIkprQ",
+     "start": 6213
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644730",
+  "path": "/644730/giantx-vs-fnatic-vct-2026-emea-stage-1-w4",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-23T11:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "GIANTX",
+    "vlr": "/team/14419/giantx",
+    "logo": "https://owcdn.net/img/657b2f3fcd199.png",
+    "score": 1
+   },
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258399",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     3
+    ],
+    "pick": 0,
+    "duration": "37:07",
+    "players": [
+     [
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "phoenix"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "cypher"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "Desmo",
+       "tag": "FNC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "cypher"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Pf5d2qp2PD4",
+     "start": 3070
+    }
+   },
+   {
+    "gameId": "258400",
+    "n": 2,
+    "map": "bind",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "42:13",
+    "players": [
+     [
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "skye"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "viper"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "tejo"
+      }
+     ],
+     [
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "waylay"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "skye"
+      },
+      {
+       "name": "Desmo",
+       "tag": "FNC",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Pf5d2qp2PD4",
+     "start": 5960
+    }
+   },
+   {
+    "gameId": "258401",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     9,
+     13
+    ],
+    "pick": null,
+    "duration": "45:51",
+    "players": [
+     [
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "sova"
+      },
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "skye"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "harbor"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "Desmo",
+       "tag": "FNC",
+       "agent": "kayo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Pf5d2qp2PD4",
+     "start": 9117
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644731",
+  "path": "/644731/karmine-corp-vs-fut-esports-vct-2026-emea-stage-1-w4",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-23T14:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Karmine Corp",
+    "vlr": "/team/8877/karmine-corp",
+    "logo": "https://owcdn.net/img/627403a0d9e48.png",
+    "score": 1
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258402",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "45:47",
+    "players": [
+     [
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "cypher"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Pf5d2qp2PD4",
+     "start": 13527
+    }
+   },
+   {
+    "gameId": "258403",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "49:05",
+    "players": [
+     [
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "cypher"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "chamber"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Pf5d2qp2PD4",
+     "start": 16881
+    }
+   },
+   {
+    "gameId": "258404",
+    "n": 3,
+    "map": "bind",
+    "score": [
+     8,
+     13
+    ],
+    "pick": null,
+    "duration": "42:26",
+    "players": [
+     [
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "raze"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "viper"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "skye"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "gekko"
+      }
+     ],
+     [
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "brimstone"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Pf5d2qp2PD4",
+     "start": 20450
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644732",
+  "path": "/644732/gentle-mates-vs-team-heretics-vct-2026-emea-stage-1-w4",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-24T11:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 0
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258405",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "35:20",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "veto"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "breach"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "brimstone"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "brimstone"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "s4lqes2N1go",
+     "start": 3075
+    }
+   },
+   {
+    "gameId": "258406",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "51:09",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "raze"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "s4lqes2N1go",
+     "start": 5856
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644733",
+  "path": "/644733/bbl-esports-vs-team-vitality-vct-2026-emea-stage-1-w4",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 4",
+  "date": "2026-04-24T13:10:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 2
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258408",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "50:48",
+    "players": [
+     [
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "raze"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "fade"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "vyse"
+      }
+     ],
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "s4lqes2N1go",
+     "start": 10642
+    }
+   },
+   {
+    "gameId": "258409",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "51:58",
+    "players": [
+     [
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "breach"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "s4lqes2N1go",
+     "start": 14336
+    }
+   },
+   {
+    "gameId": "258410",
+    "n": 3,
+    "map": "breeze",
+    "score": [
+     13,
+     5
+    ],
+    "pick": null,
+    "duration": "40:42",
+    "players": [
+     [
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "s4lqes2N1go",
+     "start": 18096
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644734",
+  "path": "/644734/team-heretics-vs-fut-esports-vct-2026-emea-stage-1-w5",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-04-29T11:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 2
+   },
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258411",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "51:28",
+    "players": [
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q8zEriwNSjo",
+     "start": 2995
+    }
+   },
+   {
+    "gameId": "258412",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     2
+    ],
+    "pick": 1,
+    "duration": "33:50",
+    "players": [
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q8zEriwNSjo",
+     "start": 6904
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644735",
+  "path": "/644735/team-vitality-vs-pcific-esports-vct-2026-emea-stage-1-w5",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-04-29T13:10:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   },
+   {
+    "name": "PCIFIC Esports",
+    "vlr": "/team/3478/pcific-esports",
+    "logo": "https://owcdn.net/img/656e2ae2b8a48.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258414",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "55:43",
+    "players": [
+     [
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "sova"
+      },
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "omen"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "veto"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q8zEriwNSjo",
+     "start": 10731
+    }
+   },
+   {
+    "gameId": "258415",
+    "n": 2,
+    "map": "split",
+    "score": [
+     13,
+     0
+    ],
+    "pick": 1,
+    "duration": "34:44",
+    "players": [
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "qpert",
+       "tag": "PCF",
+       "agent": "astra"
+      },
+      {
+       "name": "al0rante",
+       "tag": "PCF",
+       "agent": "viper"
+      },
+      {
+       "name": "NINJA",
+       "tag": "PCF",
+       "agent": "fade"
+      },
+      {
+       "name": "seven",
+       "tag": "PCF",
+       "agent": "raze"
+      },
+      {
+       "name": "cNed",
+       "tag": "PCF",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "q8zEriwNSjo",
+     "start": 14558
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644736",
+  "path": "/644736/natus-vincere-vs-karmine-corp-vct-2026-emea-stage-1-w5",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-04-30T11:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Natus Vincere",
+    "vlr": "/team/4915/natus-vincere",
+    "logo": "https://owcdn.net/img/62a4109ddbd7f.png",
+    "score": 2
+   },
+   {
+    "name": "Karmine Corp",
+    "vlr": "/team/8877/karmine-corp",
+    "logo": "https://owcdn.net/img/627403a0d9e48.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258417",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "42:42",
+    "players": [
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "omen"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "cypher"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "raze"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "fade"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "cypher"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hm-5tBHIWfg",
+     "start": 3074
+    }
+   },
+   {
+    "gameId": "258418",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "48:38",
+    "players": [
+     [
+      {
+       "name": "Ruxic",
+       "tag": "NAVI",
+       "agent": "viper"
+      },
+      {
+       "name": "hiro",
+       "tag": "NAVI",
+       "agent": "cypher"
+      },
+      {
+       "name": "ComeBack",
+       "tag": "NAVI",
+       "agent": "neon"
+      },
+      {
+       "name": "Filu",
+       "tag": "NAVI",
+       "agent": "phoenix"
+      },
+      {
+       "name": "chloric",
+       "tag": "NAVI",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "jett"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "sova"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "astra"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hm-5tBHIWfg",
+     "start": 6254
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644737",
+  "path": "/644737/bbl-esports-vs-fnatic-vct-2026-emea-stage-1-w5",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-04-30T13:10:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 0
+   },
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258420",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 0,
+    "duration": "35:15",
+    "players": [
+     [
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "breach"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "cypher"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hm-5tBHIWfg",
+     "start": 10921
+    }
+   },
+   {
+    "gameId": "258421",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 1,
+    "duration": "37:39",
+    "players": [
+     [
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "tejo"
+      }
+     ],
+     [
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "fade"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "brimstone"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hm-5tBHIWfg",
+     "start": 13709
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644738",
+  "path": "/644738/giantx-vs-eternal-fire-vct-2026-emea-stage-1-w5",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-01T11:00:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "GIANTX",
+    "vlr": "/team/14419/giantx",
+    "logo": "https://owcdn.net/img/657b2f3fcd199.png",
+    "score": 0
+   },
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258423",
+    "n": 1,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "42:15",
+    "players": [
+     [
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "viper"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "astra"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "skye"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WSeCBGo_EzQ",
+     "start": 3066
+    }
+   },
+   {
+    "gameId": "258424",
+    "n": 2,
+    "map": "breeze",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "45:25",
+    "players": [
+     [
+      {
+       "name": "Flickless",
+       "tag": "GX",
+       "agent": "viper"
+      },
+      {
+       "name": "grubinho",
+       "tag": "GX",
+       "agent": "omen"
+      },
+      {
+       "name": "ara",
+       "tag": "GX",
+       "agent": "neon"
+      },
+      {
+       "name": "Cloud",
+       "tag": "GX",
+       "agent": "sova"
+      },
+      {
+       "name": "westside",
+       "tag": "GX",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "skye"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "tejo"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WSeCBGo_EzQ",
+     "start": 6168
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "644739",
+  "path": "/644739/gentle-mates-vs-team-liquid-vct-2026-emea-stage-1-w5",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Group Stage: Week 5",
+  "date": "2026-05-01T13:05:00Z",
+  "patch": "12.07",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 0
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "258426",
+    "n": 1,
+    "map": "split",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 0,
+    "duration": "40:12",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "raze"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "astra"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WSeCBGo_EzQ",
+     "start": 10595
+    }
+   },
+   {
+    "gameId": "258427",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "42:47",
+    "players": [
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "raze"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "vyse"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "cypher"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WSeCBGo_EzQ",
+     "start": 13659
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660381",
+  "path": "/660381/eternal-fire-vs-team-heretics-vct-2026-emea-stage-1-ur1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Upper Round 1",
+  "date": "2026-05-07T11:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 2
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265462",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     7,
+     13
+    ],
+    "pick": 1,
+    "duration": "37:40",
+    "players": [
+     [
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "tejo"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "breach"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "waylay"
+      }
+     ],
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "brimstone"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Sjgq8Cj6vOo",
+     "start": 3088
+    }
+   },
+   {
+    "gameId": "265463",
+    "n": 2,
+    "map": "pearl",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "47:37",
+    "players": [
+     [
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "phoenix"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Sjgq8Cj6vOo",
+     "start": 5867
+    }
+   },
+   {
+    "gameId": "265464",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     13,
+     5
+    ],
+    "pick": null,
+    "duration": "33:48",
+    "players": [
+     [
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Sjgq8Cj6vOo",
+     "start": 9392
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660382",
+  "path": "/660382/team-liquid-vs-team-vitality-vct-2026-emea-stage-1-ur1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Upper Round 1",
+  "date": "2026-05-07T13:55:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 1
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265465",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 1,
+    "duration": "38:33",
+    "players": [
+     [
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "astra"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "killjoy"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Sjgq8Cj6vOo",
+     "start": 13221
+    }
+   },
+   {
+    "gameId": "265466",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "53:36",
+    "players": [
+     [
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "sova"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "cypher"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Sjgq8Cj6vOo",
+     "start": 16103
+    }
+   },
+   {
+    "gameId": "265467",
+    "n": 3,
+    "map": "lotus",
+    "score": [
+     10,
+     13
+    ],
+    "pick": null,
+    "duration": "54:12",
+    "players": [
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "cypher"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Sjgq8Cj6vOo",
+     "start": 19949
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660383",
+  "path": "/660383/fut-esports-vs-eternal-fire-vct-2026-emea-stage-1-ubsf",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-05-08T11:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 2
+   },
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265468",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 1,
+    "duration": "41:05",
+    "players": [
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "astra"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "phoenix"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "5KvqU9A2lDs",
+     "start": 3067
+    }
+   },
+   {
+    "gameId": "265469",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 0,
+    "duration": "33:39",
+    "players": [
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "waylay"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "sova"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "kayo"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "5KvqU9A2lDs",
+     "start": 6156
+    }
+   },
+   {
+    "gameId": "265470",
+    "n": 3,
+    "map": "split",
+    "score": [
+     13,
+     11
+    ],
+    "pick": null,
+    "duration": "47:03",
+    "players": [
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "viper"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "5KvqU9A2lDs",
+     "start": 8799
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660384",
+  "path": "/660384/fnatic-vs-team-vitality-vct-2026-emea-stage-1-ubsf",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-05-08T13:55:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 0
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265471",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "40:14",
+    "players": [
+     [
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "kayo"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "5KvqU9A2lDs",
+     "start": 13386
+    }
+   },
+   {
+    "gameId": "265472",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 1,
+    "duration": "1:00:33",
+    "players": [
+     [
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "cypher"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "5KvqU9A2lDs",
+     "start": 16434
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660387",
+  "path": "/660387/team-heretics-vs-bbl-esports-vct-2026-emea-stage-1-lr1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-05-09T11:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 2
+   },
+   {
+    "name": "BBL Esports",
+    "vlr": "/team/397/bbl-esports",
+    "logo": "https://owcdn.net/img/65b8ccef5e273.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265482",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 1,
+    "duration": "44:30",
+    "players": [
+     [
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "sage"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "viper"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WfYNAsdm3xg",
+     "start": 3205
+    }
+   },
+   {
+    "gameId": "265483",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     14,
+     12
+    ],
+    "pick": 0,
+    "duration": "59:43",
+    "players": [
+     [
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Rosé",
+       "tag": "BBL",
+       "agent": "sova"
+      },
+      {
+       "name": "Loita",
+       "tag": "BBL",
+       "agent": "omen"
+      },
+      {
+       "name": "lovers rock",
+       "tag": "BBL",
+       "agent": "jett"
+      },
+      {
+       "name": "Lar0k",
+       "tag": "BBL",
+       "agent": "deadlock"
+      },
+      {
+       "name": "Crewen",
+       "tag": "BBL",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WfYNAsdm3xg",
+     "start": 6468
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660388",
+  "path": "/660388/team-liquid-vs-gentle-mates-vct-2026-emea-stage-1-lr1",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-05-09T13:30:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 1
+   },
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265485",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     4
+    ],
+    "pick": 1,
+    "duration": "36:33",
+    "players": [
+     [
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "astra"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "skye"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "raze"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "viper"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "jett"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WfYNAsdm3xg",
+     "start": 11896
+    }
+   },
+   {
+    "gameId": "265486",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "51:46",
+    "players": [
+     [
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "phoenix"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "sova"
+      },
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "omen"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "sova"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WfYNAsdm3xg",
+     "start": 14753
+    }
+   },
+   {
+    "gameId": "265487",
+    "n": 3,
+    "map": "fracture",
+    "score": [
+     2,
+     13
+    ],
+    "pick": null,
+    "duration": "56:17",
+    "players": [
+     [
+      {
+       "name": "wayne",
+       "tag": "TL",
+       "agent": "brimstone"
+      },
+      {
+       "name": "MiniBoo",
+       "tag": "TL",
+       "agent": "neon"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "killjoy"
+      },
+      {
+       "name": "purp0",
+       "tag": "TL",
+       "agent": "breach"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      }
+     ],
+     [
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "astra"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "WfYNAsdm3xg",
+     "start": 18496
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660389",
+  "path": "/660389/fnatic-vs-team-heretics-vct-2026-emea-stage-1-lr2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-05-10T11:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FNATIC",
+    "vlr": "/team/2593/fnatic",
+    "logo": "https://owcdn.net/img/62a40cc2b5e29.png",
+    "score": 1
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265488",
+    "n": 1,
+    "map": "fracture",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "50:37",
+    "players": [
+     [
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "fade"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "cypher"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "brimstone"
+      }
+     ],
+     [
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "brimstone"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "x8zPHSXmXyI",
+     "start": 3188
+    }
+   },
+   {
+    "gameId": "265489",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     2,
+     13
+    ],
+    "pick": 0,
+    "duration": "33:35",
+    "players": [
+     [
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "viper"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "neon"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "fade"
+      },
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "killjoy"
+      }
+     ],
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "x8zPHSXmXyI",
+     "start": 6878
+    }
+   },
+   {
+    "gameId": "265490",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     13,
+     15
+    ],
+    "pick": null,
+    "duration": "1:17:22",
+    "players": [
+     [
+      {
+       "name": "Alfajer",
+       "tag": "FNC",
+       "agent": "vyse"
+      },
+      {
+       "name": "crashies",
+       "tag": "FNC",
+       "agent": "sova"
+      },
+      {
+       "name": "CyvOph",
+       "tag": "FNC",
+       "agent": "kayo"
+      },
+      {
+       "name": "kaajak",
+       "tag": "FNC",
+       "agent": "jett"
+      },
+      {
+       "name": "Boaster",
+       "tag": "FNC",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "x8zPHSXmXyI",
+     "start": 9516
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660390",
+  "path": "/660390/eternal-fire-vs-gentle-mates-vct-2026-emea-stage-1-lr2",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-05-10T14:35:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 2
+   },
+   {
+    "name": "Gentle Mates",
+    "vlr": "/team/12694/gentle-mates",
+    "logo": "https://owcdn.net/img/6670153fa9120.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265491",
+    "n": 1,
+    "map": "ascent",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 1,
+    "duration": "39:29",
+    "players": [
+     [
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "jett"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "sova"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "sova"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "phoenix"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "jett"
+      },
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "x8zPHSXmXyI",
+     "start": 15794
+    }
+   },
+   {
+    "gameId": "265492",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "42:43",
+    "players": [
+     [
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "GLYPH",
+       "tag": "M8",
+       "agent": "omen"
+      },
+      {
+       "name": "Minny",
+       "tag": "M8",
+       "agent": "cypher"
+      },
+      {
+       "name": "starxo",
+       "tag": "M8",
+       "agent": "fade"
+      },
+      {
+       "name": "marteen",
+       "tag": "M8",
+       "agent": "raze"
+      },
+      {
+       "name": "bipo",
+       "tag": "M8",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "x8zPHSXmXyI",
+     "start": 18816
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660385",
+  "path": "/660385/fut-esports-vs-team-vitality-vct-2026-emea-stage-1-ubf",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Upper Final",
+  "date": "2026-05-15T11:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 1
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265474",
+    "n": 1,
+    "map": "pearl",
+    "score": [
+     15,
+     17
+    ],
+    "pick": 1,
+    "duration": "1:11:50",
+    "players": [
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "astra"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nWM-3hZv0I0",
+     "start": 3159
+    }
+   },
+   {
+    "gameId": "265475",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 0,
+    "duration": "46:50",
+    "players": [
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nWM-3hZv0I0",
+     "start": 8146
+    }
+   },
+   {
+    "gameId": "265476",
+    "n": 3,
+    "map": "split",
+    "score": [
+     12,
+     14
+    ],
+    "pick": null,
+    "duration": "58:44",
+    "players": [
+     [
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "raze"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "skye"
+      }
+     ],
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nWM-3hZv0I0",
+     "start": 11543
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660391",
+  "path": "/660391/team-heretics-vs-eternal-fire-vct-2026-emea-stage-1-lr3",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Lower Round 3",
+  "date": "2026-05-15T14:45:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 2
+   },
+   {
+    "name": "Eternal Fire",
+    "vlr": "/team/6392/eternal-fire",
+    "logo": "https://owcdn.net/img/6628980dcdaea.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265494",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "51:42",
+    "players": [
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "omen"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nWM-3hZv0I0",
+     "start": 16877
+    }
+   },
+   {
+    "gameId": "265495",
+    "n": 2,
+    "map": "fracture",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "45:19",
+    "players": [
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "brimstone"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "fade"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "neon"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "raze"
+      },
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nWM-3hZv0I0",
+     "start": 20547
+    }
+   },
+   {
+    "gameId": "265496",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     13,
+     10
+    ],
+    "pick": null,
+    "duration": "48:39",
+    "players": [
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "audaz",
+       "tag": "EF",
+       "agent": "astra"
+      },
+      {
+       "name": "Izzy",
+       "tag": "EF",
+       "agent": "jett"
+      },
+      {
+       "name": "nekky",
+       "tag": "EF",
+       "agent": "sova"
+      },
+      {
+       "name": "echo",
+       "tag": "EF",
+       "agent": "cypher"
+      },
+      {
+       "name": "Favian",
+       "tag": "EF",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "nWM-3hZv0I0",
+     "start": 23914
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660392",
+  "path": "/660392/fut-esports-vs-team-heretics-vct-2026-emea-stage-1-lbf",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Lower Final",
+  "date": "2026-05-16T12:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 1
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265497",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     15,
+     13
+    ],
+    "pick": 0,
+    "duration": "57:57",
+    "players": [
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "bOCA0nIYY0Q",
+     "start": 4127
+    }
+   },
+   {
+    "gameId": "265498",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "33:02",
+    "players": [
+     [
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "fade"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "bOCA0nIYY0Q",
+     "start": 8349
+    }
+   },
+   {
+    "gameId": "265499",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 0,
+    "duration": "40:35",
+    "players": [
+     [
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      }
+     ],
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "bOCA0nIYY0Q",
+     "start": 11052
+    }
+   },
+   {
+    "gameId": "265500",
+    "n": 4,
+    "map": "breeze",
+    "score": [
+     1,
+     13
+    ],
+    "pick": 1,
+    "duration": "33:47",
+    "players": [
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "viper"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "jett"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "viper"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "sage"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "bOCA0nIYY0Q",
+     "start": 14258
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ },
+ {
+  "id": "660386",
+  "path": "/660386/team-vitality-vs-team-heretics-vct-2026-emea-stage-1-gf",
+  "event": "VCT 2026: EMEA Stage 1",
+  "series": "Playoffs: Grand Final",
+  "date": "2026-05-17T12:00:00Z",
+  "patch": "12.08",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   },
+   {
+    "name": "Team Heretics",
+    "vlr": "/team/1001/team-heretics",
+    "logo": "https://owcdn.net/img/637b755224c12.png",
+    "score": 3
+   }
+  ],
+  "games": [
+   {
+    "gameId": "265477",
+    "n": 1,
+    "map": "breeze",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 0,
+    "duration": "49:05",
+    "players": [
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "sage"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "chamber"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9StmB4cjGuM",
+     "start": 4285
+    }
+   },
+   {
+    "gameId": "265478",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 1,
+    "duration": "1:03:42",
+    "players": [
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9StmB4cjGuM",
+     "start": 8010
+    }
+   },
+   {
+    "gameId": "265480",
+    "n": 3,
+    "map": "split",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 1,
+    "duration": "57:09",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "vyse"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "raze"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9StmB4cjGuM",
+     "start": 16025
+    }
+   },
+   {
+    "gameId": "265481",
+    "n": 4,
+    "map": "haven",
+    "score": [
+     13,
+     15
+    ],
+    "pick": null,
+    "duration": "1:04:34",
+    "players": [
+     [
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "sova"
+      },
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "omen"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9StmB4cjGuM",
+     "start": 20250
+    }
+   },
+   {
+    "gameId": "269000",
+    "n": 5,
+    "map": "pearl",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "45:25",
+    "players": [
+     [
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Boo",
+       "tag": "TH",
+       "agent": "astra"
+      },
+      {
+       "name": "Wo0t",
+       "tag": "TH",
+       "agent": "jett"
+      },
+      {
+       "name": "RieNs",
+       "tag": "TH",
+       "agent": "fade"
+      },
+      {
+       "name": "benjyfishy",
+       "tag": "TH",
+       "agent": "cypher"
+      },
+      {
+       "name": "koshmaras",
+       "tag": "TH",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "9StmB4cjGuM",
+     "start": 12560
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 0
+ }
+]
