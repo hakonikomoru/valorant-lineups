@@ -2719,5 +2719,823 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "753452",
+  "path": "/753452/global-esports-vs-edward-gaming-valorant-champions-2026-elim-b",
+  "event": "Valorant Champions 2026",
+  "series": "Group Stage: Elimination (B)",
+  "date": "2026-10-02T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 2
+   },
+   {
+    "name": "EDward Gaming",
+    "vlr": "/team/1120/edward-gaming",
+    "logo": "https://owcdn.net/img/62c82049253b2.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283175",
+    "n": 1,
+    "map": "summit",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "55:52",
+    "players": [
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "astra"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "sage"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "sage"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "fade"
+      },
+      {
+       "name": "stew",
+       "tag": "EDG",
+       "agent": "yoru"
+      },
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hDHTJkgLsLg",
+     "start": 74
+    }
+   },
+   {
+    "gameId": "283176",
+    "n": 2,
+    "map": "sunset",
+    "score": [
+     13,
+     6
+    ],
+    "pick": 1,
+    "duration": "34:27",
+    "players": [
+     [
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "yoru"
+      },
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "Smoggy",
+       "tag": "EDG",
+       "agent": "omen"
+      },
+      {
+       "name": "ZmjjKK",
+       "tag": "EDG",
+       "agent": "neon"
+      },
+      {
+       "name": "stew",
+       "tag": "EDG",
+       "agent": "kayo"
+      },
+      {
+       "name": "nobody",
+       "tag": "EDG",
+       "agent": "sova"
+      },
+      {
+       "name": "CHICHOO",
+       "tag": "EDG",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "hDHTJkgLsLg",
+     "start": 2743
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "753447",
+  "path": "/753447/t1-vs-jd-gaming-valorant-champions-2026-elim-a",
+  "event": "Valorant Champions 2026",
+  "series": "Group Stage: Elimination (A)",
+  "date": "2026-10-02T07:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   },
+   {
+    "name": "JD Gaming",
+    "vlr": "/team/13576/jd-gaming",
+    "logo": "https://owcdn.net/img/64f9825408326.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283160",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "59:04",
+    "players": [
+     [
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "crownfisher",
+       "tag": "JDG",
+       "agent": "omen"
+      },
+      {
+       "name": "jkuro",
+       "tag": "JDG",
+       "agent": "raze"
+      },
+      {
+       "name": "Yuicaw",
+       "tag": "JDG",
+       "agent": "vyse"
+      },
+      {
+       "name": "zhe",
+       "tag": "JDG",
+       "agent": "chamber"
+      },
+      {
+       "name": "BerLIN",
+       "tag": "JDG",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QL2P-AwdZjw",
+     "start": 79
+    }
+   },
+   {
+    "gameId": "283161",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     3,
+     13
+    ],
+    "pick": 1,
+    "duration": "31:22",
+    "players": [
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "yoru"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "waylay"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "brimstone"
+      }
+     ],
+     [
+      {
+       "name": "zhe",
+       "tag": "JDG",
+       "agent": "yoru"
+      },
+      {
+       "name": "BerLIN",
+       "tag": "JDG",
+       "agent": "harbor"
+      },
+      {
+       "name": "Yuicaw",
+       "tag": "JDG",
+       "agent": "sova"
+      },
+      {
+       "name": "crownfisher",
+       "tag": "JDG",
+       "agent": "omen"
+      },
+      {
+       "name": "jkuro",
+       "tag": "JDG",
+       "agent": "waylay"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QL2P-AwdZjw",
+     "start": 3638
+    }
+   },
+   {
+    "gameId": "283162",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     13,
+     5
+    ],
+    "pick": null,
+    "duration": "35:47",
+    "players": [
+     [
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "killjoy"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "phoenix"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "jkuro",
+       "tag": "JDG",
+       "agent": "waylay"
+      },
+      {
+       "name": "crownfisher",
+       "tag": "JDG",
+       "agent": "omen"
+      },
+      {
+       "name": "zhe",
+       "tag": "JDG",
+       "agent": "neon"
+      },
+      {
+       "name": "BerLIN",
+       "tag": "JDG",
+       "agent": "sova"
+      },
+      {
+       "name": "Yuicaw",
+       "tag": "JDG",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QL2P-AwdZjw",
+     "start": 5527
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "753458",
+  "path": "/753458/g2-esports-vs-team-liquid-valorant-champions-2026-decider-c",
+  "event": "Valorant Champions 2026",
+  "series": "Group Stage: Decider (C)",
+  "date": "2026-10-03T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 2
+   },
+   {
+    "name": "Team Liquid",
+    "vlr": "/team/474/team-liquid",
+    "logo": "https://owcdn.net/img/640c381f0603f.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283193",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "1:08:15",
+    "players": [
+     [
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "skye"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Kicks",
+       "tag": "TL",
+       "agent": "astra"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "raze"
+      },
+      {
+       "name": "trexx",
+       "tag": "TL",
+       "agent": "fade"
+      },
+      {
+       "name": "GSR",
+       "tag": "TL",
+       "agent": "yoru"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ma4ipFeW7Mc",
+     "start": 60
+    }
+   },
+   {
+    "gameId": "283194",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "44:35",
+    "players": [
+     [
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "harbor"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "trexx",
+       "tag": "TL",
+       "agent": "sova"
+      },
+      {
+       "name": "kamo",
+       "tag": "TL",
+       "agent": "waylay"
+      },
+      {
+       "name": "Kicks",
+       "tag": "TL",
+       "agent": "harbor"
+      },
+      {
+       "name": "nAts",
+       "tag": "TL",
+       "agent": "cypher"
+      },
+      {
+       "name": "GSR",
+       "tag": "TL",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "Ma4ipFeW7Mc",
+     "start": 3449
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "753463",
+  "path": "/753463/karmine-corp-vs-nongshim-redforce-valorant-champions-2026-decider-d",
+  "event": "Valorant Champions 2026",
+  "series": "Group Stage: Decider (D)",
+  "date": "2026-10-03T07:30:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Karmine Corp",
+    "vlr": "/team/8877/karmine-corp",
+    "logo": "https://owcdn.net/img/627403a0d9e48.png",
+    "score": 1
+   },
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283208",
+    "n": 1,
+    "map": "sunset",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "1:01:16",
+    "players": [
+     [
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "viper"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "chamber"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "waylay"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "HVOUB9c8pDY",
+     "start": 65
+    }
+   },
+   {
+    "gameId": "283209",
+    "n": 2,
+    "map": "summit",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 1,
+    "duration": "45:07",
+    "players": [
+     [
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "chamber"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "viper"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "fade"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "sage"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "harbor"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "HVOUB9c8pDY",
+     "start": 3298
+    }
+   },
+   {
+    "gameId": "283210",
+    "n": 3,
+    "map": "haven",
+    "score": [
+     6,
+     13
+    ],
+    "pick": null,
+    "duration": "41:26",
+    "players": [
+     [
+      {
+       "name": "Avez",
+       "tag": "KC",
+       "agent": "sova"
+      },
+      {
+       "name": "N4RRATE",
+       "tag": "KC",
+       "agent": "phoenix"
+      },
+      {
+       "name": "LewN",
+       "tag": "KC",
+       "agent": "neon"
+      },
+      {
+       "name": "dos9",
+       "tag": "KC",
+       "agent": "omen"
+      },
+      {
+       "name": "SUYGETSU",
+       "tag": "KC",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "killjoy"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "HVOUB9c8pDY",
+     "start": 6056
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
