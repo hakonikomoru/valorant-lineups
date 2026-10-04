@@ -3537,5 +3537,337 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "753453",
+  "path": "/753453/loud-vs-global-esports-valorant-champions-2026-decider-b",
+  "event": "Valorant Champions 2026",
+  "series": "Group Stage: Decider (B)",
+  "date": "2026-10-04T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "LOUD",
+    "vlr": "/team/6961/loud",
+    "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+    "score": 2
+   },
+   {
+    "name": "Global Esports",
+    "vlr": "/team/918/global-esports",
+    "logo": "https://owcdn.net/img/629f316ddd4dd.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283178",
+    "n": 1,
+    "map": "split",
+    "score": [
+     13,
+     8
+    ],
+    "pick": 1,
+    "duration": "57:58",
+    "players": [
+     [
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "yoru"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "viper"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "fade"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "viper"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "yoru"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0Yr0XKJJmZE",
+     "start": 89
+    }
+   },
+   {
+    "gameId": "283179",
+    "n": 2,
+    "map": "sunset",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 0,
+    "duration": "57:29",
+    "players": [
+     [
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "sage"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "PatMen",
+       "tag": "GE",
+       "agent": "chamber"
+      },
+      {
+       "name": "xavi8k",
+       "tag": "GE",
+       "agent": "omen"
+      },
+      {
+       "name": "Autumn",
+       "tag": "GE",
+       "agent": "yoru"
+      },
+      {
+       "name": "Kr1stal",
+       "tag": "GE",
+       "agent": "fade"
+      },
+      {
+       "name": "UdoTan",
+       "tag": "GE",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "0Yr0XKJJmZE",
+     "start": 2925
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "753448",
+  "path": "/753448/fut-esports-vs-t1-valorant-champions-2026-decider-a",
+  "event": "Valorant Champions 2026",
+  "series": "Group Stage: Decider (A)",
+  "date": "2026-10-04T07:25:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "FUT Esports",
+    "vlr": "/team/1184/fut-esports",
+    "logo": "https://owcdn.net/img/632be9976b8fe.png",
+    "score": 0
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283163",
+    "n": 1,
+    "map": "sunset",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 1,
+    "duration": "1:00:31",
+    "players": [
+     [
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "neon"
+      },
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "waylay"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "sage"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": null
+   },
+   {
+    "gameId": "283164",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "51:42",
+    "players": [
+     [
+      {
+       "name": "sociablEE",
+       "tag": "FUT",
+       "agent": "omen"
+      },
+      {
+       "name": "KROSTALY",
+       "tag": "FUT",
+       "agent": "sova"
+      },
+      {
+       "name": "xeus",
+       "tag": "FUT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "yetujey",
+       "tag": "FUT",
+       "agent": "cypher"
+      },
+      {
+       "name": "s0pp",
+       "tag": "FUT",
+       "agent": "jett"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "sage"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": null
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 3
  }
 ]
