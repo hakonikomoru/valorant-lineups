@@ -68,8 +68,10 @@
       </div>
       <div class="filter-row filter-row-inline">
         <div class="segmented" id="region-filter" role="radiogroup" aria-label="地域"></div>
-        <select class="select" id="team-filter" aria-label="チーム"></select>
-        <input class="search" id="search" type="search" placeholder="チーム・選手で検索" aria-label="検索">
+        <label class="picker"><span class="picker-label">チーム</span><input class="search" id="team-filter" type="search" list="team-list" placeholder="チーム名で絞り込む" autocomplete="off" aria-label="チーム名で絞り込む"></label>
+        <datalist id="team-list"></datalist>
+        <label class="picker"><span class="picker-label">選手</span><input class="search" id="player-filter" type="search" list="player-list" placeholder="選手名で絞り込む" autocomplete="off" aria-label="選手名で絞り込む"></label>
+        <datalist id="player-list"></datalist>
       </div>
       <div class="filter-row">
         <p class="filter-label">エージェント構成で絞り込む<span class="filter-hint">（選んだエージェントをすべて含む構成）</span></p>
@@ -110,6 +112,7 @@
           <p id="player-sub"></p>
         </div>
         <div class="player-maps" id="player-maps" aria-label="この試合のマップ"></div>
+        <div class="player-roster" id="player-roster" aria-label="このマップの出場選手"></div>
         <div class="player-stuck" id="player-stuck" hidden>
           <p>再生が始まらないときや「bot ではないことを確認」と出るときは、YouTube で開いてください（マップの開始位置から再生されます）。</p>
           <div class="player-stuck-actions">

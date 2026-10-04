@@ -320,7 +320,6 @@ main { padding: 0 var(--gutter) 64px; }
 .segmented button + button { border-left: 1px solid var(--slate); }
 .segmented button[aria-pressed='true'] { background: var(--red); }
 
-.select,
 .search {
   padding: 6px 10px;
   font: inherit;
@@ -330,8 +329,10 @@ main { padding: 0 var(--gutter) 64px; }
   border: 1px solid var(--slate);
   border-radius: 0;
 }
-.select { max-width: 280px; }
 .search { width: min(240px, 100%); }
+.picker { display: flex; align-items: center; gap: 6px; }
+.picker-label { flex: none; font-size: 0.75rem; font-weight: 700; color: var(--muted); }
+.picker .search { width: 200px; }
 .search::placeholder { color: var(--muted); }
 
 .agent-pick {
@@ -432,6 +433,7 @@ main { padding: 0 var(--gutter) 64px; }
 .comp img { width: 24px; height: 24px; }
 .comp.is-match { border-color: var(--red); background: rgb(255 70 85 / 0.12); }
 .comp img.is-match { outline: 2px solid var(--red); outline-offset: -1px; }
+.comp img.is-player { outline: 2px solid var(--ink); outline-offset: -1px; }
 
 .card-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 8px; margin-top: auto; font-size: 0.72rem; color: var(--muted); }
 .card-event { display: flex; align-items: center; color: var(--ink); font-weight: 600; }
@@ -487,6 +489,16 @@ main { padding: 0 var(--gutter) 64px; }
   background: linear-gradient(90deg, rgb(15 25 35 / 0.92) 25%, rgb(15 25 35 / 0.5));
 }
 .player-map > * { position: relative; }
+.player-roster { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px 16px; flex-basis: 100%; }
+.roster { min-width: 0; }
+.roster-team { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; padding: 0; font-size: 0.8rem; font-weight: 700; background: none; border: 0; }
+.roster-team img { width: 22px; height: 22px; object-fit: contain; }
+.roster-team:hover span { text-decoration: underline; }
+.roster-players { display: flex; flex-wrap: wrap; gap: 4px; }
+.roster-player { display: flex; align-items: center; gap: 4px; padding: 2px 8px 2px 2px; font-size: 0.75rem; background: var(--navy-2); border: 1px solid var(--navy-3); }
+.roster-player img { width: 22px; height: 22px; }
+.roster-player:hover { border-color: var(--slate); }
+.roster-player[aria-pressed='true'] { border-color: var(--red); background: rgb(255 70 85 / 0.18); }
 .player-map-n { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; color: var(--muted); }
 .player-map-name { font-family: var(--font-display); font-size: 1rem; letter-spacing: 0.04em; line-height: 1.1; text-transform: uppercase; }
 .player-map-score { font-size: 0.72rem; font-variant-numeric: tabular-nums; }
@@ -565,8 +577,9 @@ dialog.dialog-shim[open] {
   .map-tab-all { width: 84px; }
   .hero-desc { font-size: 0.78rem; }
   .filter-row-inline > * { flex: 1 1 100%; min-width: 0; max-width: none; }
-  .select { width: 100%; } /* 長いチーム名の option で横にはみ出さないように */
   .search { width: 100%; }
+  .picker .search { width: auto; flex: 1; min-width: 0; }
+  .player-roster { grid-template-columns: minmax(0, 1fr); }
   .segmented button { flex: 1; padding: 6px 8px; }
   .game-grid { grid-template-columns: minmax(0, 1fr); }
   .player-info { padding: 10px 12px; gap: 8px; }
