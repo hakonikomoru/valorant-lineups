@@ -68,8 +68,16 @@
       </div>
       <div class="filter-row filter-row-inline">
         <div class="segmented" id="region-filter" role="radiogroup" aria-label="地域"></div>
-        <select class="select" id="team-filter" aria-label="チーム"></select>
-        <select class="select" id="player-filter" aria-label="選手"></select>
+      </div>
+      <div class="filter-row">
+        <p class="filter-label">チーム<button type="button" class="chip team-clear" id="team-clear" hidden>解除</button></p>
+        <nav class="team-picks" id="team-picks" aria-label="チーム"></nav>
+      </div>
+      <div class="filter-row" id="player-row" hidden>
+        <p class="filter-label" id="player-label">選手</p>
+        <div class="scroller">
+          <nav class="player-picks" id="player-picks" aria-label="選手"></nav>
+        </div>
       </div>
       <div class="filter-row">
         <p class="filter-label">エージェント構成で絞り込む<span class="filter-hint">（選んだエージェントをすべて含む構成）</span></p>

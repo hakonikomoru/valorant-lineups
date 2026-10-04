@@ -320,16 +320,6 @@ main { padding: 0 var(--gutter) 64px; }
 .segmented button + button { border-left: 1px solid var(--slate); }
 .segmented button[aria-pressed='true'] { background: var(--red); }
 
-.select {
-  padding: 6px 10px;
-  font: inherit;
-  font-size: 0.85rem;
-  color: var(--ink);
-  background: var(--navy-2);
-  border: 1px solid var(--slate);
-  border-radius: 0;
-  max-width: 280px;
-}
 
 .agent-pick {
   flex: none;
@@ -351,6 +341,60 @@ main { padding: 0 var(--gutter) 64px; }
 .agent-pick[aria-pressed='true'] { background: var(--red); border-color: var(--red); }
 .agent-pick[aria-pressed='true'] .agent-pick-count { color: var(--ink); }
 .agent-clear { align-self: center; }
+
+/* チーム（地域ごとのロゴの行）と選手 */
+.team-clear { margin-left: 8px; padding: 0 10px; font-size: 0.7rem; letter-spacing: 0; }
+.team-clear[hidden] { display: none; }
+.team-picks { display: grid; gap: 6px; }
+.team-region { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.team-region-label { flex: none; width: 76px; margin: 0; }
+.team-region-label .chip-region { margin: 0; }
+.team-region-teams { display: flex; gap: 4px; min-width: 0; overflow-x: auto; padding-bottom: 2px; scrollbar-width: thin; scrollbar-color: var(--slate) transparent; }
+.team-pick {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 58px;
+  padding: 5px 2px 3px;
+  background: var(--navy-2);
+  border: 1px solid var(--navy-3);
+  transition: background 0.15s, border-color 0.15s, opacity 0.15s;
+}
+.team-pick img,
+.team-pick-nologo { width: 32px; height: 32px; object-fit: contain; }
+/* 黒いロゴ（ZETA・TS など）が紺の背景に沈まないよう、チームロゴに薄い縁取り */
+.team-pick img,
+.team img,
+.roster-team img { filter: drop-shadow(0 0 1px rgb(236 232 225 / 0.7)); }
+.team-pick-tag { max-width: 100%; overflow: hidden; font-size: 0.66rem; font-weight: 700; white-space: nowrap; text-overflow: ellipsis; }
+.team-pick-count { font-size: 0.58rem; line-height: 1.2; color: var(--muted); }
+.team-pick:hover { background: var(--navy-3); border-color: var(--slate); }
+.team-pick.is-empty { opacity: 0.35; }
+.team-pick.is-empty:hover { opacity: 0.8; }
+.team-pick[aria-pressed='true'] { opacity: 1; background: rgb(255 70 85 / 0.22); border-color: var(--red); box-shadow: inset 0 -3px 0 var(--red); }
+.team-pick[aria-pressed='true'] .team-pick-count { color: var(--ink); }
+
+.player-picks { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 8px; scrollbar-width: thin; scrollbar-color: var(--slate) transparent; }
+.player-all { align-self: center; }
+.player-pick {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px 3px 3px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  white-space: nowrap;
+  background: var(--navy-2);
+  border: 1px solid var(--navy-3);
+  transition: background 0.15s, border-color 0.15s;
+}
+.player-pick img { width: 28px; height: 28px; }
+.player-pick-count { font-size: 0.65rem; font-weight: 600; color: var(--muted); }
+.player-pick:hover { background: var(--navy-3); }
+.player-pick[aria-pressed='true'] { background: var(--red); border-color: var(--red); }
+.player-pick[aria-pressed='true'] .player-pick-count { color: var(--ink); }
 
 .result-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; margin: 20px 0 12px; }
 .result-count { margin: 0; font-size: 0.85rem; color: var(--muted); }
@@ -573,8 +617,10 @@ dialog.dialog-shim[open] {
   .map-tab-all { width: 84px; }
   .hero-desc { font-size: 0.78rem; }
   .filter-row-inline > * { flex: 1 1 100%; min-width: 0; max-width: none; }
-  .select { width: 100%; } /* 長いチーム名の option で横にはみ出さないように */
   .player-roster { grid-template-columns: minmax(0, 1fr); }
+  .team-region { align-items: flex-start; flex-direction: column; gap: 4px; }
+  .team-region-label { width: auto; }
+  .team-region-teams { max-width: 100%; }
   .segmented button { flex: 1; padding: 6px 8px; }
   .game-grid { grid-template-columns: minmax(0, 1fr); }
   .player-info { padding: 10px 12px; gap: 8px; }
