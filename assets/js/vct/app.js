@@ -24,34 +24,30 @@ for (const m of data.matches) {
       m,
       g,
       region: eventBySlug.get(m.event).region,
-      teamText: teams.flatMap((t) => [t.name, t.tag]).join(' ').toLowerCase(),
-      playerText: g.players.flat().join(' ').toLowerCase(),
     });
   }
 }
 const itemByKey = new Map(items.map((it) => [it.key, it]));
-// 選手名 → 最後に出場したチーム（候補の一覧に所属として出す）。名前は大文字・小文字の違いも含めて vlr.gg の表記のまま
+// 選手名 → 最後に出場したチーム（選手の一覧をチームごとにまとめるのに使う）。名前は大文字・小文字の違いも含めて vlr.gg の表記のまま
 const playerTeam = new Map();
 for (const it of items) it.g.players.forEach((side, i) => side.forEach((p) => playerTeam.set(p, it.m.teams[i])));
+// チーム → 地域（地域リーグの試合から決める。国際大会にしか出ていないチームは「その他」）
+const teamRegion = new Map();
+for (const it of items) if (it.region !== 'international') for (const t of it.m.teams) teamRegion.set(t, it.region);
 
 // map / event はパス、それ以外の絞り込みはクエリ（?team=474&player=Jinggg&agents=sova,omen）で持つ
-// teamText / playerText は入力欄に打ち途中の文字（候補と一致するまでは部分一致で絞る。URL には入れない）
-const state = { map: ALL, event: ALL, region: '', team: '', player: '', teamText: '', playerText: '', agents: new Set(), limit: PAGE_SIZE };
+const state = { map: ALL, event: ALL, region: '', team: '', player: '', agents: new Set(), limit: PAGE_SIZE };
 
 /* ---------- 絞り込み ---------- */
 // except に入れた条件は無視して絞る（タブ・ボタンの件数を、その条件以外で数えるため）
 function filtered(except = []) {
   const skip = new Set(except);
-  const teamText = state.teamText.trim().toLowerCase();
-  const playerText = state.playerText.trim().toLowerCase();
   return items.filter((it) => {
     if (!skip.has('map') && state.map !== ALL && it.g.map !== state.map) return false;
     if (!skip.has('event') && state.event !== ALL && it.m.event !== state.event) return false;
     if (!skip.has('region') && state.region && it.region !== state.region) return false;
     if (!skip.has('team') && state.team && !it.m.teams.includes(state.team)) return false;
-    if (!skip.has('team') && teamText && !it.teamText.includes(teamText)) return false;
     if (!skip.has('player') && state.player && !it.g.players.some((side) => side.includes(state.player))) return false;
-    if (!skip.has('player') && playerText && !it.playerText.includes(playerText)) return false;
     if (!skip.has('agents') && state.agents.size && !sidesWithAgents(it).length) return false;
     return true;
   });
@@ -73,8 +69,6 @@ function readRoute() {
   state.region = REGIONS[q.get('region')] ? q.get('region') : '';
   state.team = data.teams[q.get('team')] ? q.get('team') : '';
   state.player = playerTeam.has(q.get('player')) ? q.get('player') : '';
-  state.teamText = '';
-  state.playerText = '';
   state.agents = new Set((q.get('agents') ?? '').split(',').filter((a) => agentBySlug.has(a)));
   state.limit = PAGE_SIZE;
 }
@@ -234,20 +228,29 @@ function renderRegionFilter() {
     .join('');
 }
 
-// チーム・選手の入力欄と候補（datalist）。打っている途中は入力欄を書き換えない
-function setPickerValue(input, value) {
-  if (document.activeElement !== input) input.value = value;
-}
 function renderTeamFilter() {
   const base = filtered(['team']);
   const count = new Map();
   for (const it of base) for (const t of it.m.teams) count.set(t, (count.get(t) ?? 0) + 1);
-  const list = [...count].sort((a, b) => teamOf(a[0]).name.localeCompare(teamOf(b[0]).name));
-  $('#team-list').innerHTML = list
-    .map(([id, n]) => `<option value="${esc(teamOf(id).name)}" label="${esc(teamOf(id).tag)}・${n} マップ"></option>`)
-    .join('');
-  setPickerValue($('#team-filter'), state.team ? teamOf(state.team).name : state.teamText);
+  if (state.team && !count.has(state.team)) count.set(state.team, 0);
+  // 地域ごとにまとめ、地域の中はチーム名の順
+  const regions = [...Object.keys(REGIONS).filter((r) => r !== 'international'), ''];
+  const groups = regions
+    .map((r) => [r, [...count].filter(([id]) => (teamRegion.get(id) ?? '') === r)])
+    .filter(([, list]) => list.length);
+  $('#team-filter').innerHTML = [
+    `<option value="">すべてのチーム（${count.size}）</option>`,
+    ...groups.map(
+      ([r, list]) =>
+        `<optgroup label="${r ? esc(REGIONS[r]) : 'その他'}">${list
+          .sort((a, b) => teamOf(a[0]).name.localeCompare(teamOf(b[0]).name))
+          .map(([id, n]) => `<option value="${esc(id)}" ${state.team === id ? 'selected' : ''}>${esc(teamOf(id).name)}（${esc(teamOf(id).tag)}）・${n}</option>`)
+          .join('')}</optgroup>`,
+    ),
+  ].join('');
 }
+
+// 選手の一覧。所属チーム（最後に出場したチーム）ごとにまとめ、チームの中は出場マップの多い順
 function renderPlayerFilter() {
   const base = filtered(['player']);
   const count = new Map();
@@ -256,11 +259,23 @@ function renderPlayerFilter() {
       if (state.team && it.m.teams[i] !== state.team) return;
       for (const p of side) count.set(p, (count.get(p) ?? 0) + 1);
     });
-  const list = [...count].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
-  $('#player-list').innerHTML = list
-    .map(([p, n]) => `<option value="${esc(p)}" label="${esc(teamOf(playerTeam.get(p)).tag)}・${n} マップ"></option>`)
-    .join('');
-  setPickerValue($('#player-filter'), state.player || state.playerText);
+  if (state.player && !count.has(state.player)) count.set(state.player, 0);
+  const byTeam = new Map();
+  for (const [p, n] of count) {
+    const t = playerTeam.get(p);
+    byTeam.set(t, [...(byTeam.get(t) ?? []), [p, n]]);
+  }
+  const groups = [...byTeam].sort((a, b) => teamOf(a[0]).name.localeCompare(teamOf(b[0]).name));
+  $('#player-filter').innerHTML = [
+    `<option value="">すべての選手（${count.size}）</option>`,
+    ...groups.map(
+      ([t, players]) =>
+        `<optgroup label="${esc(teamOf(t).name)}（${esc(teamOf(t).tag)}）">${players
+          .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+          .map(([p, n]) => `<option value="${esc(p)}" ${state.player === p ? 'selected' : ''}>${esc(p)}・${n}</option>`)
+          .join('')}</optgroup>`,
+    ),
+  ].join('');
 }
 
 function renderAgentPicks() {
@@ -594,24 +609,17 @@ $('#region-filter').addEventListener('click', (e) => {
   reset();
   render(true);
 });
-// 候補と一致したらそのチーム・選手で絞り込み（URL に入れる）、一致するまでは打った文字の部分一致で絞る
-const teamByName = new Map(Object.entries(data.teams).flatMap(([id, t]) => [[t.name.toLowerCase(), id], [t.tag.toLowerCase(), id]]));
-const playerByName = new Map([...playerTeam.keys()].map((p) => [p.toLowerCase(), p]));
-$('#team-filter').addEventListener('input', (e) => {
-  const text = e.target.value.trim();
-  const id = teamByName.get(text.toLowerCase()) ?? '';
-  state.team = id;
-  state.teamText = id ? '' : text;
+$('#team-filter').addEventListener('change', (e) => {
+  state.team = e.target.value;
+  // 選んでいる選手がそのチームにいなければ外す
+  if (state.team && state.player && playerTeam.get(state.player) !== state.team) state.player = '';
   reset();
-  render(Boolean(id));
+  render(true);
 });
-$('#player-filter').addEventListener('input', (e) => {
-  const text = e.target.value.trim();
-  const name = playerByName.get(text.toLowerCase()) ?? '';
-  state.player = name;
-  state.playerText = name ? '' : text;
+$('#player-filter').addEventListener('change', (e) => {
+  state.player = e.target.value;
   reset();
-  render(Boolean(name));
+  render(true);
 });
 // 出場選手・チームのボタン: プレーヤーを閉じて、その選手・チームの試合を並べる
 $('#player-roster').addEventListener('click', (e) => {
@@ -620,11 +628,9 @@ $('#player-roster').addEventListener('click', (e) => {
   // 選んでいるチーム・選手と合わない絞り込みは外す（相手チームの選手を押したときに 0 件近くにならないように）
   if (btn.dataset.player) {
     state.player = state.player === btn.dataset.player ? '' : btn.dataset.player;
-    state.playerText = '';
     if (state.team && state.team !== btn.dataset.teamOf) state.team = '';
   } else {
     state.team = btn.dataset.team;
-    state.teamText = '';
     if (state.player && playerTeam.get(state.player) !== state.team) state.player = '';
   }
   player.close();

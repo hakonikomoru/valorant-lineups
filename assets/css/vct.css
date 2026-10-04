@@ -320,7 +320,7 @@ main { padding: 0 var(--gutter) 64px; }
 .segmented button + button { border-left: 1px solid var(--slate); }
 .segmented button[aria-pressed='true'] { background: var(--red); }
 
-.search {
+.select {
   padding: 6px 10px;
   font: inherit;
   font-size: 0.85rem;
@@ -328,12 +328,8 @@ main { padding: 0 var(--gutter) 64px; }
   background: var(--navy-2);
   border: 1px solid var(--slate);
   border-radius: 0;
+  max-width: 280px;
 }
-.search { width: min(240px, 100%); }
-.picker { display: flex; align-items: center; gap: 6px; }
-.picker-label { flex: none; font-size: 0.75rem; font-weight: 700; color: var(--muted); }
-.picker .search { width: 200px; }
-.search::placeholder { color: var(--muted); }
 
 .agent-pick {
   flex: none;
@@ -577,8 +573,7 @@ dialog.dialog-shim[open] {
   .map-tab-all { width: 84px; }
   .hero-desc { font-size: 0.78rem; }
   .filter-row-inline > * { flex: 1 1 100%; min-width: 0; max-width: none; }
-  .search { width: 100%; }
-  .picker .search { width: auto; flex: 1; min-width: 0; }
+  .select { width: 100%; } /* 長いチーム名の option で横にはみ出さないように */
   .player-roster { grid-template-columns: minmax(0, 1fr); }
   .segmented button { flex: 1; padding: 6px 8px; }
   .game-grid { grid-template-columns: minmax(0, 1fr); }
