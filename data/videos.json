@@ -7825,6 +7825,232 @@
     "tags": []
   },
   {
+    "id": "1epy2lDb9Eg",
+    "title": "【サンセット】【KAY/O】Aエントリー用フラッシュ定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "BVs1zVUu9Eo",
+    "title": "【ヘイブン】【フェイド】VCTで使われたヘブンから投げれるAリテイク用ホウント定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "DfPOsprmLiQ",
+    "title": "Championsでも刺さった！マーケット最強ワンウェイケージ【サンセット/サイファー/Champions Shanghai】",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "gcVpcI9UQ1A",
+    "title": "【サンセット】【KAY/O】Aメインカウンターで使えるフラッシュ定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "19zRYBclqvo",
+    "title": "【ヘイブン】【フェイド】Aリテイクで使えるホウント定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "vCjyi0sxq7U",
+    "title": "NS Ivy選手が使用！サンセットのマーケット最強ワンウェイケージ定点 #valorant #ヴァロラント #vct #champions #cypher #サイファー",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "UKy1UBRDZY4",
+    "title": "Cypher Setup in Sunset A That You Need To Learn P4",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "w4Z6gbyeJ80",
+    "title": "NEW DEADLOCK SETUP ABYSS👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "deadlock"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "NBtkxqM5Wvs",
+    "title": "Radiant Killjoy Insane Summit SETUP Clutch! 👑",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "d8MwPNFBmhQ",
+    "title": "Sunset Sova Recon Lineup for B Main with Medal",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "TpT6P1sSPYY",
+    "title": "Ascent Sova Recon Lineup for A Site Retake with Medal",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "retake"
+    ]
+  },
+  {
+    "id": "xhfj4x3_Pc8",
+    "title": "Lotus Neon Lineup for C Main with Medal",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "neon"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "FtLG-8D7wLw",
+    "title": "KC avezが使用!Sunset Fade フォウント定点 #valorant #valorantshorts #vct #fade #定点",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
