@@ -136,19 +136,22 @@ VALORANT のプロの試合（VCT）を、**公式 YouTube の VOD でマップ�
 
 | コマンド | 内容 |
 |---|---|
-| `npm run vct:fetch` | `scripts/vct/events.mjs` の大会について、vlr.gg から終了済みの試合（マップごとのスコア・ピック・構成・VOD と開始秒）を取得し `data/vct/sources/vlr/<大会ID>.json` に保存。全マップに VOD がそろった試合は次から取りに行かない（`-- --refresh` で取り直し、`-- --event 2766` で大会を指定）。取得した HTML は調査用に `.cache/vct/vlr/` にも保存（git には入れない） |
+| `npm run vct:events` | vlr.gg の VCT のページ（今年と来年の `https://www.vlr.gg/vct-<年>`）から新しい大会（地域リーグの Kickoff・Stage、Masters、Champions）を見つけて `data/vct/sources/events.json` に記録。翌シーズンの大会も手を入れずに収集が始まる |
+| `npm run vct:fetch` | `scripts/vct/events.mjs` と自動で見つけた大会について、vlr.gg から終了済みの試合（マップごとのスコア・ピック・構成・VOD と開始秒）を取得し `data/vct/sources/vlr/<大会ID>.json` に保存。全マップに VOD がそろった試合は次から取りに行かない（`-- --refresh` で取り直し、`-- --event 2766` で大会を指定）。取得した HTML は調査用に `.cache/vct/vlr/` にも保存（git には入れない） |
 | `npm run vct:logos` | 試合に出てくるチームのロゴを `assets/vct/teams/` に保存（vlr.gg の画像サーバーは他サイトからの直リンクを 403 で断るため、サイトに置いたものを表示する。保存済みは取りに行かない） |
 | `npm run vct:vods` | VOD を YouTube oEmbed で調べ、投稿チャンネル・タイトルを `data/vct/sources/vods.json` に記録（`-- --recheck` で記録済みも調べ直す） |
 | `npm run vct:merge` | 公式チャンネル（`scripts/vct/official.mjs`）の再生できる VOD があるマップだけを集め、開始秒を整えて `data/vct/matches.json` を生成 |
-| `npm run vct:build` | `vct:fetch` → `vct:logos` → `vct:vods` → `vct:merge` |
+| `npm run vct:build` | `vct:events` → `vct:fetch` → `vct:logos` → `vct:vods` → `vct:merge` |
 
 マップ・エージェント情報は定点と同じ `data/meta.json` を使います（`npm run meta`）。
 
-GitHub Actions（[.github/workflows/vct.yml](.github/workflows/vct.yml)）が毎日 6:00（日本時間）に `vct:fetch` → `vct:logos` → `vct:vods` → `vct:merge` → `test` を実行し、変更があればコミットします。
+GitHub Actions（[.github/workflows/vct.yml](.github/workflows/vct.yml)）が毎日 6:00（日本時間）に `vct:events` → `vct:fetch` → `vct:logos` → `vct:vods` → `vct:merge` → `test` を実行し、変更があればコミットします。
 
-#### 新しい大会を追加する
+#### 新しい大会
 
-<https://www.vlr.gg/vct-2026>（翌年は `vct-2027`）で大会の ID を調べ、[scripts/vct/events.mjs](scripts/vct/events.mjs) に追記して `npm run vct:build` を実行します。新しい公式チャンネルが出てきたら `npm run vct:vods` の集計に出るので、[scripts/vct/official.mjs](scripts/vct/official.mjs) に足してください。
+新しい大会は `vct:events` が自動で見つけるので、追加の作業はいりません（サイトには試合が 1 つ以上取れた大会から出ます）。名前を整えたいとき（Champions に開催地を付けるなど）は、[scripts/vct/events.mjs](scripts/vct/events.mjs) に同じ ID で書くとそちらが優先されます。地域リーグ・Masters・Champions 以外の大会（Ascension など）は自動では入れません。
+
+新しい公式チャンネルが出てきたら `npm run vct:merge` の「公式以外」に数が出るので、[scripts/vct/official.mjs](scripts/vct/official.mjs) に足してください。
 
 #### 開始秒が間違っているとき
 

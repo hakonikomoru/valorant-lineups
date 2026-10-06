@@ -15,11 +15,12 @@
     "discover": "node scripts/discover-videos.mjs",
     "channels": "node scripts/add-channel.mjs",
     "build": "npm run meta && npm run merge",
+    "vct:events": "node scripts/vct/discover-events.mjs",
     "vct:fetch": "node scripts/vct/fetch-matches.mjs",
     "vct:logos": "node scripts/vct/fetch-logos.mjs",
     "vct:vods": "node scripts/vct/check-vods.mjs",
     "vct:merge": "node scripts/vct/merge-matches.mjs",
-    "vct:build": "npm run vct:fetch && npm run vct:logos && npm run vct:vods && npm run vct:merge",
+    "vct:build": "npm run vct:events && npm run vct:fetch && npm run vct:logos && npm run vct:vods && npm run vct:merge",
     "build:site": "node scripts/build-site.mjs",
     "test": "node --test"
   },

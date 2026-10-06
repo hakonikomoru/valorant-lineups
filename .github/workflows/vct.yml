@@ -1,5 +1,5 @@
 # VCT（プロの試合）のデータの自動更新
-# - 毎日 6:00（日本時間）: 新しい試合・VOD の取得（vlr.gg） → チームロゴの保存 → 公式 VOD の確認 → data/vct/matches.json の生成 → テスト → 変更があればコミット
+# - 毎日 6:00（日本時間）: 新しい大会の検出 → 新しい試合・VOD の取得（vlr.gg） → チームロゴの保存 → 公式 VOD の確認 → data/vct/matches.json の生成 → テスト → 変更があればコミット
 # - 定点の自動更新（site.yml、4:00）とは別に動かす。同じ concurrency グループなので同時には走らない
 # - 公開は Vercel が main への push を検知して自動で行う（https://lineup-archive.vercel.app/vct）
 # - Actions タブの Run workflow から手動でも実行できる
@@ -25,6 +25,12 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 24
+
+      # 新しい大会（翌シーズンの Kickoff・Masters など）を vlr.gg の VCT のページから見つける。
+      # 失敗しても、すでにある大会の試合の取得は続ける
+      - name: 新しい大会の検出（vlr.gg）
+        run: npm run vct:events
+        continue-on-error: true
 
       - name: 試合と VOD の取得（vlr.gg）
         run: npm run vct:fetch

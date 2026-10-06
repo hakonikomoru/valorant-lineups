@@ -4,10 +4,12 @@
 // - 公式チャンネル（scripts/vct/official.mjs）の、再生できる VOD があるマップだけを載せる
 // - 1 本の動画に複数マップが入っているときは、マップごとの開始秒（vod.start）で頭出しする
 import { readdir, readFile, writeFile } from 'node:fs/promises';
-import { EVENTS } from './events.mjs';
+import { loadEvents } from './events.mjs';
 import { OFFICIAL_CHANNELS, handleOf } from './official.mjs';
 import { normalizeTimeline } from './lib/timeline.mjs';
 import { LOGO_DIR, logoFile } from './lib/logos.mjs';
+
+const EVENTS = await loadEvents();
 
 const root = new URL('../../data/vct/', import.meta.url);
 const read = async (p, fallback) => JSON.parse(await readFile(new URL(p, root), 'utf8').catch(() => JSON.stringify(fallback)));

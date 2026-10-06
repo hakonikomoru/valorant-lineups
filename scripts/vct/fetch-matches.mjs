@@ -1,7 +1,7 @@
 // vlr.gg から VCT の試合（マップごとのスコア・構成・公式 VOD とその開始時刻）を取得し、
 // data/vct/sources/vlr/<大会ID>.json に保存する。
 // 使い方: node scripts/vct/fetch-matches.mjs [--event 2766] [--refresh]
-//   --event   その大会だけ取得する（複数可）。省略時は EVENTS の全大会
+//   --event   その大会だけ取得する（複数可）。省略時は全大会（scripts/vct/events.mjs と自動で見つけた大会）
 //   --refresh 終了済みの試合もキャッシュを使わず取り直す（VOD が後から登録されることがあるため）
 //
 // - 終了済みでマップごとの VOD がそろった試合は、data/vct/sources/vlr/ に保存済みの内容を使い、次から取りに行かない
@@ -9,8 +9,10 @@
 // - vlr.gg の負荷にならないよう、同時 2 件・1 件ごとに 600ms 空ける
 // - 1 本の動画に複数マップが入っている（FULL MATCH）ときは、vlr.gg の VOD リンクの開始秒（?t=）をマップごとに記録する
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
-import { EVENTS } from './events.mjs';
+import { loadEvents } from './events.mjs';
 import { createParser, parseEventMatches } from './lib/vlr.mjs';
+
+const EVENTS = await loadEvents();
 
 const BASE = 'https://www.vlr.gg';
 const root = new URL('../../', import.meta.url);

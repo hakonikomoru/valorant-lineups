@@ -1,4 +1,6 @@
-// 収録する大会（vlr.gg の大会 ID）。新しい大会は https://www.vlr.gg/vct-2026 などで ID を調べて追記する
+// 収録する大会（vlr.gg の大会 ID）。
+// 新しい大会は scripts/vct/discover-events.mjs が https://www.vlr.gg/vct-<年> から自動で見つけて data/vct/sources/events.json に足す。
+// 名前を整えたいとき（Champions の開催地など）だけ、ここに同じ ID で書く（ここに書いたものが優先）
 // - slug: URL に使う名前（/ascent/champions-2026）
 // - name: 画面に出す名前、short: カードに出す短い名前
 // - region: americas / emea / pacific / china / international
@@ -20,3 +22,11 @@ export const EVENTS = [
   { id: 2978, slug: 'china-stage2-2026', year: 2026, region: 'china', name: 'VCT 2026 China Stage 2', short: 'China Stage 2' },
   { id: 2766, slug: 'champions-2026', year: 2026, region: 'international', name: 'VALORANT Champions 2026 Shanghai', short: 'Champions Shanghai' },
 ];
+
+// EVENTS と、自動で見つけた大会（data/vct/sources/events.json）を合わせたもの。fetch-matches.mjs・merge-matches.mjs で使う
+export async function loadEvents() {
+  const { readFile } = await import('node:fs/promises');
+  const found = JSON.parse(await readFile(new URL('../../data/vct/sources/events.json', import.meta.url), 'utf8').catch(() => '[]'));
+  const known = new Set(EVENTS.map((e) => e.id));
+  return [...EVENTS, ...found.filter((e) => !known.has(e.id)).map(({ start, ...e }) => e)];
+}
