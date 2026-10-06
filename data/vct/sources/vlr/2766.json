@@ -3796,7 +3796,10 @@
       }
      ]
     ],
-    "vod": null
+    "vod": {
+     "id": "G4qJLMntBCo",
+     "start": 69
+    }
    },
    {
     "gameId": "283164",
@@ -3864,10 +3867,13 @@
       }
      ]
     ],
-    "vod": null
+    "vod": {
+     "id": "G4qJLMntBCo",
+     "start": 3198
+    }
    }
   ],
   "fullVod": null,
-  "otherVods": 3
+  "otherVods": 1
  }
 ]
