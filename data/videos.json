@@ -8303,6 +8303,58 @@
     "tags": []
   },
   {
+    "id": "D1i7ykhu_g0",
+    "title": "Ascent Sova Double Shock Darts Lineup for B Site Line",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "ascent"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "BlTYIjqToK4",
+    "title": "RADIANT CYPHER SETUP LOTUS👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "KY-Eer_C63g",
+    "title": "RADIANT CYPHER SETUP SPLIT (GUIDE 2026)👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "split"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
