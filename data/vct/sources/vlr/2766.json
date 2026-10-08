@@ -3875,5 +3875,343 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "754732",
+  "path": "/754732/nrg-vs-t1-valorant-champions-2026-ubqf",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-10-07T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 2
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283271",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "1:13:27",
+    "players": [
+     [
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "vyse"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "raze"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ANktybjyQ4k",
+     "start": 62
+    }
+   },
+   {
+    "gameId": "283272",
+    "n": 2,
+    "map": "summit",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "48:57",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "kayo"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "cypher"
+      }
+     ],
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "sage"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "ANktybjyQ4k",
+     "start": 3635
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "754733",
+  "path": "/754733/paper-rex-vs-loud-valorant-champions-2026-ubqf",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Upper Quarterfinals",
+  "date": "2026-10-07T07:30:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 0
+   },
+   {
+    "name": "LOUD",
+    "vlr": "/team/6961/loud",
+    "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283274",
+    "n": 1,
+    "map": "split",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "55:13",
+    "players": [
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "yoru"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "viper"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "fade"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "wX7SJF9xoCM",
+     "start": 77
+    }
+   },
+   {
+    "gameId": "283275",
+    "n": 2,
+    "map": "sunset",
+    "score": [
+     13,
+     15
+    ],
+    "pick": 1,
+    "duration": "57:25",
+    "players": [
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "chamber"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "sage"
+      }
+     ],
+     [
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "sage"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "wX7SJF9xoCM",
+     "start": 2812
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
