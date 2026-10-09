@@ -8533,6 +8533,110 @@
     ]
   },
   {
+    "id": "9Wq0LIn82M0",
+    "title": "アビスの最強サイファーワイヤーセットアップ【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "SmD_x9vBshA",
+    "title": "Cypher Setup In Sunset A That You Need To Learn P6",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "WKBpoaZbKlw",
+    "title": "NRG Ethan選手が使用！サミットBドアを閉められる最強フラグメント定点 #valorant #ヴァロラント #vct #champions #kayo #ケイオー",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "kayo"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "UfO2rl3AJKU",
+    "title": "RADIANT CYPHER SETUP SUMMIT (GUIDE 2026) - PART 1👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "o8LmNnFfbxw",
+    "title": "VIT Sayonaraが使用！Haven Sova A long リコン定点",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "jOfWcscaoBw",
+    "title": "VIT Sayonaraが使用！Haven Sova A long リコン定点！ # #valorantshorts #vct #sova #vctchampions",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
@@ -16816,24 +16920,6 @@
     ]
   },
   {
-    "id": "TsWxC2o7gLg",
-    "title": "BIND Cypher SETUPS That Feel ILLEGAL!",
-    "channel": "Viceroy",
-    "lang": "en",
-    "agents": [
-      "cypher"
-    ],
-    "maps": [
-      "bind"
-    ],
-    "short": false,
-    "pro": "",
-    "creator": "",
-    "tags": [
-      "setup"
-    ]
-  },
-  {
     "id": "__tlh2CUKm0",
     "title": "【VALORANT】プロが使うサイファー最強セットアップ！ヘイヴン編2【サイファー】",
     "channel": "Okeisyon",
@@ -21152,24 +21238,6 @@
     "creator": "",
     "tags": [
       "postplant",
-      "molly"
-    ]
-  },
-  {
-    "id": "3I7T72ASzPw",
-    "title": "All Brimstone Molly Lineups on Lotus",
-    "channel": "papaBRIM",
-    "lang": "en",
-    "agents": [
-      "brimstone"
-    ],
-    "maps": [
-      "lotus"
-    ],
-    "short": false,
-    "pro": "",
-    "creator": "",
-    "tags": [
       "molly"
     ]
   },
