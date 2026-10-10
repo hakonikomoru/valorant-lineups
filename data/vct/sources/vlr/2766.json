@@ -4622,5 +4622,485 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "754739",
+  "path": "/754739/t1-vs-paper-rex-valorant-champions-2026-lr1",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-10-09T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 2
+   },
+   {
+    "name": "Paper Rex",
+    "vlr": "/team/624/paper-rex",
+    "logo": "https://owcdn.net/img/62bbeba74d5cb.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283294",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     7
+    ],
+    "pick": 0,
+    "duration": "59:09",
+    "players": [
+     [
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "vyse"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "raze"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "mbsqsNT6ClQ",
+     "start": 60
+    }
+   },
+   {
+    "gameId": "283295",
+    "n": 2,
+    "map": "ascent",
+    "score": [
+     6,
+     13
+    ],
+    "pick": 1,
+    "duration": "43:59",
+    "players": [
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "sage"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "sova"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "yoru"
+      },
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "mbsqsNT6ClQ",
+     "start": 2730
+    }
+   },
+   {
+    "gameId": "283296",
+    "n": 3,
+    "map": "summit",
+    "score": [
+     13,
+     11
+    ],
+    "pick": null,
+    "duration": "55:58",
+    "players": [
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "sage"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "Jinggg",
+       "tag": "PRX",
+       "agent": "sage"
+      },
+      {
+       "name": "d4v41",
+       "tag": "PRX",
+       "agent": "viper"
+      },
+      {
+       "name": "f0rsakeN",
+       "tag": "PRX",
+       "agent": "omen"
+      },
+      {
+       "name": "something",
+       "tag": "PRX",
+       "agent": "neon"
+      },
+      {
+       "name": "invy",
+       "tag": "PRX",
+       "agent": "fade"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "mbsqsNT6ClQ",
+     "start": 5374
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "754738",
+  "path": "/754738/100-thieves-vs-nongshim-redforce-valorant-champions-2026-lr1",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Lower Round 1",
+  "date": "2026-10-09T08:10:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "100 Thieves",
+    "vlr": "/team/120/100-thieves",
+    "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+    "score": 2
+   },
+   {
+    "name": "Nongshim RedForce",
+    "vlr": "/team/11060/nongshim-redforce",
+    "logo": "https://owcdn.net/img/6399bb707aacb.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283291",
+    "n": 1,
+    "map": "summit",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "1:01:34",
+    "players": [
+     [
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "harbor"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "sage"
+      },
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "chamber"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "fade"
+      },
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "sage"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gc23eK0xEr0",
+     "start": 58
+    }
+   },
+   {
+    "gameId": "283292",
+    "n": 2,
+    "map": "sunset",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 1,
+    "duration": "56:07",
+    "players": [
+     [
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "chamber"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "yoru"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "fade"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "cypher"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gc23eK0xEr0",
+     "start": 2612
+    }
+   },
+   {
+    "gameId": "283293",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     13,
+     1
+    ],
+    "pick": null,
+    "duration": "29:10",
+    "players": [
+     [
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "cypher"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "phoenix"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "jett"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "Francis",
+       "tag": "NS",
+       "agent": "chamber"
+      },
+      {
+       "name": "Xross",
+       "tag": "NS",
+       "agent": "sova"
+      },
+      {
+       "name": "Ivy",
+       "tag": "NS",
+       "agent": "sage"
+      },
+      {
+       "name": "Rb",
+       "tag": "NS",
+       "agent": "omen"
+      },
+      {
+       "name": "Dambi",
+       "tag": "NS",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gc23eK0xEr0",
+     "start": 6055
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
