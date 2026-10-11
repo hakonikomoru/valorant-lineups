@@ -5102,5 +5102,414 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "754735",
+  "path": "/754735/nrg-vs-loud-valorant-champions-2026-ubsf",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-10-10T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 1
+   },
+   {
+    "name": "LOUD",
+    "vlr": "/team/6961/loud",
+    "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283280",
+    "n": 1,
+    "map": "haven",
+    "score": [
+     9,
+     13
+    ],
+    "pick": 0,
+    "duration": "57:43",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "chamber"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "sova"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "viper"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "91OQEM7i78w",
+     "start": 78
+    }
+   },
+   {
+    "gameId": "283281",
+    "n": 2,
+    "map": "sunset",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "49:56",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "chamber"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "kayo"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "sage"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "sova"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "91OQEM7i78w",
+     "start": 2815
+    }
+   },
+   {
+    "gameId": "283282",
+    "n": 3,
+    "map": "summit",
+    "score": [
+     3,
+     13
+    ],
+    "pick": null,
+    "duration": "37:22",
+    "players": [
+     [
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "cypher"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "kayo"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "brimstone"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      }
+     ],
+     [
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "sage"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "fade"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "91OQEM7i78w",
+     "start": 5893
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "754734",
+  "path": "/754734/g2-esports-vs-team-vitality-valorant-champions-2026-ubsf",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Upper Semifinals",
+  "date": "2026-10-10T08:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 0
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283277",
+    "n": 1,
+    "map": "abyss",
+    "score": [
+     11,
+     13
+    ],
+    "pick": 0,
+    "duration": "1:04:40",
+    "players": [
+     [
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "harbor"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "astra"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "yoru"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "harbor"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "jett"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gorOwJphwKE",
+     "start": 73
+    }
+   },
+   {
+    "gameId": "283278",
+    "n": 2,
+    "map": "split",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 1,
+    "duration": "35:37",
+    "players": [
+     [
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "skye"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "yoru"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "gorOwJphwKE",
+     "start": 3560
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
