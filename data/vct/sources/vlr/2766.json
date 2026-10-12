@@ -5511,5 +5511,414 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "754740",
+  "path": "/754740/nrg-vs-100-thieves-valorant-champions-2026-lr2",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-10-11T05:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "NRG",
+    "vlr": "/team/1034/nrg",
+    "logo": "https://owcdn.net/img/6610f026c1a9e.png",
+    "score": 0
+   },
+   {
+    "name": "100 Thieves",
+    "vlr": "/team/120/100-thieves",
+    "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+    "score": 2
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283297",
+    "n": 1,
+    "map": "sunset",
+    "score": [
+     12,
+     14
+    ],
+    "pick": 1,
+    "duration": "1:09:45",
+    "players": [
+     [
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "chamber"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      },
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "fade"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "kayo"
+      }
+     ],
+     [
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "fade"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "phoenix"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "cypher"
+      },
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "UMIkxgmsOTA",
+     "start": 70
+    }
+   },
+   {
+    "gameId": "283298",
+    "n": 2,
+    "map": "haven",
+    "score": [
+     4,
+     13
+    ],
+    "pick": 0,
+    "duration": "35:02",
+    "players": [
+     [
+      {
+       "name": "brawk",
+       "tag": "NRG",
+       "agent": "sova"
+      },
+      {
+       "name": "Ethan",
+       "tag": "NRG",
+       "agent": "phoenix"
+      },
+      {
+       "name": "skuba",
+       "tag": "NRG",
+       "agent": "omen"
+      },
+      {
+       "name": "keiko",
+       "tag": "NRG",
+       "agent": "chamber"
+      },
+      {
+       "name": "mada",
+       "tag": "NRG",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "phoenix"
+      },
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "cypher"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "sova"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "UMIkxgmsOTA",
+     "start": 3457
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
+ },
+ {
+  "id": "754741",
+  "path": "/754741/g2-esports-vs-t1-valorant-champions-2026-lr2",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Lower Round 2",
+  "date": "2026-10-11T07:15:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo3",
+  "teams": [
+   {
+    "name": "G2 Esports",
+    "vlr": "/team/11058/g2-esports",
+    "logo": "https://owcdn.net/img/633822848a741.png",
+    "score": 2
+   },
+   {
+    "name": "T1",
+    "vlr": "/team/14/t1",
+    "logo": "https://owcdn.net/img/62fe0b8f6b084.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283300",
+    "n": 1,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 1,
+    "duration": "1:02:49",
+    "players": [
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "raze"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "skye"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "vyse"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "fade"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "viper"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2EzWX2VemjM",
+     "start": 79
+    }
+   },
+   {
+    "gameId": "283301",
+    "n": 2,
+    "map": "abyss",
+    "score": [
+     10,
+     13
+    ],
+    "pick": 0,
+    "duration": "52:01",
+    "players": [
+     [
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "harbor"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "waylay"
+      },
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "astra"
+      }
+     ],
+     [
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "yoru"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "waylay"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "harbor"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2EzWX2VemjM",
+     "start": 3249
+    }
+   },
+   {
+    "gameId": "283302",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     13,
+     6
+    ],
+    "pick": null,
+    "duration": "43:51",
+    "players": [
+     [
+      {
+       "name": "leaf",
+       "tag": "G2",
+       "agent": "vyse"
+      },
+      {
+       "name": "BABYBAY",
+       "tag": "G2",
+       "agent": "chamber"
+      },
+      {
+       "name": "valyn",
+       "tag": "G2",
+       "agent": "omen"
+      },
+      {
+       "name": "trent",
+       "tag": "G2",
+       "agent": "sova"
+      },
+      {
+       "name": "jawgemo",
+       "tag": "G2",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Meteor",
+       "tag": "T1",
+       "agent": "chamber"
+      },
+      {
+       "name": "Munchkin",
+       "tag": "T1",
+       "agent": "sage"
+      },
+      {
+       "name": "iZu",
+       "tag": "T1",
+       "agent": "sova"
+      },
+      {
+       "name": "stax",
+       "tag": "T1",
+       "agent": "omen"
+      },
+      {
+       "name": "BuZz",
+       "tag": "T1",
+       "agent": "neon"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "2EzWX2VemjM",
+     "start": 6428
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
