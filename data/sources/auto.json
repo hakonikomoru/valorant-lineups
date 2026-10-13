@@ -5101,5 +5101,34 @@
   "channel": "maxWELL Lineup-Larry",
   "lang": "en",
   "addedAt": "2026-10-11"
+ },
+ {
+  "agent": "sova",
+  "map": "abyss",
+  "youtubeId": "zszRMRM87BI",
+  "title": "Abyss Attack Sova A Main Recon Lineups by NS Xross (From Attack Spawn)",
+  "channel": "Xive",
+  "lang": "en",
+  "addedAt": "2026-10-13"
+ },
+ {
+  "agent": "sova",
+  "map": "abyss",
+  "youtubeId": "QsYwFvheF1I",
+  "title": "Abyss Attack Sova A Main Recon Lineups by NS Xross (From Attack Spawn)",
+  "channel": "Xive",
+  "lang": "en",
+  "short": true,
+  "addedAt": "2026-10-13"
+ },
+ {
+  "agent": "cypher",
+  "map": "sunset",
+  "youtubeId": "GtEf2q_DPMA",
+  "title": "Cypher Map Control Setup in Sunset That You Need To Learn",
+  "channel": "LegendZero",
+  "lang": "en",
+  "short": true,
+  "addedAt": "2026-10-13"
  }
 ]

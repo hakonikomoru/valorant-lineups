@@ -8773,6 +8773,60 @@
     "tags": []
   },
   {
+    "id": "zszRMRM87BI",
+    "title": "Abyss Attack Sova A Main Recon Lineups by NS Xross (From Attack Spawn)",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "QsYwFvheF1I",
+    "title": "Abyss Attack Sova A Main Recon Lineups by NS Xross (From Attack Spawn)",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "GtEf2q_DPMA",
+    "title": "Cypher Map Control Setup in Sunset That You Need To Learn",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
