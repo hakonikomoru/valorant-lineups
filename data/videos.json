@@ -9864,6 +9864,220 @@
     "tags": []
   },
   {
+    "id": "jjpJCZsvSU0",
+    "title": "【ワンランク上がる！】サンセットサイファー最強キモワイヤーセットアップ1戦【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "LmN-hXn3zIE",
+    "title": "【VALORANT】強いのだけ厳選！カロードの定点ホウント解説2【フェイド】",
+    "channel": "Okeisyon",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "zyTzBZsoSmg",
+    "title": "【カロード×フェイド：守り】Bサイトリテイク用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense",
+      "retake"
+    ]
+  },
+  {
+    "id": "INC5maml34g",
+    "title": "【カロード×フェイド：守り】Bサイトカウンター用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "GKnYFL83hjM",
+    "title": "【カロード×フェイド：守り】Bサイトリテイク用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense",
+      "retake"
+    ]
+  },
+  {
+    "id": "OntSZ6Ayhy8",
+    "title": "【カロード×フェイド：守り】Bサイトカウンター用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "jqcxT_i8ApA",
+    "title": "Best Cypher Setups for Bind",
+    "channel": "ItsFlameBTW",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "bOAd0ms4je0",
+    "title": "Cypher Setup in Bind A That You Need To Learn",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "a335H4vekT0",
+    "title": "RADIANT CYPHER SETUP HAVEN👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "XidptYRRCy4",
+    "title": "RADIANT CYPHER SETUP SUMMIT (GUIDE 2026) - PART 2👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "lvpbg2YShI4",
+    "title": "Bind Sova Recon Lineup for A Main Info",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "VhRIE3wG_B4",
+    "title": "Viper Lineups For Summit B Site.#viper#lineups#easy #molly #simple #summit #valorant #valorantshorts",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "molly"
+    ]
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
@@ -29692,22 +29906,6 @@
     ],
     "maps": [
       "sunset"
-    ],
-    "short": true,
-    "pro": "",
-    "creator": "",
-    "tags": []
-  },
-  {
-    "id": "RaxGyr8qGWE",
-    "title": "アビス最強キルジョイ解除遅延隠れBプラント【VALORANT／PC版／CS版／解説／ずんだもん】#valorant #valorant解説 #shorts #valorant定点",
-    "channel": "うに",
-    "lang": "ja",
-    "agents": [
-      "killjoy"
-    ],
-    "maps": [
-      "abyss"
     ],
     "short": true,
     "pro": "",
