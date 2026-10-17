@@ -6400,5 +6400,316 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "754743",
+  "path": "/754743/team-vitality-vs-100-thieves-valorant-champions-2026-lbf",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Lower Final",
+  "date": "2026-10-17T03:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 3
+   },
+   {
+    "name": "100 Thieves",
+    "vlr": "/team/120/100-thieves",
+    "logo": "https://owcdn.net/img/603c00d5c5a08.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283306",
+    "n": 1,
+    "map": "split",
+    "score": [
+     5,
+     13
+    ],
+    "pick": 0,
+    "duration": "54:56",
+    "players": [
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "yoru"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      }
+     ],
+     [
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "fade"
+      },
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "chamber"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "viper"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MZjaOtjtRlU",
+     "start": 114
+    }
+   },
+   {
+    "gameId": "283308",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "57:17",
+    "players": [
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      }
+     ],
+     [
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "viper"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "chamber"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "skye"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MZjaOtjtRlU",
+     "start": 5810
+    }
+   },
+   {
+    "gameId": "283309",
+    "n": 3,
+    "map": "ascent",
+    "score": [
+     13,
+     9
+    ],
+    "pick": 1,
+    "duration": "50:32",
+    "players": [
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "sage"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "yoru"
+      }
+     ],
+     [
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "cypher"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "sova"
+      },
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "jett"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "omen"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "phoenix"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MZjaOtjtRlU",
+     "start": 9315
+    }
+   },
+   {
+    "gameId": "286701",
+    "n": 4,
+    "map": "summit",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "50:48",
+    "players": [
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      }
+     ],
+     [
+      {
+       "name": "Timotino",
+       "tag": "100T",
+       "agent": "neon"
+      },
+      {
+       "name": "vora",
+       "tag": "100T",
+       "agent": "fade"
+      },
+      {
+       "name": "Cryocells",
+       "tag": "100T",
+       "agent": "chamber"
+      },
+      {
+       "name": "bang",
+       "tag": "100T",
+       "agent": "harbor"
+      },
+      {
+       "name": "Asuna",
+       "tag": "100T",
+       "agent": "sage"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "MZjaOtjtRlU",
+     "start": 2688
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
