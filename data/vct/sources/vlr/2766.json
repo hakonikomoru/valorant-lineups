@@ -6711,5 +6711,316 @@
   ],
   "fullVod": null,
   "otherVods": 1
+ },
+ {
+  "id": "754737",
+  "path": "/754737/loud-vs-team-vitality-valorant-champions-2026-gf",
+  "event": "Valorant Champions 2026",
+  "series": "Playoffs: Grand Final",
+  "date": "2026-10-18T02:00:00Z",
+  "patch": "13.05",
+  "bestOf": "Bo5",
+  "teams": [
+   {
+    "name": "LOUD",
+    "vlr": "/team/6961/loud",
+    "logo": "https://owcdn.net/img/62bbec8dc1b9f.png",
+    "score": 3
+   },
+   {
+    "name": "Team Vitality",
+    "vlr": "/team/2059/team-vitality",
+    "logo": "https://owcdn.net/img/6466d79e1ed40.png",
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "gameId": "283286",
+    "n": 1,
+    "map": "summit",
+    "score": [
+     13,
+     11
+    ],
+    "pick": 0,
+    "duration": "53:35",
+    "players": [
+     [
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "sage"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "fade"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      }
+     ],
+     [
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "phoenix"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "harbor"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "chamber"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QnBTE-UVpX4",
+     "start": 115
+    }
+   },
+   {
+    "gameId": "283287",
+    "n": 2,
+    "map": "lotus",
+    "score": [
+     8,
+     13
+    ],
+    "pick": 1,
+    "duration": "49:13",
+    "players": [
+     [
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "viper"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "fade"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "vyse"
+      },
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "raze"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "viper"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QnBTE-UVpX4",
+     "start": 3400
+    }
+   },
+   {
+    "gameId": "283288",
+    "n": 3,
+    "map": "sunset",
+    "score": [
+     13,
+     5
+    ],
+    "pick": 0,
+    "duration": "38:38",
+    "players": [
+     [
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "sage"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "sova"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "omen"
+      }
+     ],
+     [
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "fade"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "omen"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "kayo"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QnBTE-UVpX4",
+     "start": 6447
+    }
+   },
+   {
+    "gameId": "283289",
+    "n": 4,
+    "map": "haven",
+    "score": [
+     13,
+     10
+    ],
+    "pick": 1,
+    "duration": "53:26",
+    "players": [
+     [
+      {
+       "name": "erde",
+       "tag": "LOUD",
+       "agent": "omen"
+      },
+      {
+       "name": "DaviH",
+       "tag": "LOUD",
+       "agent": "sova"
+      },
+      {
+       "name": "tkzin",
+       "tag": "LOUD",
+       "agent": "neon"
+      },
+      {
+       "name": "Darker",
+       "tag": "LOUD",
+       "agent": "viper"
+      },
+      {
+       "name": "lukxo",
+       "tag": "LOUD",
+       "agent": "chamber"
+      }
+     ],
+     [
+      {
+       "name": "Jamppi",
+       "tag": "VIT",
+       "agent": "yoru"
+      },
+      {
+       "name": "Chronicle",
+       "tag": "VIT",
+       "agent": "neon"
+      },
+      {
+       "name": "Sayonara",
+       "tag": "VIT",
+       "agent": "sova"
+      },
+      {
+       "name": "Derke",
+       "tag": "VIT",
+       "agent": "chamber"
+      },
+      {
+       "name": "PROFEK",
+       "tag": "VIT",
+       "agent": "astra"
+      }
+     ]
+    ],
+    "vod": {
+     "id": "QnBTE-UVpX4",
+     "start": 8979
+    }
+   }
+  ],
+  "fullVod": null,
+  "otherVods": 1
  }
 ]
