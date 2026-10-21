@@ -10823,22 +10823,6 @@
     ]
   },
   {
-    "id": "rY7DLOGHZPQ",
-    "title": "Sova Teleport Mid Lineup - Bind Guide (Valorant)",
-    "channel": "Lightios",
-    "lang": "en",
-    "agents": [
-      "sova"
-    ],
-    "maps": [
-      "bind"
-    ],
-    "short": false,
-    "pro": "",
-    "creator": "",
-    "tags": []
-  },
-  {
     "id": "7M0soflneZ8",
     "title": "Sova A Lobby Lineup - Bind Guide (Valorant)",
     "channel": "Lightios",
@@ -11295,6 +11279,179 @@
     "title": "RADIANT CYPHER SETUP SUNSET A SITE👽",
     "channel": "Klixon",
     "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "0u6qWnvwOrA",
+    "title": "Gekko Post-Plant Molly Lineup for A Default on Bind",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "WKJxzfrXmdA",
+    "title": "ヨル　新カロード　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "yoru"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "l-VW6Dikq38",
+    "title": "ブリムストーン　サミット　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "0uOh0yUPEX4",
+    "title": "RADIANT CYPHER SETUP HAVEN A SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "QTHvbixwDmQ",
+    "title": "ヴァイス　新カロード　セットアップ集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "ibK7gijje10",
+    "title": "ソーヴァ　新カロード　定点集",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "TvH-Ivulbt8",
+    "title": "RADIANT CYPHER SETUP SUNSET (GUIDE 2026) - Part 2👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "X7ToTR64qWE",
+    "title": "Corrode Sova Recon Lineup for B Site",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "2Tm1ybGefO4",
+    "title": "ヴァイス　サミット　セットアップ集ver2",
+    "channel": "ガンダムMk-V",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "lgGEV7XcpIA",
+    "title": "KRX free1ngが使用！サンセット　サイファー　ミッド　ケージ、カメラ #valorant #vct #valorantshorts #cypher #cyphersetup",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
     "agents": [
       "cypher"
     ],
