@@ -12290,6 +12290,308 @@
     "tags": []
   },
   {
+    "id": "P-4pHUHNvbE",
+    "title": "【カロード×フェイド：攻め】Aヤード開幕索敵用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "rn8goTrIZhA",
+    "title": "【バインド×フェイド：守り】Bショート開幕索敵用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "gKOcuu8hg5w",
+    "title": "【カロード×フェイド：攻め】Bサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "p_-mtckA8Po",
+    "title": "FF reazy選手が使用！カロードBヘブンを綺麗に隠せる最強スモーク定点 #valorant #ヴァロラント #viper #ヴァイパー #lineups #vct",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "K2eQiw-smyU",
+    "title": "【バインド×フェイド：守り】Bショート開幕索敵用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "hI2mN61Usa4",
+    "title": "【カロード×フェイド：攻め】Bサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "58qu8Td_z44",
+    "title": "【バインド×フェイド：攻め】Bロングクリアリング用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "HOesQLfq8GY",
+    "title": "【バインド×フェイド：攻め】Bロングクリアリング用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "nN2vC-9kbrk",
+    "title": "【サンセット×フェイド：守り】Bサイトカウンター用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "u7FfjO2hlLk",
+    "title": "【サンセット×フェイド：守り】Bサイトカウンター用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "Leb7yncK9C8",
+    "title": "【バインド×フェイド：攻め】Bサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "XEahOJldOxU",
+    "title": "【バインド×フェイド：攻め】Bサイトエントリー用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "rTpIJSycFCQ",
+    "title": "A Default CORRODE Brimstone lineup #3 – Updated Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "KG-9foxV7QQ",
+    "title": "RADIANT CYPHER SETUP BIND A SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "7K1vvFN33xI",
+    "title": "Radiant Killjoy Insane Lotus SETUP Clutch! 👑",
+    "channel": "Reco",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "WHox69EMZqE",
+    "title": "RADIANT CYPHER SETUP HAVEN C SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "mo0y5k9OIYI",
+    "title": "【カロード×フェイド：攻め】Aヤード開幕索敵用ホウント定点",
+    "channel": "ホウントマスター",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
