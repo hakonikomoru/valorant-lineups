@@ -1,6 +1,6 @@
 {
-  "gameVersion": "release-13.08-shipping-20-5715960",
-  "generatedAt": "2026-10-20T22:03:21.931Z",
+  "gameVersion": "release-13.09-shipping-11-5777412",
+  "generatedAt": "2026-10-27T22:50:24.648Z",
   "agents": [
     {
       "slug": "breach",
@@ -304,12 +304,12 @@
         },
         {
           "key": "E",
-          "name": "ネビュラ / ディシペイト",
+          "name": "ネビュラ",
           "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ability2/displayicon.png"
         },
         {
           "key": "X",
-          "name": "アストラルフォーム / コズミックディバイド",
+          "name": "コズミックディバイド",
           "icon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/abilities/ultimate/displayicon.png"
         }
       ]
@@ -818,6 +818,45 @@
           "key": "X",
           "name": "スチールガーデン",
           "icon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/abilities/ultimate/displayicon.png"
+        }
+      ]
+    },
+    {
+      "slug": "hush",
+      "uuid": "ddd5a15c-4fbe-42fa-3789-11a55ca5ee04",
+      "name": "ハッシュ",
+      "nameEn": "Hush",
+      "role": "Duelist",
+      "roleName": "デュエリスト",
+      "icon": "https://media.valorant-api.com/agents/ddd5a15c-4fbe-42fa-3789-11a55ca5ee04/displayicon.png",
+      "portrait": "https://media.valorant-api.com/agents/ddd5a15c-4fbe-42fa-3789-11a55ca5ee04/fullportrait.png",
+      "gradient": [
+        "#3d2c44",
+        "#0f1923",
+        "#f47ac7",
+        "#0f1923"
+      ],
+      "releaseDate": "2026-10-27T08:00:00Z",
+      "abilities": [
+        {
+          "key": "C",
+          "name": "フロー",
+          "icon": "https://media.valorant-api.com/agents/ddd5a15c-4fbe-42fa-3789-11a55ca5ee04/abilities/grenade/displayicon.png"
+        },
+        {
+          "key": "Q",
+          "name": "フラッシュバルブ",
+          "icon": "https://media.valorant-api.com/agents/ddd5a15c-4fbe-42fa-3789-11a55ca5ee04/abilities/ability1/displayicon.png"
+        },
+        {
+          "key": "E",
+          "name": "ディスプレイスメント",
+          "icon": "https://media.valorant-api.com/agents/ddd5a15c-4fbe-42fa-3789-11a55ca5ee04/abilities/ability2/displayicon.png"
+        },
+        {
+          "key": "X",
+          "name": "サスペンション",
+          "icon": "https://media.valorant-api.com/agents/ddd5a15c-4fbe-42fa-3789-11a55ca5ee04/abilities/ultimate/displayicon.png"
         }
       ]
     },
