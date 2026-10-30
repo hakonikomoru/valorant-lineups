@@ -13137,6 +13137,438 @@
     "tags": []
   },
   {
+    "id": "BH6RZlZ91rc",
+    "title": "【バインド×フェイド：守り】Aショート開幕索敵用ホウント定点",
+    "channel": "HAUNT MASTER",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "nXAay0OGOPs",
+    "title": "【バインド×フェイド：守り】Aショート開幕索敵用ホウント定点",
+    "channel": "HAUNT MASTER",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "56lRyZU_Ol8",
+    "title": "硬直なしで箱上に乗れる！操作不要ブリンク定点【アビス/ハッシュ】",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "hush"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "SpzhxFKGD5c",
+    "title": "【サミット】【ハッシュ】Bメインプッシュセットアップを紹介！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "hush"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "sfSKzMLwhV4",
+    "title": "新エージェント ハッシュの硬直なしでアビスA箱上に乗れる操作不要ブリンク定点 #valorant #ヴァロラント #hush #ハッシュ #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "hush"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "a5T_ItS1sVU",
+    "title": "【カロード ヴァイパー】5分で分かる必須級定点集！！【Viper Lineups in Corrode】",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "RCx68yUp0E4",
+    "title": "【使わなきゃ舐めプ!?】カロードサイファー本当の最強ワイヤーセットアップ1選【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "O0wkZm2Jr9w",
+    "title": "Sova Post-Plant Shockdart Lineup for B Site on Summit",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "tdSnHF53STI",
+    "title": "【バインド】バインドで使える！ヴァイスのレーザーヴァイン定点集【ヴァイス】",
+    "channel": "JUMP ON GAMES",
+    "lang": "ja",
+    "agents": [
+      "vyse"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "WSBRlKE71ro",
+    "title": "【アビス】【ハーバー】Bサイト箱裏に入るストームサージ定点！！#valorant #vct #ヴァロラント #ずんだもん #vtuber",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "harbor"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "6_bstHqVqVA",
+    "title": "BRIMSTONE POSTPLANT LINEUP FOR A DEFAULT ON SUMMIT",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "GS2tsKNrsGE",
+    "title": "KILLJOY's POSTPLANT LINEUP FOR B DEFAULT ON BIND",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "U3S_zR3HT9o",
+    "title": "This Raze lineup breaks EVERYTHING on Corrode!",
+    "channel": "hoverboarD",
+    "lang": "en",
+    "agents": [
+      "raze"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "oNWPxjP-LlE",
+    "title": "B Default CORRODE Brimstone lineup #3 – Updated Valorant Guide",
+    "channel": "Ryvlex",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "-j3UJCepP9s",
+    "title": "RADIANT CYPHER SETUP CORRODE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "-hOrS5Wanak",
+    "title": "RADIANT CYPHER SETUP BIND SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "UbkvekfJwLA",
+    "title": "RADIANT CYPHER SETUP BIND (GUIDE 2026)👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "2TJyz0gA0Qo",
+    "title": "RADIANT CYPHER SETUP CORRODE (GUIDE 2026)👽 - PART 1",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "NAmRkZZ8krQ",
+    "title": "RADIANT CYPHER SETUP CORRODE (GUIDE 2026)👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "24PIR9rvaI4",
+    "title": "RADIANT CYPHER SETUP CORRODE B SITE👽",
+    "channel": "Klixon",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "pShFtI3S7z8",
+    "title": "Viper Lineups For Summit A Site.#viper#lineups#easy #molly #simple #summit #valorant #valorantshorts",
+    "channel": "SHUKRA",
+    "lang": "en",
+    "agents": [
+      "viper"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "9ftuESZg1wk",
+    "title": "KC avezが使用！アビス　Aメインリコン定点 #valorant #vct #valorantshorts #sova #vctchampions",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "oolxNJQ2fow",
+    "title": "TL nAtsが使用！Abyss cypher A  setup #valorant #vct #valorantshorts #cypher #cyphersetup",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "AqvYg4hjTRA",
+    "title": "TL nAtsが使用！Abyss cypher A setup",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "vrO7qrr7eOY",
+    "title": "KC avezが使用！Abyss Sova Aメインリコン定点",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
