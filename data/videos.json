@@ -14870,6 +14870,210 @@
     ]
   },
   {
+    "id": "8Vz0H9JRMTo",
+    "title": "【カロード】【ソーヴァ】Aのワイヤー切りショックダーツ定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "3hsTI9UqTHM",
+    "title": "新エージェント ハッシュ ヘイヴンAロングに入る操作不要吸い込み定点 #valorant #ヴァロラント #hush #ハッシュ #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "hush"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "d7aWDsT5teU",
+    "title": "【アビス】【サイファー】Bサイトで使えるおすすめセットアップ！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "iPTtWbNkp1Q",
+    "title": "箱裏張り付きも対応！操作不要吸い込み定点【ヘイヴン/ハッシュ】",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "hush"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "clZmlyKCg5U",
+    "title": "【サンセット】【ハッシュ】MIDフラッシュ定点！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "hush"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "xDQ-fFKo_T8",
+    "title": "【アビス】【サイファー】Aサイトで使えるおすすめセットアップ！！#valorant #vct #ヴァロラント #アセント #イモータル #ずんだもん",
+    "channel": "京VALOチャンネル",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "T2sxzuJuJIo",
+    "title": "Brim Post-Plant Molly Lineup for A Default on Abyss",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "7wfuqcA7zbM",
+    "title": "Gekko Post-Plant Molly Lineup for A Default on Haven",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "gekko"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "hCfbdFoZCwQ",
+    "title": "Cypher Insane One Way in Summit B That You Need To Learn",
+    "channel": "LegendZero",
+    "lang": "en",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "oneway"
+    ]
+  },
+  {
+    "id": "tOedGELZG8k",
+    "title": "Auro trexxが使用！Sova Haven C設置ショックボルト定点 #valorant #vct #valorantshorts #sova # #valorantclips",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "zyoe4wiWvWc",
+    "title": "Bind Sova Recon Lineup for B Site Default",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "-nukTB4iw-s",
+    "title": "Auro trexxが使用！Sova Haven C設置ショックボルト定点",
+    "channel": "VCTVALORANT定点研究ch りゅうてぃ",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
