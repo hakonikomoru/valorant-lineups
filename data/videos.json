@@ -15741,6 +15741,131 @@
     ]
   },
   {
+    "id": "77JsE-XwR7c",
+    "title": "KILLJOY's POSTPLANT LINEUP FOR C DEFAULT ON HAVEN",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "killjoy"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "_opCS5A5uHM",
+    "title": "Abyss Attack Sova A Execute Lineups by FPX coconut",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "94p8BdqUdnI",
+    "title": "超壊しづらい！カロードB攻め最強ホウント定点 #valorant #ヴァロラント #fade #フェイド #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "aMczZyJaYq4",
+    "title": "【実は万能!?】カロードサイファー最強ワイヤーセットアップ1選【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "setup"
+    ]
+  },
+  {
+    "id": "Us-VSwbFxoA",
+    "title": "Brim Post-Plant Molly Lineup for B Default on Lotus",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "OYL688QZ4s8",
+    "title": "簡単にキルが取れる!?バインドAランプのバレない最強トラップ定点 # #valorant  #ヴァロラント #veto #ヴィトー #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "veto"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "uhDIW49L8A4",
+    "title": "Abyss Attack Sova A Execute Lineups by FPX coconut",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "abyss"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
