@@ -15866,6 +15866,152 @@
     ]
   },
   {
+    "id": "CyY-EgEz65k",
+    "title": "BRIMSTONE POSTPLANT LINEUP FOR B DEFAULT ON SUMMIT",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "sTmjKNnL45U",
+    "title": "Summit Attack Fade A Split Haunt Lineup by AQ S1Mon",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "split",
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "U9vEImWFZK4",
+    "title": "【ばれてない!?】カロードサイファー最強ワンウェイケージセットアップ1選【VALORANT / ヴァロラント】【Vtuber】",
+    "channel": "T41【オーディンの人】",
+    "lang": "ja",
+    "agents": [
+      "cypher"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "oneway",
+      "setup"
+    ]
+  },
+  {
+    "id": "ary1n2VfE9A",
+    "title": "Summit Attack Fade A Split Haunt Lineup by AQ S1Mon",
+    "channel": "Xive",
+    "lang": "en",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "split",
+      "summit"
+    ],
+    "short": false,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "elpUsCT0waI",
+    "title": "VCTでも使われた！サミットB攻めで使える99％壊されない神ホウント定点  #valorant #ヴァロラント #fade #フェイド #lineups #vct",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "attack"
+    ]
+  },
+  {
+    "id": "gd-mQf6hqE4",
+    "title": "安全×速い×簡単！バインドAサイト設置後最強インセンディアリー定点 #valorant #ヴァロラント#brimstone #ブリムストーン #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant",
+      "molly"
+    ]
+  },
+  {
+    "id": "u0UbxyQ4fsU",
+    "title": "Lotus Brimstone Molly Lineup for C Site Default  #ascentgg #valorant",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "lotus"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "aUEJfXwK_OQ",
+    "title": "Corrode Best Sova Recon Lineup #valorant #ascentg",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "corrode"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
