@@ -16184,6 +16184,92 @@
     ]
   },
   {
+    "id": "BTbNeB9_QHk",
+    "title": "BRIMSTONE POSTPLANT LINEUP FOR HAVEN C DEFAULT",
+    "channel": "ItsDANYGEN - Best Lineups & Clips",
+    "lang": "en",
+    "agents": [
+      "brimstone"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "postplant"
+    ]
+  },
+  {
+    "id": "xZZ0ktGq46M",
+    "title": "高くて壊しづらい！サミットB守り開幕最強ホウント定点 #valorant #ヴァロラント #fade #フェイド #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "fade"
+    ],
+    "maps": [
+      "summit"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "defense"
+    ]
+  },
+  {
+    "id": "mAuKNX_H29E",
+    "title": "逃げ場を潰す！バインドAショート最強ホットハンド定点 #valorant #ヴァロラント #phoenix #フェニックス #lineups",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "phoenix"
+    ],
+    "maps": [
+      "bind"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": [
+      "molly"
+    ]
+  },
+  {
+    "id": "TA_izrEOXNU",
+    "title": "VCTでも使われた！サンセットB裏見ワイヤー破壊ショックボルト定点 #valorant #ヴァロラント #vct #sova #lineups #ソーヴァ",
+    "channel": "【VALORANT 定点&小技】",
+    "lang": "ja",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "sunset"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
+    "id": "Xd5zlj1Z0wA",
+    "title": "Haven Best Sova Recon Lineup for C Site #valorant #ascentgg",
+    "channel": "ProLineups",
+    "lang": "en",
+    "agents": [
+      "sova"
+    ],
+    "maps": [
+      "haven"
+    ],
+    "short": true,
+    "pro": "",
+    "creator": "",
+    "tags": []
+  },
+  {
     "id": "gFa12N_hZf4",
     "title": "設置中の敵をULTで確殺！デッドロック最強ULT定点【アセント/デッドロック】",
     "channel": "【VALORANT 定点&小技】",
@@ -16841,22 +16927,6 @@
     ],
     "maps": [
       "bind"
-    ],
-    "short": false,
-    "pro": "",
-    "creator": "",
-    "tags": []
-  },
-  {
-    "id": "TjERyk2UFtY",
-    "title": "RADIANT HARBOR VALORANT MAP GUIDE (Haven)",
-    "channel": "Ludilue",
-    "lang": "en",
-    "agents": [
-      "harbor"
-    ],
-    "maps": [
-      "haven"
     ],
     "short": false,
     "pro": "",
